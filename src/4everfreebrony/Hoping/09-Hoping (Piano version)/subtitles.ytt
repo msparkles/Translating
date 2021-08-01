@@ -1,0 +1,1262 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="4" ah="79" av="77" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="100" fc="#FEFEFE" fo="6" bo="0" /><pen id="2" sz="100" fc="#FEFEFE" fo="31" bo="0" /><pen id="3" sz="100" fc="#FEFEFE" fo="57" bo="0" /><pen id="4" sz="100" fc="#FEFEFE" fo="82" bo="0" /><pen id="5" sz="100" fc="#FEFEFE" fo="108" bo="0" /><pen id="6" sz="100" fc="#FEFEFE" fo="133" bo="0" /><pen id="7" sz="100" fc="#FEFEFE" fo="159" bo="0" /><pen id="8" sz="100" fc="#FEFEFE" fo="184" bo="0" /><pen id="9" sz="100" fc="#FEFEFE" fo="210" bo="0" /><pen id="10" sz="100" fc="#FEFEFE" fo="235" bo="0" /><pen id="11" sz="100" fc="#FEFEFE" fo="254" bo="0" /><pen id="12" sz="100" fc="#FEFEFE" fo="248" bo="0" /><pen id="13" sz="100" fc="#FEFEFE" fo="218" bo="0" /><pen id="14" sz="100" fc="#FEFEFE" fo="188" bo="0" /><pen id="15" sz="100" fc="#FEFEFE" fo="158" bo="0" /><pen id="16" sz="100" fc="#FEFEFE" fo="128" bo="0" /><pen id="17" sz="100" fc="#FEFEFE" fo="98" bo="0" /><pen id="18" sz="100" fc="#FEFEFE" fo="68" bo="0" /><pen id="19" sz="100" fc="#FEFEFE" fo="38" bo="0" /><pen id="20" sz="100" fc="#FEFEFE" fo="8" bo="0" /><pen id="21" sz="100" fc="#FEFEFE" fo="7" bo="0" /><pen id="22" sz="100" fc="#FEFEFE" fo="37" bo="0" /><pen id="23" sz="100" fc="#FEFEFE" fo="67" bo="0" /><pen id="24" sz="100" fc="#FEFEFE" fo="97" bo="0" /><pen id="25" sz="100" fc="#FEFEFE" fo="127" bo="0" /><pen id="26" sz="100" fc="#FEFEFE" fo="157" bo="0" /><pen id="27" sz="100" fc="#FEFEFE" fo="187" bo="0" /><pen id="28" sz="100" fc="#FEFEFE" fo="217" bo="0" /><pen id="29" sz="100" fc="#FEFEFE" fo="247" bo="0" /><pen id="30" sz="100" fc="#FEFEFE" fo="246" bo="0" /><pen id="31" sz="100" fc="#FEFEFE" fo="174" bo="0" /><pen id="32" sz="100" fc="#FEFEFE" fo="137" bo="0" /><pen id="33" sz="100" fc="#FEFEFE" fo="101" bo="0" /><pen id="34" sz="100" fc="#FEFEFE" fo="64" bo="0" /><pen id="35" sz="100" fc="#FEFEFE" fo="28" bo="0" /><pen id="36" sz="100" fc="#FEFEFE" fo="250" bo="0" /><pen id="37" sz="100" fc="#FEFEFE" fo="229" bo="0" /><pen id="38" sz="100" fc="#FEFEFE" fo="208" bo="0" /><pen id="39" sz="100" fc="#FEFEFE" fo="186" bo="0" /><pen id="40" sz="100" fc="#FEFEFE" fo="165" bo="0" /><pen id="41" sz="100" fc="#FEFEFE" fo="144" bo="0" /><pen id="42" sz="100" fc="#FEFEFE" fo="123" bo="0" /><pen id="43" sz="100" fc="#FEFEFE" fo="80" bo="0" /><pen id="44" sz="100" fc="#FEFEFE" fo="59" bo="0" /><pen id="45" sz="100" fc="#FEFEFE" fo="16" bo="0" /><pen id="46" sz="100" fc="#FEFEFE" fo="249" bo="0" /><pen id="47" sz="100" fc="#FEFEFE" fo="224" bo="0" /><pen id="48" sz="100" fc="#FEFEFE" fo="198" bo="0" /><pen id="49" sz="100" fc="#FEFEFE" fo="173" bo="0" /><pen id="50" sz="100" fc="#FEFEFE" fo="147" bo="0" /><pen id="51" sz="100" fc="#FEFEFE" fo="122" bo="0" /><pen id="52" sz="100" fc="#FEFEFE" fo="96" bo="0" /><pen id="53" sz="100" fc="#FEFEFE" fo="71" bo="0" /><pen id="54" sz="100" fc="#FEFEFE" fo="45" bo="0" /><pen id="55" sz="100" fc="#FEFEFE" fo="20" bo="0" /><pen id="56" sz="100" fc="#FEFEFE" fo="5" bo="0" /><pen id="57" sz="100" fc="#FEFEFE" fo="27" bo="0" /><pen id="58" sz="100" fc="#FEFEFE" fo="49" bo="0" /><pen id="59" sz="100" fc="#FEFEFE" fo="72" bo="0" /><pen id="60" sz="100" fc="#FEFEFE" fo="94" bo="0" /><pen id="61" sz="100" fc="#FEFEFE" fo="116" bo="0" /><pen id="62" sz="100" fc="#FEFEFE" fo="138" bo="0" /><pen id="63" sz="100" fc="#FEFEFE" fo="160" bo="0" /><pen id="64" sz="100" fc="#FEFEFE" fo="182" bo="0" /><pen id="65" sz="100" fc="#FEFEFE" fo="205" bo="0" /><pen id="66" sz="100" fc="#FEFEFE" fo="227" bo="0" /><pen id="67" sz="100" fc="#FEFEFE" fo="228" bo="0" /><pen id="68" sz="100" fc="#FEFEFE" fo="206" bo="0" /><pen id="69" sz="100" fc="#FEFEFE" fo="183" bo="0" /><pen id="70" sz="100" fc="#FEFEFE" fo="161" bo="0" /><pen id="71" sz="100" fc="#FEFEFE" fo="139" bo="0" /><pen id="72" sz="100" fc="#FEFEFE" fo="117" bo="0" /><pen id="73" sz="100" fc="#FEFEFE" fo="95" bo="0" /><pen id="74" sz="100" fc="#FEFEFE" fo="73" bo="0" /><pen id="75" sz="100" fc="#FEFEFE" fo="50" bo="0" /><pen id="76" sz="100" fc="#FEFEFE" fo="9" bo="0" /><pen id="77" sz="100" fc="#FEFEFE" fo="88" bo="0" /><pen id="78" sz="100" fc="#FEFEFE" fo="166" bo="0" /><pen id="79" sz="100" fc="#FEFEFE" fo="245" bo="0" /><pen id="80" sz="100" fc="#FEFEFE" fo="15" bo="0" /><pen id="81" sz="100" fc="#FEFEFE" fo="79" bo="0" /><pen id="82" sz="100" fc="#FEFEFE" fo="143" bo="0" /><pen id="83" sz="100" fc="#FEFEFE" fo="207" bo="0" /><pen id="84" sz="100" fc="#FEFEFE" fo="81" bo="0" /><pen id="85" sz="100" fc="#FEFEFE" fo="118" bo="0" /><pen id="86" sz="100" fc="#FEFEFE" fo="154" bo="0" /><pen id="87" sz="100" fc="#FEFEFE" fo="191" bo="0" /><pen id="88" sz="100" fc="#FEFEFE" fo="11" bo="0" /><pen id="89" sz="100" fc="#FEFEFE" fo="104" bo="0" /><pen id="90" sz="100" fc="#FEFEFE" fo="150" bo="0" /><pen id="91" sz="100" fc="#FEFEFE" fo="197" bo="0" /><pen id="92" sz="100" fc="#FEFEFE" fo="243" bo="0" /><pen id="93" sz="100" fc="#FEFEFE" fo="244" bo="0" /><pen id="94" sz="100" fc="#FEFEFE" fo="151" bo="0" /><pen id="95" sz="100" fc="#FEFEFE" fo="105" bo="0" /><pen id="96" sz="100" fc="#FEFEFE" fo="58" bo="0" /><pen id="97" sz="100" fc="#FEFEFE" fo="12" bo="0" /></head><body><p t="14465" d="66" p="1" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14531" d="67" p="2" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14598" d="67" p="3" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14665" d="67" p="4" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14732" d="66" p="5" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14798" d="67" p="6" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14865" d="67" p="7" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14932" d="67" p="8" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="14999" d="66" p="9" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="15065" d="100" p="10" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="15165" d="4238" p="11" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19403" d="67" p="12" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19470" d="66" p="13" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19536" d="67" p="14" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19603" d="67" p="15" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19670" d="67" p="16" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19737" d="66" p="17" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19803" d="67" p="18" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19870" d="67" p="19" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="19937" d="67" p="20" wp="1" ws="1">​拯救世界，那又如何
+​反正它又不會突然消失
+​I saved a row, even though
+​I know it won't be taken</p><p t="20604" d="67" p="21" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="20671" d="67" p="22" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="20738" d="66" p="23" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="20804" d="67" p="24" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="20871" d="67" p="25" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="20938" d="67" p="26" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="21005" d="66" p="27" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="21071" d="67" p="28" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="21138" d="67" p="29" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="21205" d="4371" p="11" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="25576" d="66" p="12" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="25642" d="67" p="13" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="25709" d="67" p="14" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="25776" d="67" p="15" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="25843" d="66" p="16" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="25909" d="67" p="17" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="25976" d="67" p="18" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="26043" d="67" p="19" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="26110" d="66" p="20" wp="1" ws="1">​我原以為你們不會走
+​我錯得如此離譜
+​I thought at first you'd never go
+​I was so mistaken</p><p t="26543" d="67" p="21" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="26610" d="67" p="22" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="26677" d="67" p="23" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="26744" d="66" p="24" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="26810" d="67" p="25" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="26877" d="67" p="26" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="26944" d="67" p="27" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="27011" d="66" p="28" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="27077" d="67" p="29" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="27144" d="4371" p="11" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="31515" d="67" p="30" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="31582" d="66" p="9" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="31648" d="67" p="31" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="31715" d="67" p="32" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="31782" d="67" p="33" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="31849" d="66" p="34" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="31915" d="101" p="35" wp="1" ws="1">​大家都說，生命總有終點
+​I was told life won't last forever</p><p t="33150" d="67" p="21" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33217" d="66" p="22" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33283" d="67" p="23" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33350" d="67" p="24" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33417" d="67" p="25" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33484" d="66" p="26" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33550" d="67" p="27" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33617" d="67" p="28" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33684" d="67" p="29" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="33751" d="2469" p="11" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36220" d="66" p="30" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36286" d="67" p="9" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36353" d="67" p="31" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36420" d="67" p="32" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36487" d="66" p="33" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36553" d="67" p="34" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36620" d="100" p="35" wp="1" ws="1">​但我已超越了那條界線
+​But I've gone beyond the marker</p><p t="36987" d="67" p="21" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37054" d="67" p="22" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37121" d="66" p="23" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37187" d="67" p="24" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37254" d="67" p="25" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37321" d="67" p="26" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37388" d="66" p="27" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37454" d="67" p="28" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37521" d="67" p="29" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="37588" d="4538" p="11" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42126" d="66" p="36" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42192" d="67" p="37" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42259" d="67" p="38" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42326" d="67" p="39" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42393" d="66" p="40" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42459" d="67" p="41" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42526" d="67" p="42" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42593" d="66" p="33" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42659" d="67" p="43" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42726" d="67" p="44" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42793" d="67" p="19" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="42860" d="100" p="45" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="43227" d="66" p="1" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43293" d="67" p="2" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43360" d="67" p="3" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43427" d="67" p="4" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43494" d="66" p="5" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43560" d="67" p="6" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43627" d="67" p="7" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43694" d="67" p="8" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43761" d="66" p="9" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43827" d="100" p="10" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="43927" d="3737" p="11" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="47664" d="67" p="46" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="47731" d="67" p="47" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="47798" d="67" p="48" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="47865" d="66" p="49" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="47931" d="67" p="50" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="47998" d="67" p="51" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="48065" d="67" p="52" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="48132" d="66" p="53" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="48198" d="67" p="54" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="48265" d="100" p="55" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="49366" d="67" p="56" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49433" d="67" p="57" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49500" d="66" p="58" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49566" d="67" p="59" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49633" d="67" p="60" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49700" d="67" p="61" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49767" d="66" p="62" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49833" d="67" p="63" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49900" d="67" p="64" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="49967" d="67" p="65" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="50034" d="66" p="66" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="50100" d="67" p="46" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="50167" d="4471" p="11" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="54638" d="67" p="36" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="54705" d="67" p="67" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="54772" d="66" p="68" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="54838" d="67" p="69" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="54905" d="67" p="70" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="54972" d="67" p="71" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="55039" d="66" p="72" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="55105" d="67" p="73" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="55172" d="67" p="74" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="55239" d="66" p="75" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="55305" d="67" p="35" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="55372" d="67" p="1" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="55639" d="67" p="76" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="55706" d="67" p="58" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="55773" d="66" p="77" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="55839" d="67" p="25" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="55906" d="67" p="78" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="55973" d="67" p="65" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="56040" d="66" p="79" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="56106" d="4571" p="11" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="60677" d="67" p="12" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="60744" d="67" p="13" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="60811" d="67" p="14" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="60878" d="66" p="15" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="60944" d="67" p="16" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="61011" d="67" p="17" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="61078" d="67" p="18" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="61145" d="66" p="19" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="61211" d="67" p="20" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="61545" d="67" p="80" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="61612" d="66" p="81" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="61678" d="67" p="82" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="61745" d="100" p="83" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="61845" d="1168" p="11" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="63013" d="67" p="30" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="63080" d="67" p="9" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="63147" d="66" p="31" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="63213" d="67" p="32" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="63280" d="67" p="33" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="63347" d="67" p="34" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="63414" d="100" p="35" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="76260" d="66" p="1" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76326" d="67" p="2" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76393" d="67" p="3" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76460" d="67" p="4" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76527" d="66" p="5" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76593" d="67" p="6" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76660" d="67" p="7" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76727" d="67" p="8" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76794" d="66" p="9" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76860" d="100" p="10" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="76960" d="4638" p="11" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="81598" d="67" p="46" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="81665" d="67" p="47" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="81732" d="67" p="48" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="81799" d="66" p="49" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="81865" d="67" p="50" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="81932" d="67" p="51" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="81999" d="67" p="52" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="82066" d="66" p="53" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="82132" d="67" p="54" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="82199" d="100" p="55" wp="1" ws="1">​如今，我已不想面對
+​生活的各種驚喜
+​Nowadays, I pick and choose
+​my circumstances</p><p t="82533" d="66" p="1" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="82599" d="67" p="2" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="82666" d="67" p="3" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="82733" d="67" p="4" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="82800" d="66" p="5" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="82866" d="67" p="6" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="82933" d="67" p="7" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="83000" d="67" p="8" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="83067" d="66" p="9" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="83133" d="100" p="10" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="83233" d="4371" p="11" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="87604" d="67" p="46" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="87671" d="67" p="47" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="87738" d="67" p="48" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="87805" d="66" p="49" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="87871" d="67" p="50" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="87938" d="67" p="51" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="88005" d="67" p="52" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="88072" d="66" p="53" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="88138" d="67" p="54" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="88205" d="100" p="55" wp="1" ws="1">​我不相信，命運有那
+​我幻想的第二次機會
+​I don't believe that fate is up
+​for giving second chances</p><p t="88305" d="67" p="21" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88372" d="67" p="22" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88439" d="66" p="23" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88505" d="67" p="24" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88572" d="67" p="25" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88639" d="66" p="26" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88705" d="67" p="27" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88772" d="67" p="28" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88839" d="67" p="29" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="88906" d="4571" p="11" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="93477" d="67" p="30" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="93544" d="66" p="9" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="93610" d="67" p="31" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="93677" d="67" p="32" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="93744" d="67" p="33" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="93811" d="66" p="34" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="93877" d="100" p="35" wp="1" ws="1">​如果我沒想錯，時間永不停歇
+​If I'm right, time goes on forever</p><p t="94912" d="66" p="76" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="94978" d="67" p="54" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="95045" d="67" p="84" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="95112" d="67" p="85" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="95179" d="66" p="86" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="95245" d="67" p="87" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="95312" d="100" p="66" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="95412" d="2336" p="11" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="97748" d="67" p="30" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="97815" d="66" p="9" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="97881" d="67" p="31" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="97948" d="67" p="32" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="98015" d="67" p="33" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="98082" d="66" p="34" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="98148" d="100" p="35" wp="1" ws="1">​感覺還有好多
+​值得回憶
+​Feels like there's so much
+​to remember</p><p t="98916" d="66" p="21" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="98982" d="67" p="22" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99049" d="67" p="23" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99116" d="67" p="24" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99183" d="66" p="25" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99249" d="67" p="26" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99316" d="67" p="27" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99383" d="67" p="28" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99450" d="66" p="29" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="99516" d="4705" p="11" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104221" d="67" p="36" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104288" d="66" p="37" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104354" d="67" p="38" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104421" d="67" p="39" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104488" d="67" p="40" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104555" d="66" p="41" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104621" d="67" p="42" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104688" d="67" p="33" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104755" d="67" p="43" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104822" d="66" p="44" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104888" d="67" p="19" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="104955" d="134" p="45" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="105089" d="66" p="1" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105155" d="67" p="2" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105222" d="67" p="3" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105289" d="66" p="4" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105355" d="67" p="5" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105422" d="67" p="6" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105489" d="67" p="7" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105556" d="66" p="8" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105622" d="67" p="9" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105689" d="100" p="10" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="105789" d="3604" p="11" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109393" d="67" p="46" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109460" d="66" p="47" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109526" d="67" p="48" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109593" d="67" p="49" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109660" d="66" p="50" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109726" d="67" p="51" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109793" d="67" p="52" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109860" d="67" p="53" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109927" d="66" p="54" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="109993" d="101" p="55" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="111128" d="67" p="56" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111195" d="66" p="57" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111261" d="67" p="58" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111328" d="67" p="59" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111395" d="67" p="60" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111462" d="66" p="61" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111528" d="67" p="62" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111595" d="67" p="63" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111662" d="66" p="64" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111728" d="67" p="65" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111795" d="67" p="66" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111862" d="67" p="46" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="111929" d="4070" p="11" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="115999" d="67" p="36" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116066" d="67" p="67" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116133" d="67" p="68" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116200" d="66" p="69" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116266" d="67" p="70" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116333" d="67" p="71" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116400" d="67" p="72" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116467" d="66" p="73" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116533" d="67" p="74" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116600" d="67" p="75" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116667" d="66" p="35" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="116733" d="67" p="1" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="117468" d="66" p="76" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="117534" d="67" p="58" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="117601" d="67" p="77" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="117668" d="66" p="25" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="117734" d="67" p="78" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="117801" d="67" p="65" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="117868" d="67" p="79" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="117935" d="4237" p="11" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122172" d="67" p="12" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122239" d="67" p="13" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122306" d="66" p="14" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122372" d="67" p="15" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122439" d="67" p="16" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122506" d="67" p="17" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122573" d="66" p="18" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122639" d="67" p="19" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="122706" d="67" p="20" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="123540" d="67" p="88" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="123607" d="67" p="3" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="123674" d="66" p="89" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="123740" d="67" p="90" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="123807" d="67" p="91" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="123874" d="67" p="92" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="123941" d="1034" p="11" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="124975" d="67" p="93" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="125042" d="67" p="48" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="125109" d="66" p="94" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="125175" d="67" p="95" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="125242" d="67" p="96" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="125309" d="66" p="97" wp="1" ws="1">​所以，我...
+​So, here's to...</p><p t="125375" d="67" p="88" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="125442" d="67" p="3" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="125509" d="67" p="89" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="125576" d="66" p="90" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="125642" d="67" p="91" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="125709" d="67" p="92" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="125776" d="5272" p="11" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="131048" d="67" p="93" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="131115" d="66" p="48" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="131181" d="67" p="94" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="131248" d="67" p="95" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="131315" d="66" p="96" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="131381" d="67" p="97" wp="1" ws="1">​...緊握著渺小的希望
+​緊跟著時間的腳步
+​...holding on to a little faith
+​keeping up with the present day</p><p t="131448" d="67" p="88" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="131515" d="67" p="3" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="131582" d="66" p="89" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="131648" d="67" p="90" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="131715" d="67" p="91" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="131782" d="67" p="92" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="131849" d="2202" p="11" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134051" d="67" p="30" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134118" d="66" p="9" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134184" d="67" p="31" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134251" d="67" p="32" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134318" d="66" p="33" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134384" d="67" p="34" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134451" d="100" p="35" wp="1" ws="1">​好好珍惜
+​我的這些朋友們
+​standing well with
+​the friends I made</p><p t="134651" d="67" p="88" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="134718" d="67" p="3" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="134785" d="67" p="89" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="134852" d="66" p="90" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="134918" d="67" p="91" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="134985" d="67" p="92" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="135052" d="3136" p="11" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="138188" d="67" p="93" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="138255" d="67" p="48" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="138322" d="66" p="94" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="138388" d="67" p="95" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="138455" d="67" p="96" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="138522" d="67" p="97" wp="1" ws="1">​同時確保
+​我不會就此迷路
+​and making sure
+​that I don't lose my way</p><p t="139256" d="67" p="21" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139323" d="66" p="22" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139389" d="67" p="23" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139456" d="67" p="24" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139523" d="67" p="25" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139590" d="66" p="26" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139656" d="67" p="27" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139723" d="67" p="28" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139790" d="67" p="29" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="139857" d="4104" p="11" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="143961" d="66" p="36" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144027" d="67" p="37" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144094" d="67" p="38" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144161" d="67" p="39" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144228" d="66" p="40" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144294" d="67" p="41" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144361" d="67" p="42" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144428" d="67" p="33" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144495" d="66" p="43" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144561" d="67" p="44" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144628" d="67" p="19" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="144695" d="100" p="45" wp="1" ws="1">​他會怎麼做？
+​會有何感受？
+​What's one to do?
+​How's one to feel?</p><p t="145496" d="66" p="1" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="145562" d="67" p="2" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="145629" d="67" p="3" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="145696" d="66" p="4" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="145762" d="67" p="5" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="145829" d="67" p="6" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="145896" d="67" p="7" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="145963" d="66" p="8" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="146029" d="67" p="9" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="146096" d="100" p="10" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="146196" d="3637" p="11" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="149833" d="67" p="46" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="149900" d="67" p="47" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="149967" d="66" p="48" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="150033" d="67" p="49" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="150100" d="67" p="50" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="150167" d="67" p="51" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="150234" d="66" p="52" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="150300" d="67" p="53" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="150367" d="67" p="54" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="150434" d="100" p="55" wp="1" ws="1">​又何去何從
+​當他沒法打開心胸？
+​Where's one to go
+​when their heart won't open?</p><p t="151635" d="67" p="56" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="151702" d="66" p="57" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="151768" d="67" p="58" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="151835" d="67" p="59" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="151902" d="67" p="60" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="151969" d="66" p="61" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="152035" d="67" p="62" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="152102" d="67" p="63" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="152169" d="67" p="64" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="152236" d="66" p="65" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="152302" d="67" p="66" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="152369" d="67" p="46" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="152436" d="4071" p="11" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156507" d="66" p="36" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156573" d="67" p="67" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156640" d="67" p="68" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156707" d="66" p="69" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156773" d="67" p="70" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156840" d="67" p="71" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156907" d="67" p="72" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="156974" d="66" p="73" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="157040" d="67" p="74" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="157107" d="67" p="75" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="157174" d="67" p="35" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="157241" d="66" p="1" wp="1" ws="1">​遠在天邊
+​卻唾手可及
+​So far away
+​Yet so nearby</p><p t="157908" d="67" p="76" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="157975" d="66" p="58" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="158041" d="67" p="77" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="158108" d="67" p="25" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="158175" d="67" p="78" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="158242" d="66" p="65" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="158308" d="67" p="79" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="158375" d="3971" p="11" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162346" d="66" p="12" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162412" d="67" p="13" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162479" d="67" p="14" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162546" d="67" p="15" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162613" d="66" p="16" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162679" d="67" p="17" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162746" d="67" p="18" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162813" d="67" p="19" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="162880" d="66" p="20" wp="1" ws="1">​彷彿誰還在看著
+​我的一舉一動
+​Feels as if someone's still
+​watching over me</p><p t="163680" d="67" p="80" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="163747" d="67" p="81" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="163814" d="67" p="82" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="163881" d="100" p="83" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="163981" d="1201" p="11" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="165182" d="67" p="30" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="165249" d="66" p="9" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="165315" d="67" p="31" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="165382" d="67" p="32" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="165449" d="67" p="33" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="165516" d="66" p="34" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p><p t="165582" d="100" p="35" wp="1" ws="1">​所以，我希望
+​So, here's to hoping</p></body></timedtext>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.95" height="10" viewBox="0 0 7.95 10">
+  <defs>
+    <style>
+      .a {
+        fill: url(#a);
+      }
+
+      .b {
+        fill: url(#b);
+      }
+
+      .c {
+        fill: #f07178;
+      }
+
+      .d {
+        fill: #fc8289;
+      }
+
+      .e {
+        fill: url(#c);
+      }
+
+      .f {
+        opacity: 0.3;
+        isolation: isolate;
+        fill: url(#d);
+      }
+    </style>
+    <linearGradient id="a" x1="6.91" y1="10.61" x2="9.74" y2="10.22" gradientTransform="matrix(1, 0, 0, -1, 0, 18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff6533"/>
+      <stop offset="0.16" stop-color="#ff5633"/>
+      <stop offset="0.43" stop-color="#ff4333"/>
+      <stop offset="0.71" stop-color="#ff3733"/>
+      <stop offset="1" stop-color="#f33"/>
+    </linearGradient>
+    <linearGradient id="b" x1="6.3" y1="11.17" x2="11.88" y2="8.66" gradientTransform="matrix(1, 0, 0, -1, 0, 18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ac4142"/>
+      <stop offset="1" stop-color="#d14748"/>
+    </linearGradient>
+    <linearGradient id="c" x1="6.97" y1="10.78" x2="8.09" y2="10.3" gradientTransform="matrix(1, 0, 0, -1, 0, 18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4bf75"/>
+      <stop offset="1" stop-color="#fb8840"/>
+    </linearGradient>
+    <linearGradient id="d" x1="8.28" y1="14.68" x2="6.67" y2="3.58" gradientTransform="matrix(1, 0, 0, -1, 0, 18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.01"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="a" d="M12,5.29a3.2,3.2,0,0,0-.44-1.62c-.75-.74-2.38-.91-2.78,0A1.5,1.5,0,0,0,9.91,5.56c.62-.11-.11-1.47-.11-1.47.95,1.71.73,1.19-1,2.76S5.36,11.76,5.11,11.9l0,0h6.71a.15.15,0,0,0,.14-.23L10.17,8.35a.15.15,0,0,1,.06-.2A3.27,3.27,0,0,0,12,5.29Z" transform="translate(-4 -2)"/>
+    <path class="b" d="M12,5.29a3.2,3.2,0,0,0-.44-1.62c-.75-.74-2.38-.91-2.78,0A1.5,1.5,0,0,0,9.91,5.56c.62-.11-.11-1.47-.11-1.47.95,1.71.73,1.19-1,2.76S5.36,11.76,5.11,11.9l0,0h6.71a.15.15,0,0,0,.14-.23L10.17,8.35a.15.15,0,0,1,.06-.2A3.27,3.27,0,0,0,12,5.29Z" transform="translate(-4 -2)"/>
+    <path class="c" d="M5.11,11.9c.25-.14,2-3.47,3.71-5.05s1.93-1,1-2.77c0,0-3.62,4.89-4.93,7.31" transform="translate(-4 -2)"/>
+    <path class="d" d="M5.61,7.52C8.06,3.19,8.38,2.75,9.66,2.75a2.35,2.35,0,0,1,1.78.81A3.47,3.47,0,0,0,8.58,2H4.43a.16.16,0,0,0-.16.15v8.07A24.82,24.82,0,0,1,5.61,7.52Z" transform="translate(-4 -2)"/>
+    <path class="e" d="M8.82,6.85C7.11,8.43,5.36,11.76,5.11,11.9a.8.8,0,0,1-.92-.09c-.24-.26-.61-.68,1.42-4.29C8.06,3.19,8.38,2.75,9.66,2.75a2.35,2.35,0,0,1,1.78.81l.07.11c-.75-.74-2.38-.91-2.78,0A1.5,1.5,0,0,0,9.91,5.56c.62-.11-.11-1.48-.11-1.48.95,1.72.73,1.19-1,2.77Z" transform="translate(-4 -2)"/>
+    <path class="f" d="M5.81,7.71C8.26,3.38,8.58,2.94,9.86,2.94a2.36,2.36,0,0,1,1.52.56,2.34,2.34,0,0,0-1.72-.75c-1.28,0-1.6.44-4,4.77-2,3.61-1.66,4-1.42,4.29l.12.1c-.21-.3-.31-1,1.5-4.2Z" transform="translate(-4 -2)"/>
+  </g>
+</svg>

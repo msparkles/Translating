@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="1" ah="50" av="0" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="0" fc="#A0AAB4" fo="0" bo="0" /><pen id="2" fs="2" sz="100" fc="#FFCDFD" fo="15" bo="0" et="4" ec="#000000" /><pen id="3" fs="2" sz="100" fc="#FFCDFD" fo="15" bo="0" et="3" ec="#000000" /><pen id="4" fs="2" sz="100" fc="#FFCDFD" fo="79" bo="0" et="4" ec="#000000" /><pen id="5" fs="2" sz="100" fc="#FFCDFD" fo="79" bo="0" et="3" ec="#000000" /><pen id="6" fs="2" sz="100" fc="#FFCDFD" fo="143" bo="0" et="4" ec="#000000" /><pen id="7" fs="2" sz="100" fc="#FFCDFD" fo="143" bo="0" et="3" ec="#000000" /><pen id="8" fs="2" sz="100" fc="#FFCDFD" fo="207" bo="0" et="4" ec="#000000" /><pen id="9" fs="2" sz="100" fc="#FFCDFD" fo="207" bo="0" et="3" ec="#000000" /><pen id="10" fs="2" sz="100" fc="#FFCDFD" fo="254" bo="0" et="4" ec="#000000" /><pen id="11" fs="2" sz="100" fc="#FFCDFD" fo="254" bo="0" et="3" ec="#000000" /><pen id="12" fs="2" sz="100" fc="#FFCDFD" fo="240" bo="0" et="4" ec="#000000" /><pen id="13" fs="2" sz="100" fc="#FFCDFD" fo="240" bo="0" et="3" ec="#000000" /><pen id="14" fs="2" sz="100" fc="#FFCDFD" fo="176" bo="0" et="4" ec="#000000" /><pen id="15" fs="2" sz="100" fc="#FFCDFD" fo="176" bo="0" et="3" ec="#000000" /><pen id="16" fs="2" sz="100" fc="#FFCDFD" fo="112" bo="0" et="4" ec="#000000" /><pen id="17" fs="2" sz="100" fc="#FFCDFD" fo="112" bo="0" et="3" ec="#000000" /><pen id="18" fs="2" sz="100" fc="#FFCDFD" fo="48" bo="0" et="4" ec="#000000" /><pen id="19" fs="2" sz="100" fc="#FFCDFD" fo="48" bo="0" et="3" ec="#000000" /><pen id="20" fs="2" sz="100" fc="#FFCDFD" fo="253" bo="0" et="4" ec="#000000" /><pen id="21" fs="2" sz="100" fc="#FFCDFD" fo="253" bo="0" et="3" ec="#000000" /><pen id="22" fs="2" sz="100" fc="#FFCDFD" fo="245" bo="0" et="4" ec="#000000" /><pen id="23" fs="2" sz="100" fc="#FFCDFD" fo="245" bo="0" et="3" ec="#000000" /><pen id="24" fs="2" sz="100" fc="#FFCDFD" fo="236" bo="0" et="4" ec="#000000" /><pen id="25" fs="2" sz="100" fc="#FFCDFD" fo="236" bo="0" et="3" ec="#000000" /><pen id="26" fs="2" sz="100" fc="#FFCDFD" fo="227" bo="0" et="4" ec="#000000" /><pen id="27" fs="2" sz="100" fc="#FFCDFD" fo="227" bo="0" et="3" ec="#000000" /><pen id="28" fs="2" sz="100" fc="#FFCDFD" fo="219" bo="0" et="4" ec="#000000" /><pen id="29" fs="2" sz="100" fc="#FFCDFD" fo="219" bo="0" et="3" ec="#000000" /><pen id="30" fs="2" sz="100" fc="#FFCDFD" fo="210" bo="0" et="4" ec="#000000" /><pen id="31" fs="2" sz="100" fc="#FFCDFD" fo="210" bo="0" et="3" ec="#000000" /><pen id="32" fs="2" sz="100" fc="#FFCDFD" fo="201" bo="0" et="4" ec="#000000" /><pen id="33" fs="2" sz="100" fc="#FFCDFD" fo="201" bo="0" et="3" ec="#000000" /><pen id="34" fs="2" sz="100" fc="#FFCDFD" fo="193" bo="0" et="4" ec="#000000" /><pen id="35" fs="2" sz="100" fc="#FFCDFD" fo="193" bo="0" et="3" ec="#000000" /><pen id="36" fs="2" sz="100" fc="#FFCDFD" fo="184" bo="0" et="4" ec="#000000" /><pen id="37" fs="2" sz="100" fc="#FFCDFD" fo="184" bo="0" et="3" ec="#000000" /><pen id="38" fs="2" sz="100" fc="#FFCDFD" fo="167" bo="0" et="4" ec="#000000" /><pen id="39" fs="2" sz="100" fc="#FFCDFD" fo="167" bo="0" et="3" ec="#000000" /><pen id="40" fs="2" sz="100" fc="#FFCDFD" fo="158" bo="0" et="4" ec="#000000" /><pen id="41" fs="2" sz="100" fc="#FFCDFD" fo="158" bo="0" et="3" ec="#000000" /><pen id="42" fs="2" sz="100" fc="#FFCDFD" fo="150" bo="0" et="4" ec="#000000" /><pen id="43" fs="2" sz="100" fc="#FFCDFD" fo="150" bo="0" et="3" ec="#000000" /><pen id="44" fs="2" sz="100" fc="#FFCDFD" fo="141" bo="0" et="4" ec="#000000" /><pen id="45" fs="2" sz="100" fc="#FFCDFD" fo="141" bo="0" et="3" ec="#000000" /><pen id="46" fs="2" sz="100" fc="#FFCDFD" fo="132" bo="0" et="4" ec="#000000" /><pen id="47" fs="2" sz="100" fc="#FFCDFD" fo="132" bo="0" et="3" ec="#000000" /><pen id="48" fs="2" sz="100" fc="#FFCDFD" fo="124" bo="0" et="4" ec="#000000" /><pen id="49" fs="2" sz="100" fc="#FFCDFD" fo="124" bo="0" et="3" ec="#000000" /><pen id="50" fs="2" sz="100" fc="#FFCDFD" fo="115" bo="0" et="4" ec="#000000" /><pen id="51" fs="2" sz="100" fc="#FFCDFD" fo="115" bo="0" et="3" ec="#000000" /><pen id="52" fs="2" sz="100" fc="#FFCDFD" fo="106" bo="0" et="4" ec="#000000" /><pen id="53" fs="2" sz="100" fc="#FFCDFD" fo="106" bo="0" et="3" ec="#000000" /><pen id="54" fs="2" sz="100" fc="#FFCDFD" fo="98" bo="0" et="4" ec="#000000" /><pen id="55" fs="2" sz="100" fc="#FFCDFD" fo="98" bo="0" et="3" ec="#000000" /><pen id="56" fs="2" sz="100" fc="#FFCDFD" fo="89" bo="0" et="4" ec="#000000" /><pen id="57" fs="2" sz="100" fc="#FFCDFD" fo="89" bo="0" et="3" ec="#000000" /><pen id="58" fs="2" sz="100" fc="#FFCDFD" fo="80" bo="0" et="4" ec="#000000" /><pen id="59" fs="2" sz="100" fc="#FFCDFD" fo="80" bo="0" et="3" ec="#000000" /><pen id="60" fs="2" sz="100" fc="#FFCDFD" fo="72" bo="0" et="4" ec="#000000" /><pen id="61" fs="2" sz="100" fc="#FFCDFD" fo="72" bo="0" et="3" ec="#000000" /><pen id="62" fs="2" sz="100" fc="#FFCDFD" fo="63" bo="0" et="4" ec="#000000" /><pen id="63" fs="2" sz="100" fc="#FFCDFD" fo="63" bo="0" et="3" ec="#000000" /><pen id="64" fs="2" sz="100" fc="#FFCDFD" fo="55" bo="0" et="4" ec="#000000" /><pen id="65" fs="2" sz="100" fc="#FFCDFD" fo="55" bo="0" et="3" ec="#000000" /><pen id="66" fs="2" sz="100" fc="#FFCDFD" fo="46" bo="0" et="4" ec="#000000" /><pen id="67" fs="2" sz="100" fc="#FFCDFD" fo="46" bo="0" et="3" ec="#000000" /><pen id="68" fs="2" sz="100" fc="#FFCDFD" fo="37" bo="0" et="4" ec="#000000" /><pen id="69" fs="2" sz="100" fc="#FFCDFD" fo="37" bo="0" et="3" ec="#000000" /><pen id="70" fs="2" sz="100" fc="#FFCDFD" fo="29" bo="0" et="4" ec="#000000" /><pen id="71" fs="2" sz="100" fc="#FFCDFD" fo="29" bo="0" et="3" ec="#000000" /><pen id="72" fs="2" sz="100" fc="#FFCDFD" fo="20" bo="0" et="4" ec="#000000" /><pen id="73" fs="2" sz="100" fc="#FFCDFD" fo="20" bo="0" et="3" ec="#000000" /><pen id="74" fs="2" sz="100" fc="#FFCDFD" fo="11" bo="0" et="4" ec="#000000" /><pen id="75" fs="2" sz="100" fc="#FFCDFD" fo="11" bo="0" et="3" ec="#000000" /><pen id="76" fs="2" sz="100" fc="#FFCDFD" fo="3" bo="0" et="4" ec="#000000" /><pen id="77" fs="2" sz="100" fc="#FFCDFD" fo="3" bo="0" et="3" ec="#000000" /></head><body><p t="10227" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="2">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10227" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="3">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10294" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="4">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10294" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="5">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10361" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="6">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10361" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="7">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10427" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="8">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10427" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="9">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10527" d="6574" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="10">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="10527" d="6574" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="11">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17101" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="12">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17101" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="13">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17167" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="14">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17167" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="15">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17234" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="16">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17234" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="17">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17301" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="18">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17301" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="19">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="17735" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="2">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="17735" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="3">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="17801" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="4">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="17801" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="5">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="17868" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="6">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="17868" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="7">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="17935" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="8">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="17935" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="9">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="18035" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="10">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="18035" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="11">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="12">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="13">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24475" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="14">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24475" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="15">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24541" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="16">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24541" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="17">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24608" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="18">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="24608" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="19">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="25409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="2">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="3">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25476" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="4">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25476" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="5">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25542" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="6">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25542" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="7">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25609" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="8">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25609" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="9">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25709" d="6674" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="10">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="25709" d="6674" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="11">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32383" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="12">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32383" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="13">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32449" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="14">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32449" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="15">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32516" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="16">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32516" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="17">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32583" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="18">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="32583" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="19">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="33017" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="2">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33017" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="3">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33083" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="4">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33083" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="5">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33150" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="6">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33150" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="7">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33217" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="8">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33217" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="9">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33317" d="6139" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="10">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="33317" d="6139" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="11">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39456" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="12">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39456" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="13">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39523" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="14">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39523" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="15">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39590" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="16">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39590" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="17">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39656" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="18">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39656" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="19">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="39957" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="2">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="39957" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="3">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40024" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="4">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40024" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="5">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40090" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="6">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40090" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="7">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40157" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="8">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40157" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="9">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40257" d="4805" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="10">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="40257" d="4805" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="11">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45062" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="12">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45062" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="13">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45129" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="14">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45129" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="15">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="16">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="17">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45262" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="18">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45262" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​絕非尋常，以現今來講；​ ​</s><s p="1">​
+​</s><s p="19">​ ​It is seldom seen in this world of now;​ ​</s><s p="1">​</s></p><p t="45596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="2">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="3">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="4">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="5">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="6">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="7">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45796" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="8">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45796" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="9">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45896" d="4938" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="10">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="45896" d="4938" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="11">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="50834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="12">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="50834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="13">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="50901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="14">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="50901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="15">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="50968" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="16">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="50968" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="17">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="51035" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="18">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="51035" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​備受景仰，世間都一樣。​ ​</s><s p="1">​
+​</s><s p="19">​ ​it is welcome, universe and out.​ ​</s><s p="1">​</s></p><p t="51335" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="2">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51335" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="3">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51402" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="4">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51402" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="5">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51468" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="6">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51468" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="7">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51535" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="8">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51535" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="9">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51635" d="4705" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="10">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="51635" d="4705" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="11">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56340" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="12">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56340" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="13">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56407" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="14">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56407" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="15">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="16">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="17">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56540" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="18">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="56540" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​沒有陪伴，汝得隻身行；​ ​</s><s p="1">​
+​</s><s p="19">​ ​It is seen, only from eyes of thine;​ ​</s><s p="1">​</s></p><p t="57007" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="2">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57007" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="3">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57074" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="4">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57074" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="5">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57141" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="6">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57141" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="7">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57207" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="8">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57207" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="9">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57307" d="4772" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="10">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="57307" d="4772" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="11">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="12">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="13">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62146" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="14">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62146" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="15">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62212" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="16">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62212" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="17">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62279" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="18">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="62279" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​沒有代價？一切盡是命。​ ​</s><s p="1">​
+​</s><s p="19">​ ​is it free? 'Tis only by invite.​ ​</s><s p="1">​</s></p><p t="63347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="2">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="3">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63414" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="4">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63414" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="5">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="6">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="7">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63547" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="8">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63547" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="9">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63647" d="6407" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="10">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="63647" d="6407" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="11">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70054" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="12">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70054" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="13">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70120" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="14">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70120" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="15">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70187" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="16">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70187" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="17">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70254" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="18">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70254" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="19">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="70687" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="2">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70687" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="3">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="4">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="5">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70821" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="6">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70821" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="7">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70888" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="8">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70888" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="9">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70988" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="10">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="70988" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="11">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77361" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="12">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77361" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="13">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77428" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="14">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77428" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="15">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77494" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="16">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77494" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="17">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77561" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="18">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="77561" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="19">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="78362" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="2">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78362" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="3">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78429" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="4">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78429" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="5">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78495" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="6">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78495" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="7">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78562" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="8">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78562" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="9">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78662" d="6673" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="10">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="78662" d="6673" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="11">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85335" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="12">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85335" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="13">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85402" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="14">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85402" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="15">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85469" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="16">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85469" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="17">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85536" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="18">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85536" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="19">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="85936" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="2">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="85936" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="3">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86003" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="4">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86003" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="5">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86070" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="6">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86070" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="7">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86136" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="8">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86136" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="9">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86236" d="6173" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="10">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="86236" d="6173" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="11">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="12">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="13">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="14">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="15">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92543" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="16">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92543" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="17">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92609" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="18">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="92609" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="19">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="93277" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="2">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93277" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="3">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="4">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="5">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="6">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="7">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93477" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="8">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93477" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="9">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93577" d="2836" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="10">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="93577" d="2836" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="11">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96413" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="12">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96413" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="13">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="14">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="15">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96547" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="16">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96547" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="17">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96613" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="18">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96613" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="19">​ ​To witness being erased.​ ​</s><s p="1">​</s></p><p t="96713" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="2">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="96713" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="3">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="96780" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="4">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="96780" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="5">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="96847" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="6">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="96847" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="7">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="96914" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="8">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="96914" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="9">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="97014" d="4938" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="10">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="97014" d="4938" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="11">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="101952" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="12">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="101952" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="13">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="102019" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="14">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="102019" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="15">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="102086" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="16">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="102086" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="17">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="102152" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="18">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="102152" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​如此沉重，迫切想看透未來，​ ​</s><s p="1">​
+​</s><s p="19">​ ​It is ponderous, willing to know my fate,​ ​</s><s p="1">​</s></p><p t="102519" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="2">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102519" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="3">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102586" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="4">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102586" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="5">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102653" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="6">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102653" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="7">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102719" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="8">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102719" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="9">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102820" d="4871" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="10">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="102820" d="4871" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="11">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107691" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="12">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107691" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="13">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="14">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="15">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107825" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="16">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107825" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="17">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107891" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="18">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="107891" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​如此漫長，早已等得不耐煩。​ ​</s><s p="1">​
+​</s><s p="19">​ ​in its longest lingering while to wait.​ ​</s><s p="1">​</s></p><p t="108058" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="2">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108058" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="3">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108125" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="4">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108125" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="5">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108192" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="6">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108192" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="7">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108258" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="8">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108258" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="9">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108358" d="4739" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="10">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="108358" d="4739" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="11">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113097" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="12">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113097" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="13">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113163" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="14">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113163" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="15">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113230" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="16">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113230" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="17">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113297" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="18">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113297" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我能看到，記憶被翻來覆去，​ ​</s><s p="1">​
+​</s><s p="19">​ ​I can see, memory taken tolls,​ ​</s><s p="1">​</s></p><p t="113797" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="2">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="113797" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="3">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="113864" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="4">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="113864" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="5">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="113931" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="113931" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="113997" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="8">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="113997" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="9">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="114098" d="4604" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="10">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="114098" d="4604" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="11">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118702" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="12">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118702" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="13">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118769" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="14">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118769" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="15">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118836" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="16">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118836" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="17">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118902" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="18">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="118902" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我還需要，時間來接受離去。​ ​</s><s p="1">​
+​</s><s p="19">​ ​I'm not ready, ready to let them go.​ ​</s><s p="1">​</s></p><p t="120037" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="2">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120037" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="3">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120104" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="4">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120104" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="5">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120170" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="6">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120170" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="7">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120237" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="8">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120237" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="9">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120337" d="6573" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="10">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="120337" d="6573" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="11">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="126910" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="12">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="126910" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="13">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="126977" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="14">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="126977" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="15">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="127044" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="16">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="127044" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="17">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="127111" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="18">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="127111" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="19">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="127578" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="2">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127578" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="3">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127644" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="4">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127644" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="5">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="6">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="7">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127778" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="8">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127778" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="9">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127878" d="6340" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="10">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="127878" d="6340" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="11">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134218" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="12">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134218" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="13">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="14">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="15">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="16">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="17">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134418" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="18">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="134418" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="19">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="135219" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="2">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135219" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="3">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135285" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="4">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135285" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="5">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="6">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="7">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135419" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="8">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135419" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="9">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135519" d="6673" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="10">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="135519" d="6673" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="11">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="12">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="13">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142259" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="14">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142259" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="15">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142326" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="16">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142326" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="17">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142392" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="18">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142392" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​終生難忘，焚膏繼晷的每夜；​ ​</s><s p="1">​
+​</s><s p="19">​ ​Not one forgets, spent nights of chasing days;​ ​</s><s p="1">​</s></p><p t="142826" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="2">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="142826" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="3">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="142893" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="4">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="142893" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="5">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="142960" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="6">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="142960" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="7">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="143026" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="8">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="143026" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="9">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="143127" d="6139" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="10">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="143127" d="6139" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="11">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="12">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="13">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149333" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="14">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149333" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="15">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149399" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="16">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149399" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="17">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149466" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="18">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="149466" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​兩眼闔上，所見已灰飛煙滅。​ ​</s><s p="1">​
+​</s><s p="19">​ ​eternal rest, to witness being erased.​ ​</s><s p="1">​</s></p><p t="186370" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="2">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186370" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="3">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186436" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="4">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186436" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="5">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186503" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="6">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186503" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="7">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186570" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="8">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186570" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="9">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186670" d="6573" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="10">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="186670" d="6573" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="11">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193243" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="12">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193243" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="13">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193310" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="14">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193310" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="15">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193377" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="16">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193377" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="17">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193443" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="18">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193443" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​回憶過往，生命的必經之途；​ ​</s><s p="1">​
+​</s><s p="19">​ ​Remembrance, part of every life;​ ​</s><s p="1">​</s></p><p t="193877" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="2">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="193877" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="3">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="193944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="4">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="193944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="5">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="194011" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="6">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="194011" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="7">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="194077" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="8">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="194077" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="9">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="194178" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="10">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="194178" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="11">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200551" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="12">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200551" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="13">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200617" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="14">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200617" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="15">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200684" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="16">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200684" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="17">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200751" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="18">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="200751" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​無數悔恨，時間如河水流淌。​ ​</s><s p="1">​
+​</s><s p="19">​ ​num'rous regrets, the art of passing time.​ ​</s><s p="1">​</s></p><p t="201218" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="2">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201218" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="3">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201285" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="4">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201285" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="5">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="6">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="7">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201418" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="8">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201418" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="9">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201518" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="10">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="201518" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="11">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203787" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="20">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203787" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="21">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203854" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="22">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203854" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="23">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203921" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="24">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203921" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="25">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203987" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="26">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="203987" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="27">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204054" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="28">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204054" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="29">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204121" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="30">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="30">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204121" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="31">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="31">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204188" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="32">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="32">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204188" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="33">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="33">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204254" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="34">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="34">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204254" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="35">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="35">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204321" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="36">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="36">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204321" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="37">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="37">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204388" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="14">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204388" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="15">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204454" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="38">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204454" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="39">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204521" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="40">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204521" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="41">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204588" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="42">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="42">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204588" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="43">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="43">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204655" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="44">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="44">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204655" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="45">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="45">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204721" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="46">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="46">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204721" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="47">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="47">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204788" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="48">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204788" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="49">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204855" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="50">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204855" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="51">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204922" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="52">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="52">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204922" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="53">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="53">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204988" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="54">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="54">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="204988" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="55">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="55">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205055" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="56">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="56">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205055" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="57">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="57">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205122" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="58">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="58">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205122" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="59">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="59">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205189" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="60">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205189" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="61">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205255" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="62">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205255" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="63">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205322" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="64">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205322" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="65">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205389" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="66">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205389" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="67">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205455" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="68">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205455" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="69">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205522" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="70">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205522" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="71">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205589" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="72">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205589" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="73">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205656" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="74">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205656" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="75">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205722" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="76">​ ​The art of passing time...​ ​</s><s p="1">​</s></p><p t="205722" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​時間如河水流淌...​ ​</s><s p="1">​
+​</s><s p="77">​ ​The art of passing time...​ ​</s><s p="1">​</s></p></body></timedtext>

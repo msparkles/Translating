@@ -1,0 +1,1033 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="7" ah="50" av="100" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="0" fc="#A0AAB4" fo="0" bo="0" /><pen id="2" sz="100" fc="#84BCFF" fo="25" bo="0" et="4" ec="#000000" /><pen id="3" sz="100" fc="#84BCFF" fo="25" bo="0" et="3" ec="#000000" /><pen id="4" sz="100" fc="#84BCFF" fo="127" bo="0" et="4" ec="#000000" /><pen id="5" sz="100" fc="#84BCFF" fo="127" bo="0" et="3" ec="#000000" /><pen id="6" sz="100" fc="#84BCFF" fo="229" bo="0" et="4" ec="#000000" /><pen id="7" sz="100" fc="#84BCFF" fo="229" bo="0" et="3" ec="#000000" /><pen id="8" sz="100" fc="#84BCFF" fo="254" bo="0" et="4" ec="#000000" /><pen id="9" sz="100" fc="#84BCFF" fo="254" bo="0" et="3" ec="#000000" /><pen id="10" sz="100" fc="#84BCFF" fo="230" bo="0" et="4" ec="#000000" /><pen id="11" sz="100" fc="#84BCFF" fo="230" bo="0" et="3" ec="#000000" /><pen id="12" sz="100" fc="#84BCFF" fo="128" bo="0" et="4" ec="#000000" /><pen id="13" sz="100" fc="#84BCFF" fo="128" bo="0" et="3" ec="#000000" /><pen id="14" sz="100" fc="#84BCFF" fo="26" bo="0" et="4" ec="#000000" /><pen id="15" sz="100" fc="#84BCFF" fo="26" bo="0" et="3" ec="#000000" /><pen id="16" sz="100" fc="#84BCFF" fo="18" bo="0" et="4" ec="#000000" /><pen id="17" sz="100" fc="#84BCFF" fo="18" bo="0" et="3" ec="#000000" /><pen id="18" sz="100" fc="#84BCFF" fo="95" bo="0" et="4" ec="#000000" /><pen id="19" sz="100" fc="#84BCFF" fo="95" bo="0" et="3" ec="#000000" /><pen id="20" sz="100" fc="#84BCFF" fo="171" bo="0" et="4" ec="#000000" /><pen id="21" sz="100" fc="#84BCFF" fo="171" bo="0" et="3" ec="#000000" /><pen id="22" sz="100" fc="#84BCFF" fo="191" bo="0" et="4" ec="#000000" /><pen id="23" sz="100" fc="#84BCFF" fo="191" bo="0" et="3" ec="#000000" /><pen id="24" sz="100" fc="#84BCFF" fo="172" bo="0" et="4" ec="#000000" /><pen id="25" sz="100" fc="#84BCFF" fo="172" bo="0" et="3" ec="#000000" /><pen id="26" sz="100" fc="#84BCFF" fo="19" bo="0" et="4" ec="#000000" /><pen id="27" sz="100" fc="#84BCFF" fo="19" bo="0" et="3" ec="#000000" /><pen id="28" sz="100" fc="#84BCFF" fo="251" bo="0" et="4" ec="#000000" /><pen id="29" sz="100" fc="#84BCFF" fo="251" bo="0" et="3" ec="#000000" /><pen id="30" sz="100" fc="#84BCFF" fo="234" bo="0" et="4" ec="#000000" /><pen id="31" sz="100" fc="#84BCFF" fo="234" bo="0" et="3" ec="#000000" /><pen id="32" sz="100" fc="#84BCFF" fo="216" bo="0" et="4" ec="#000000" /><pen id="33" sz="100" fc="#84BCFF" fo="216" bo="0" et="3" ec="#000000" /><pen id="34" sz="100" fc="#84BCFF" fo="198" bo="0" et="4" ec="#000000" /><pen id="35" sz="100" fc="#84BCFF" fo="198" bo="0" et="3" ec="#000000" /><pen id="36" sz="100" fc="#84BCFF" fo="181" bo="0" et="4" ec="#000000" /><pen id="37" sz="100" fc="#84BCFF" fo="181" bo="0" et="3" ec="#000000" /><pen id="38" sz="100" fc="#84BCFF" fo="163" bo="0" et="4" ec="#000000" /><pen id="39" sz="100" fc="#84BCFF" fo="163" bo="0" et="3" ec="#000000" /><pen id="40" sz="100" fc="#84BCFF" fo="146" bo="0" et="4" ec="#000000" /><pen id="41" sz="100" fc="#84BCFF" fo="146" bo="0" et="3" ec="#000000" /><pen id="42" sz="100" fc="#84BCFF" fo="110" bo="0" et="4" ec="#000000" /><pen id="43" sz="100" fc="#84BCFF" fo="110" bo="0" et="3" ec="#000000" /><pen id="44" sz="100" fc="#84BCFF" fo="93" bo="0" et="4" ec="#000000" /><pen id="45" sz="100" fc="#84BCFF" fo="93" bo="0" et="3" ec="#000000" /><pen id="46" sz="100" fc="#84BCFF" fo="75" bo="0" et="4" ec="#000000" /><pen id="47" sz="100" fc="#84BCFF" fo="75" bo="0" et="3" ec="#000000" /><pen id="48" sz="100" fc="#84BCFF" fo="58" bo="0" et="4" ec="#000000" /><pen id="49" sz="100" fc="#84BCFF" fo="58" bo="0" et="3" ec="#000000" /><pen id="50" sz="100" fc="#84BCFF" fo="40" bo="0" et="4" ec="#000000" /><pen id="51" sz="100" fc="#84BCFF" fo="40" bo="0" et="3" ec="#000000" /><pen id="52" sz="100" fc="#84BCFF" fo="22" bo="0" et="4" ec="#000000" /><pen id="53" sz="100" fc="#84BCFF" fo="22" bo="0" et="3" ec="#000000" /><pen id="54" sz="100" fc="#84BCFF" fo="5" bo="0" et="4" ec="#000000" /><pen id="55" sz="100" fc="#84BCFF" fo="5" bo="0" et="3" ec="#000000" /></head><body><p t="43227" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="2">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="43227" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="3">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="43293" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="4">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="43293" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="5">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="43360" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="6">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="43360" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="7">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="43427" d="2202" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="8">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="43427" d="2202" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="9">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="45629" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="10">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="45629" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="11">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="45696" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="12">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="45696" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="13">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="45763" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="14">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="45763" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你看到我從天上飛過​ ​</s><s p="1">​
+​</s><s p="15">​ ​You see me soaring through the sky​ ​</s><s p="1">​</s></p><p t="45896" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="2">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="45896" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="3">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="45963" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="4">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="45963" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="5">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="46030" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="6">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="46030" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="7">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="46096" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="8">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="46096" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="9">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="48365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="10">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="48365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="11">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="48432" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="12">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="48432" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="13">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="48499" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="14">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="48499" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我看到你從地上走過​ ​</s><s p="1">​
+​</s><s p="15">​ ​I see you below as you walk on by​ ​</s><s p="1">​</s></p><p t="48565" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="2">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="48565" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="3">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="48632" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="4">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="48632" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="5">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="48699" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="6">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="48699" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="7">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="48766" d="2068" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="8">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="48766" d="2068" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="9">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="50834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="10">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="50834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="11">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="50901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="12">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="50901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="13">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="50968" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="14">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="50968" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我只要十秒就能清光雲層​ ​</s><s p="1">​
+​</s><s p="15">​ ​I could clear the sky in 10 seconds flat​ ​</s><s p="1">​</s></p><p t="51035" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="2">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="51035" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="3">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="51101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="4">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="51101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="5">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="51168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="6">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="51168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="7">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="51235" d="834" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="8">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="51235" d="834" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="9">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="52069" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="10">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="52069" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="11">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="52136" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="12">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="52136" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="13">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="52202" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="14">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="52202" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​厲不厲害​ ​</s><s p="1">​
+​</s><s p="15">​ ​Well, how about that,​ ​</s><s p="1">​</s></p><p t="52269" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="2">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="52269" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="3">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="52336" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="4">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="52336" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="5">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="52403" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="6">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="52403" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="7">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="52469" d="935" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="8">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="52469" d="935" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="9">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="53404" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="10">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="53404" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="11">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="53470" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="12">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="53470" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="13">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="53537" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="14">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="53537" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​厲不厲害？​ ​</s><s p="1">​
+​</s><s p="15">​ ​well, how about that?​ ​</s><s p="1">​</s></p><p t="53804" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="2">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="53804" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="3">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="53871" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="4">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="53871" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="5">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="53937" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="6">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="53937" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="7">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="54004" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="8">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="54004" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="9">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="56306" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="10">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="56306" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="11">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="56373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="12">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="56373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="13">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="56440" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="14">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="56440" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我可以坐在雲上好好放鬆​ ​</s><s p="1">​
+​</s><s p="15">​ ​I could be sitting here on a cloud,​ ​</s><s p="1">​</s></p><p t="56507" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="2">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="56507" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="3">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="56573" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="4">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="56573" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="5">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="56640" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="6">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="56640" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="7">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="56707" d="2502" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="8">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="56707" d="2502" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="9">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="59209" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="10">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="59209" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="11">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="59276" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="12">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="59276" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="13">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="59343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="14">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="59343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​看著太陽緩緩下山​ ​</s><s p="1">​
+​</s><s p="15">​ ​watching the sun as it starts to go down​ ​</s><s p="1">​</s></p><p t="59410" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="2">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="59410" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="3">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="59476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="4">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="59476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="5">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="59543" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="6">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="59543" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="7">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="59610" d="1234" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="8">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="59610" d="1234" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="9">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="60844" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="10">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="60844" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="11">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="60911" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="12">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="60911" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="13">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="60978" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="14">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="60978" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​現在只缺一個人​ ​</s><s p="1">​
+​</s><s p="15">​ ​The only thing missing​ ​</s><s p="1">​</s></p><p t="61045" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="2">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="61045" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="3">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="61111" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="4">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="61111" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="5">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="61178" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="6">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="61178" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="7">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="61245" d="2102" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="8">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="61245" d="2102" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="9">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="63347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="10">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="63347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="11">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="63414" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="12">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="63414" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="13">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="63480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="14">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="63480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​那就是你​ ​</s><s p="1">​
+​</s><s p="15">​ ​is you by my side​ ​</s><s p="1">​</s></p><p t="64515" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="64515" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="64581" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="64581" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="64648" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="64648" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="64715" d="2336" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="64715" d="2336" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="67051" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="67051" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="67117" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="67117" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="67184" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="67184" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="67251" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="67251" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="67317" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="67317" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="67384" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="67384" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="67451" d="2502" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="67451" d="2502" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="69953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="69953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="70020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="70020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="70087" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="70087" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="70154" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="70154" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="70220" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="70220" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="70287" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="70287" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="70354" d="2102" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="70354" d="2102" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="72456" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="72456" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="72523" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="72523" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="72589" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="72589" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="72656" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="72656" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="72723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="72723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="72790" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="72790" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="72856" d="5739" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="72856" d="5739" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="78595" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="78595" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="78662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="78662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="78729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="78729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="78796" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="78796" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="78862" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="78862" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="78929" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="78929" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="78996" d="3670" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="78996" d="3670" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="82666" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="82666" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="82733" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="82733" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="82800" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="82800" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="86036" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="2">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="86036" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="3">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="86103" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="4">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="86103" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="5">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="86170" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="6">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="86170" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="7">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="86236" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="8">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="86236" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="9">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="89506" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="10">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="89506" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="11">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="89573" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="12">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="89573" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="13">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="89640" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="14">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="89640" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="15">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="90407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="2">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="90407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="3">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="90474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="4">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="90474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="5">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="90541" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="6">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="90541" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="7">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="90607" d="3070" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="8">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="90607" d="3070" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="9">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="93677" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="10">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="93677" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="11">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="93744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="12">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="93744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="13">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="93811" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="14">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="93811" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="15">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="93911" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="93911" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="93977" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="93977" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94044" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94044" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94111" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94111" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94912" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94912" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94978" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="94978" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95045" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95045" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95112" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95112" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95179" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95179" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95245" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95245" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95312" d="1301" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="95312" d="1301" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="96613" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="96613" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="96680" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="96680" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="96747" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="96747" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="96814" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="2">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="96814" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="3">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="96880" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="4">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="96880" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="5">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="96947" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="6">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="96947" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="7">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="97014" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="8">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="97014" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="9">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="100451" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="10">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="100451" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="11">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="100517" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="12">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="100517" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="13">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="100584" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="14">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="100584" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="15">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="100918" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="2">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="100918" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="3">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="100984" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="4">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="100984" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="5">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="101051" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="6">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="101051" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="7">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="101118" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="8">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="101118" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="9">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="103554" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="10">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="103554" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="11">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="103620" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="12">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="103620" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="13">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="103687" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="14">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="103687" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="15">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="103754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="2">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="103754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="3">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="103821" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="4">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="103821" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="5">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="103887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="6">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="103887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="7">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="103954" d="5339" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="8">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="103954" d="5339" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="9">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="109293" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="10">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="109293" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="11">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="109359" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="12">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="109359" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="13">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="109426" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="14">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="109426" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="15">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="110694" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="110694" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="110761" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="110761" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="110828" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="110828" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="110894" d="4838" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="110894" d="4838" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="115732" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="115732" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="115799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="115799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="115866" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="115866" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="118035" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="2">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="118035" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="3">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="118102" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="4">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="118102" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="5">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="118168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="6">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="118168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="7">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="118235" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="8">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="118235" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="9">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="120304" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="10">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="120304" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="11">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="120370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="12">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="120370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="13">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="120437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="14">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="120437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​太陽高掛，可卻下了雨​ ​</s><s p="1">​
+​</s><s p="15">​ ​The sun shines bright, yet the rain pours on​ ​</s><s p="1">​</s></p><p t="120504" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="2">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="120504" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="3">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="120571" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="4">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="120571" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="5">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="120637" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="6">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="120637" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="7">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="120704" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="8">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="120704" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="9">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="123073" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="10">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="123073" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="11">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="123140" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="12">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="123140" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="13">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="123207" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="14">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="123207" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​彩虹一下來一下又離開​ ​</s><s p="1">​
+​</s><s p="15">​ ​Rainbows here one minute and then they're gone​ ​</s><s p="1">​</s></p><p t="123307" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="2">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="123307" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="3">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="123373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="4">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="123373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="5">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="123440" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="6">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="123440" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="7">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="123507" d="2169" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="8">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="123507" d="2169" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="9">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="125676" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="10">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="125676" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="11">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="125742" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="12">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="125742" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="13">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="125809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="14">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="125809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​他們讓我想起了你​ ​</s><s p="1">​
+​</s><s p="15">​ ​They remind me of me and you​ ​</s><s p="1">​</s></p><p t="125876" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="2">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="125876" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="3">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="125943" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="4">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="125943" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="5">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="6">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="7">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126076" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="8">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126076" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="9">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126877" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="10">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126877" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="11">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126944" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="12">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="126944" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="13">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="127010" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="14">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="127010" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你做了什麼？​ ​</s><s p="1">​
+​</s><s p="15">​ ​What did you do?​ ​</s><s p="1">​</s></p><p t="127077" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="2">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="127077" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="3">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="127144" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="4">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="127144" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="5">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="127211" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="6">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="127211" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="7">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="127277" d="1001" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="8">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="127277" d="1001" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="9">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="128278" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="10">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="128278" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="11">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="128345" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="12">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="128345" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="13">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="128412" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="14">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="128412" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我做了什麼？​ ​</s><s p="1">​
+​</s><s p="15">​ ​What did I do?​ ​</s><s p="1">​</s></p><p t="128479" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="128479" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="128545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="128545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="128612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="128612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="128679" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="128679" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="131048" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="131048" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="131115" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="131115" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="131181" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="131181" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你雙眼裡的決心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Determination in those eyes​ ​</s><s p="1">​</s></p><p t="131248" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="2">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="131248" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="3">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="131315" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="4">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="131315" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="5">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="131381" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="6">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="131381" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="7">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="131448" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="8">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="131448" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="9">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="133750" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="10">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="133750" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="11">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="133817" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="12">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="133817" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="13">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="133884" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="14">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="133884" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​他們去哪了？已經消失了嗎？​ ​</s><s p="1">​
+​</s><s p="15">​ ​Where has it gone? Has it said goodbye?​ ​</s><s p="1">​</s></p><p t="133951" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="2">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="133951" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="3">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="134017" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="4">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="134017" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="5">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="134084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="6">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="134084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="7">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="134151" d="1201" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="8">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="134151" d="1201" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="9">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="135352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="10">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="135352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="11">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="135419" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="12">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="135419" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="13">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="135486" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="14">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="135486" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​時間過得好快​ ​</s><s p="1">​
+​</s><s p="15">​ ​A lot has happened​ ​</s><s p="1">​</s></p><p t="135686" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="2">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="135686" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="3">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="135752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="4">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="135752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="5">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="135819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="6">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="135819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="7">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="135886" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="8">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="135886" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="9">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="138155" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="10">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="138155" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="11">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="138222" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="12">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="138222" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="13">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="138288" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="14">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="138288" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​可是我會陪著你​ ​</s><s p="1">​
+​</s><s p="15">​ ​but I'll stay by your side​ ​</s><s p="1">​</s></p><p t="139089" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="139089" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="139156" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="139156" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="139223" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="139223" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="139289" d="2303" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="139289" d="2303" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="141592" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="141592" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="141658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="141658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="141725" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="141725" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​給我來些自信心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me a smidge of confidence​ ​</s><s p="1">​</s></p><p t="141792" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="141792" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="141859" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="141859" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="141925" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="141925" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="141992" d="2536" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="141992" d="2536" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="144528" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="144528" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="144595" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="144595" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="144661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="144661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​給我來點有意義的話​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me a speck of something that makes sense​ ​</s><s p="1">​</s></p><p t="144728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="144728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="144795" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="144795" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="144862" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="144862" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="144928" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="144928" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="146997" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="146997" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="147064" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="147064" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="147131" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="147131" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​讓我來給你依靠​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me an idea of dependency​ ​</s><s p="1">​</s></p><p t="147197" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="147197" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="147264" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="147264" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="147331" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="147331" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="147397" d="5773" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="147397" d="5773" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="153170" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="153170" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="153237" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="153237" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="153303" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="153303" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​讓我來展現忠誠心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Give me a dash of loyalty​ ​</s><s p="1">​</s></p><p t="153370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="153370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="153437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="153437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="153504" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="153504" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="153570" d="3671" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="153570" d="3671" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="157241" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="157241" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="157307" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="157307" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="157374" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="157374" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​忠誠心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Loyalty​ ​</s><s p="1">​</s></p><p t="160811" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="2">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="160811" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="3">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="160878" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="4">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="160878" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="5">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="160944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="6">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="160944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="7">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="161011" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="8">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="161011" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="9">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="164281" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="10">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="164281" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="11">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="164348" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="12">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="164348" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="13">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="164414" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="14">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="164414" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="15">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="165149" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="2">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="165149" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="3">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="165215" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="4">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="165215" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="5">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="165282" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="6">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="165282" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="7">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="165349" d="3103" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="8">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="165349" d="3103" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="9">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="168452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="10">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="168452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="11">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="168519" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="12">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="168519" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="13">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="168585" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="14">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="168585" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="15">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="168685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="168685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="168752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="168752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="168819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="168819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="168886" d="800" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="168886" d="800" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169686" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169686" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169753" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169753" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169820" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169820" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169887" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169887" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="169953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="170020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="170020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="170087" d="1268" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="170087" d="1268" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="171355" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="171355" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="171421" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="171421" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="171488" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="171488" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="171555" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="2">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="171555" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="3">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="171622" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="4">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="171622" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="5">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="171688" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="6">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="171688" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="7">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="171755" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="8">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="171755" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="9">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="175192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="10">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="175192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="11">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="175259" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="12">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="175259" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="13">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="175325" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="14">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="175325" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="15">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="175692" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="2">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="175692" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="3">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="175759" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="4">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="175759" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="5">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="175826" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="6">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="175826" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="7">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="175893" d="2435" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="8">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="175893" d="2435" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="9">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="178328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="10">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="178328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="11">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="178395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="12">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="178395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="13">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="178462" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="14">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="178462" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="15">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="178529" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="2">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="178529" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="3">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="178595" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="4">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="178595" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="5">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="178662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="6">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="178662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="7">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="178729" d="3136" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="8">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="178729" d="3136" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="9">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="181865" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="10">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="181865" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="11">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="181932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="12">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="181932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="13">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="181999" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="14">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="181999" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="15">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="182199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="2">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="182199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="3">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="182266" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="4">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="182266" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="5">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="182332" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="6">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="182332" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="7">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="182399" d="2770" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="8">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="182399" d="2770" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="9">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="185169" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="10">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="185169" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="11">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="185235" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="12">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="185235" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="13">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="185302" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="14">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="185302" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我們在一起時間就會靜止​ ​</s><s p="1">​
+​</s><s p="15">​ ​Time stands still when you're with me​ ​</s><s p="1">​</s></p><p t="187137" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="2">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="187137" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="3">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="187204" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="4">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="187204" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="5">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="187271" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="6">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="187271" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="7">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="187337" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="8">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="187337" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="9">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="189706" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="10">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="189706" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="11">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="189773" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="12">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="189773" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="13">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="189840" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="14">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="189840" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我要怎麼讓你看清​ ​</s><s p="1">​
+​</s><s p="15">​ ​How can I make you see?​ ​</s><s p="1">​</s></p><p t="191708" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="2">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="191708" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="3">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="191775" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="4">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="191775" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="5">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="191842" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="6">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="191842" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="7">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="191909" d="3570" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="8">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="191909" d="3570" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="9">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="195479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="10">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="195479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="11">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="195546" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="12">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="195546" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="13">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="195612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="14">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="195612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你的白目讓我想發狂​ ​</s><s p="1">​
+​</s><s p="15">​ ​Your crazy antics make me want to scream​ ​</s><s p="1">​</s></p><p t="197047" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="2">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="197047" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="3">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="197114" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="4">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="197114" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="5">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="197181" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="6">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="197181" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="7">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="197247" d="4838" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="8">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="197247" d="4838" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="9">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="202085" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="10">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="202085" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="11">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="202152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="12">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="202152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="13">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="202219" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="14">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="202219" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​吼你名字吼到喉嚨爛掉​ ​</s><s p="1">​
+​</s><s p="15">​ ​your name so loud till my throat starts to bleed​ ​</s><s p="1">​</s></p><p t="202319" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="2">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="202319" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="3">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="202386" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="4">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="202386" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="5">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="202452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="6">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="202452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="7">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="202519" d="3470" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="8">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="202519" d="3470" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="9">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="205989" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="10">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="205989" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="11">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="206056" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="12">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="206056" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="13">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="206123" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="14">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="206123" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​爛掉​ ​</s><s p="1">​
+​</s><s p="15">​ ​to bleed​ ​</s><s p="1">​</s></p><p t="270153" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="16">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="270153" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="17">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="270220" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="18">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="270220" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="19">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="270287" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="20">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="270287" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="21">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="270354" d="4404" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="22">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="270354" d="4404" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="23">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="274758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="24">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="274758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="25">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="274825" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="18">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="274825" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="19">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="274891" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="26">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="274891" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="27">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="276727" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="16">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="276727" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="17">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="276793" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="18">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="276793" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="19">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="276860" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="20">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="276860" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="21">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="276927" d="4237" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="22">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="276927" d="4237" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="23">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="281164" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="24">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="281164" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="25">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="281231" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="18">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="281231" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="19">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="281298" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="26">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="281298" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​總是感覺​ ​</s><s p="1">​
+​</s><s p="27">​ ​the feeling in my heart​ ​</s><s p="1">​</s></p><p t="281365" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="16">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="281365" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="17">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="281431" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="18">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="281431" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="19">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="281498" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="20">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="281498" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="21">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="281565" d="4004" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="22">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="281565" d="4004" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="23">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="285569" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="24">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="285569" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="25">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="285636" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="18">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="285636" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="19">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="285702" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="26">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="285702" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="27">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="285769" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="16">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="285769" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="17">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="285836" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="18">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="285836" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="19">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="285902" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="20">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="285902" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="21">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="285969" d="5005" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="22">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="285969" d="5005" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="23">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="290974" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="24">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="290974" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="25">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="291041" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="18">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="291041" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="19">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="291108" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="26">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="291108" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="27">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="291174" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="2">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="291174" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="3">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="291241" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="4">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="291241" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="5">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="291308" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="6">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="291308" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="7">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="291375" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="8">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="291375" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="9">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="294645" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="10">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="294645" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="11">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="294711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="12">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="294711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="13">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="294778" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="14">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="294778" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="15">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="295712" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="2">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="295712" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="3">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="295779" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="4">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="295779" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="5">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="295846" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="6">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="295846" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="7">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="295912" d="3304" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="8">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="295912" d="3304" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="9">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="299216" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="10">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="299216" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="11">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="299283" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="12">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="299283" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="13">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="299349" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="14">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="299349" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="15">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="302185" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="2">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="302185" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="3">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="302252" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="4">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="302252" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="5">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="302319" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="6">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="302319" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="7">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="302386" d="3837" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="8">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="302386" d="3837" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="9">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="306223" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="10">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="306223" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="11">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="306290" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="12">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="306290" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="13">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="306356" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="14">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="306356" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="15">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="306423" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="2">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="306423" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="3">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="306490" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="4">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="306490" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="5">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="306556" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="6">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="306556" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="7">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="306623" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="8">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="306623" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="9">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="308692" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="10">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="308692" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="11">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="308759" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="12">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="308759" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="13">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="308825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="14">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="308825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="15">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="309126" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="2">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="309126" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="3">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="309192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="4">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="309192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="5">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="309259" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="6">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="309259" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="7">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="309326" d="2903" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="8">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="309326" d="2903" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="9">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="312229" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="10">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="312229" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="11">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="312296" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="12">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="312296" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="13">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="312362" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="14">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="312362" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="15">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="312729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="2">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="312729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="3">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="312796" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="4">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="312796" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="5">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="312863" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="6">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="312863" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="7">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="312929" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="8">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="312929" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="9">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="316199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="10">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="316199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="11">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="316266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="12">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="316266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="13">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="316333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="14">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="316333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="15">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="317067" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="2">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="317067" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="3">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="317134" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="4">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="317134" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="5">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="317200" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="6">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="317200" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="7">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="317267" d="3103" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="8">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="317267" d="3103" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="9">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="320370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="10">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="320370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="11">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="320437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="12">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="320437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="13">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="320504" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="14">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="320504" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="15">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="320604" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="320604" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="320671" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="320671" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="320737" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="320737" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="320804" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="320804" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321605" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321605" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321672" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321672" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321738" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321738" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321805" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321805" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321872" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321872" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321938" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="321938" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="322005" d="1268" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="322005" d="1268" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="323273" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="323273" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="323340" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="323340" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="323407" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="323407" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="323473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="2">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="323473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="3">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="323540" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="4">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="323540" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="5">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="323607" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="6">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="323607" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="7">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="323674" d="3436" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="8">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="323674" d="3436" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="9">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="327110" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="10">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="327110" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="11">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="327177" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="12">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="327177" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="13">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="327244" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="14">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="327244" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="15">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="327678" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="2">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="327678" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="3">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="327744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="4">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="327744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="5">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="327811" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="6">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="327811" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="7">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="327878" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="8">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="327878" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="9">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="330247" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="10">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="330247" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="11">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="330314" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="12">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="330314" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="13">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="330380" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="14">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="330380" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="15">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="330514" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="2">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="330514" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="3">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="330580" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="4">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="330580" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="5">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="330647" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="6">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="330647" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="7">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="330714" d="901" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="8">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="330714" d="901" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="9">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="331615" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="10">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="331615" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="11">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="331682" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="12">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="331682" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="13">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="331748" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="14">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="331748" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​所以「忠誠」才是－－​ ​</s><s p="1">​
+​</s><s p="15">​ ​That's why they call--​ ​</s><s p="1">​</s></p><p t="331815" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="2">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="331815" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="3">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="331882" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="4">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="331882" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="5">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="331948" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="6">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="331948" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="7">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="332015" d="1702" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="8">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="332015" d="1702" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="9">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="333717" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="10">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="333717" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="11">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="333784" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="12">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="333784" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="13">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="333850" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="14">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="333850" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​所以「忠誠」才是我的－－​ ​</s><s p="1">​
+​</s><s p="15">​ ​That's why they call me--​ ​</s><s p="1">​</s></p><p t="333950" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="2">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="333950" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="3">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="334017" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="4">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="334017" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="5">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="334084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="6">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="334084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="7">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="334151" d="3303" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="8">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="334151" d="3303" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="9">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="337454" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="10">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="337454" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="11">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="337521" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="12">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="337521" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="13">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="337587" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="14">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="337587" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我能給你我孤單的靈魂​ ​</s><s p="1">​
+​</s><s p="15">​ ​I could save my lonely soul for you,​ ​</s><s p="1">​</s></p><p t="338322" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="2">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="338322" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="3">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="338388" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="4">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="338388" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="5">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="338455" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="6">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="338455" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="7">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="338522" d="3069" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="8">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="338522" d="3069" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="9">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="341591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="10">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="341591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="11">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="341658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="12">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="341658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="13">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="341725" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="14">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="341725" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​但我總是感覺不能接受​ ​</s><s p="1">​
+​</s><s p="15">​ ​but the feeling in my heart can't follow through​ ​</s><s p="1">​</s></p><p t="341825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="341825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="341892" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="341892" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="341958" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="341958" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342025" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342025" d="801" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342826" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342826" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342893" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342893" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342959" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="342959" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343026" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="16">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343026" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="17">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343093" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343093" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343160" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="20">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343160" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="21">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343226" d="1302" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="22">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="343226" d="1302" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="23">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="344528" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="24">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="344528" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="25">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="344594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="18">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="344594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="19">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="344661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="26">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="344661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不能接受​ ​</s><s p="1">​
+​</s><s p="27">​ ​can't follow through​ ​</s><s p="1">​</s></p><p t="344728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="2">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="344728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="3">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="344795" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="4">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="344795" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="5">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="344861" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="6">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="344861" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="7">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="344928" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="8">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="344928" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="9">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="348365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="10">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="348365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="11">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="348432" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="12">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="348432" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="13">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="348498" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="14">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="348498" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你可以給我你破碎的心​ ​</s><s p="1">​
+​</s><s p="15">​ ​You can give your broken heart to me​ ​</s><s p="1">​</s></p><p t="348832" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="2">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="348832" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="3">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="348899" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="4">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="348899" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="5">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="348965" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="6">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="348965" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="7">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="349032" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="8">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="349032" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="9">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="351468" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="10">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="351468" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="11">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="351535" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="12">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="351535" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="13">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="351601" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="14">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="351601" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​因為你知道我會陪著你​ ​</s><s p="1">​
+​</s><s p="15">​ ​'cause you know that I'll stay with you​ ​</s><s p="1">​</s></p><p t="351668" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="2">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="351668" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="3">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="351735" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="4">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="351735" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="5">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="351802" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="6">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="351802" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="7">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="351868" d="5339" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="8">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="351868" d="5339" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="9">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357207" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="28">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357207" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="29">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357274" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="30">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="30">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357274" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="31">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="31">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357341" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="32">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="32">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357341" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="33">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="33">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="34">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="34">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="35">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="35">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="36">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="36">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="37">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="37">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357541" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="38">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357541" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="39">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357607" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="40">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357607" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="41">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357674" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="12">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357674" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="13">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357741" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="42">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="42">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357741" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="43">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="43">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357808" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="44">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="44">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357808" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="45">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="45">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357874" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="46">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="46">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357874" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="47">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="47">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="48">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="357941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="49">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="358008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="50">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="358008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="51">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="358075" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="52">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="52">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="358075" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="53">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="53">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="358141" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="54">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="54">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p><p t="358141" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="55">​ ​所以「忠誠」才是我的座右銘​ ​</s><s p="1">​
+​</s><s p="55">​ ​That's why they call me loyalty​ ​</s><s p="1">​</s></p></body></timedtext>

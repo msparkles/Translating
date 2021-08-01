@@ -1,0 +1,1147 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="7" ah="50" av="100" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="100" fc="#A0AAB4" fo="0" bo="0" /><pen id="2" fs="2" sz="100" fc="#FFF4FE" fo="31" bo="0" et="4" ec="#6B1D59" /><pen id="3" fs="2" sz="100" fc="#FFF4FE" fo="31" bo="0" et="3" ec="#6B1D59" /><pen id="4" fs="2" sz="100" fc="#FFF4FE" fo="159" bo="0" et="4" ec="#6B1D59" /><pen id="5" fs="2" sz="100" fc="#FFF4FE" fo="159" bo="0" et="3" ec="#6B1D59" /><pen id="6" fs="2" sz="100" fc="#FFF4FE" fo="254" bo="0" et="4" ec="#6B1D59" /><pen id="7" fs="2" sz="100" fc="#FFF4FE" fo="254" bo="0" et="3" ec="#6B1D59" /><pen id="8" fs="2" sz="100" fc="#FFF4FE" fo="213" bo="0" et="4" ec="#6B1D59" /><pen id="9" fs="2" sz="100" fc="#FFF4FE" fo="213" bo="0" et="3" ec="#6B1D59" /><pen id="10" fs="2" sz="100" fc="#FFF4FE" fo="43" bo="0" et="4" ec="#6B1D59" /><pen id="11" fs="2" sz="100" fc="#FFF4FE" fo="43" bo="0" et="3" ec="#6B1D59" /><pen id="12" fs="2" sz="100" fc="#FFF4FE" fo="253" bo="0" et="4" ec="#6B1D59" /><pen id="13" fs="2" sz="100" fc="#FFF4FE" fo="253" bo="0" et="3" ec="#6B1D59" /><pen id="14" fs="2" sz="100" fc="#FFF4FE" fo="242" bo="0" et="4" ec="#6B1D59" /><pen id="15" fs="2" sz="100" fc="#FFF4FE" fo="242" bo="0" et="3" ec="#6B1D59" /><pen id="16" fs="2" sz="100" fc="#FFF4FE" fo="232" bo="0" et="4" ec="#6B1D59" /><pen id="17" fs="2" sz="100" fc="#FFF4FE" fo="232" bo="0" et="3" ec="#6B1D59" /><pen id="18" fs="2" sz="100" fc="#FFF4FE" fo="221" bo="0" et="4" ec="#6B1D59" /><pen id="19" fs="2" sz="100" fc="#FFF4FE" fo="221" bo="0" et="3" ec="#6B1D59" /><pen id="20" fs="2" sz="100" fc="#FFF4FE" fo="210" bo="0" et="4" ec="#6B1D59" /><pen id="21" fs="2" sz="100" fc="#FFF4FE" fo="210" bo="0" et="3" ec="#6B1D59" /><pen id="22" fs="2" sz="100" fc="#FFF4FE" fo="200" bo="0" et="4" ec="#6B1D59" /><pen id="23" fs="2" sz="100" fc="#FFF4FE" fo="200" bo="0" et="3" ec="#6B1D59" /><pen id="24" fs="2" sz="100" fc="#FFF4FE" fo="189" bo="0" et="4" ec="#6B1D59" /><pen id="25" fs="2" sz="100" fc="#FFF4FE" fo="189" bo="0" et="3" ec="#6B1D59" /><pen id="26" fs="2" sz="100" fc="#FFF4FE" fo="178" bo="0" et="4" ec="#6B1D59" /><pen id="27" fs="2" sz="100" fc="#FFF4FE" fo="178" bo="0" et="3" ec="#6B1D59" /><pen id="28" fs="2" sz="100" fc="#FFF4FE" fo="168" bo="0" et="4" ec="#6B1D59" /><pen id="29" fs="2" sz="100" fc="#FFF4FE" fo="168" bo="0" et="3" ec="#6B1D59" /><pen id="30" fs="2" sz="100" fc="#FFF4FE" fo="157" bo="0" et="4" ec="#6B1D59" /><pen id="31" fs="2" sz="100" fc="#FFF4FE" fo="157" bo="0" et="3" ec="#6B1D59" /><pen id="32" fs="2" sz="100" fc="#FFF4FE" fo="147" bo="0" et="4" ec="#6B1D59" /><pen id="33" fs="2" sz="100" fc="#FFF4FE" fo="147" bo="0" et="3" ec="#6B1D59" /><pen id="34" fs="2" sz="100" fc="#FFF4FE" fo="136" bo="0" et="4" ec="#6B1D59" /><pen id="35" fs="2" sz="100" fc="#FFF4FE" fo="136" bo="0" et="3" ec="#6B1D59" /><pen id="36" fs="2" sz="100" fc="#FFF4FE" fo="125" bo="0" et="4" ec="#6B1D59" /><pen id="37" fs="2" sz="100" fc="#FFF4FE" fo="125" bo="0" et="3" ec="#6B1D59" /><pen id="38" fs="2" sz="100" fc="#FFF4FE" fo="115" bo="0" et="4" ec="#6B1D59" /><pen id="39" fs="2" sz="100" fc="#FFF4FE" fo="115" bo="0" et="3" ec="#6B1D59" /><pen id="40" fs="2" sz="100" fc="#FFF4FE" fo="104" bo="0" et="4" ec="#6B1D59" /><pen id="41" fs="2" sz="100" fc="#FFF4FE" fo="104" bo="0" et="3" ec="#6B1D59" /><pen id="42" fs="2" sz="100" fc="#FFF4FE" fo="93" bo="0" et="4" ec="#6B1D59" /><pen id="43" fs="2" sz="100" fc="#FFF4FE" fo="93" bo="0" et="3" ec="#6B1D59" /><pen id="44" fs="2" sz="100" fc="#FFF4FE" fo="83" bo="0" et="4" ec="#6B1D59" /><pen id="45" fs="2" sz="100" fc="#FFF4FE" fo="83" bo="0" et="3" ec="#6B1D59" /><pen id="46" fs="2" sz="100" fc="#FFF4FE" fo="72" bo="0" et="4" ec="#6B1D59" /><pen id="47" fs="2" sz="100" fc="#FFF4FE" fo="72" bo="0" et="3" ec="#6B1D59" /><pen id="48" fs="2" sz="100" fc="#FFF4FE" fo="62" bo="0" et="4" ec="#6B1D59" /><pen id="49" fs="2" sz="100" fc="#FFF4FE" fo="62" bo="0" et="3" ec="#6B1D59" /><pen id="50" fs="2" sz="100" fc="#FFF4FE" fo="51" bo="0" et="4" ec="#6B1D59" /><pen id="51" fs="2" sz="100" fc="#FFF4FE" fo="51" bo="0" et="3" ec="#6B1D59" /><pen id="52" fs="2" sz="100" fc="#FFF4FE" fo="40" bo="0" et="4" ec="#6B1D59" /><pen id="53" fs="2" sz="100" fc="#FFF4FE" fo="40" bo="0" et="3" ec="#6B1D59" /><pen id="54" fs="2" sz="100" fc="#FFF4FE" fo="30" bo="0" et="4" ec="#6B1D59" /><pen id="55" fs="2" sz="100" fc="#FFF4FE" fo="30" bo="0" et="3" ec="#6B1D59" /><pen id="56" fs="2" sz="100" fc="#FFF4FE" fo="19" bo="0" et="4" ec="#6B1D59" /><pen id="57" fs="2" sz="100" fc="#FFF4FE" fo="19" bo="0" et="3" ec="#6B1D59" /><pen id="58" fs="2" sz="100" fc="#FFF4FE" fo="8" bo="0" et="4" ec="#6B1D59" /><pen id="59" fs="2" sz="100" fc="#FFF4FE" fo="8" bo="0" et="3" ec="#6B1D59" /><pen id="60" fs="2" sz="100" fc="#FFF4FE" fo="192" bo="0" et="4" ec="#6B1D59" /><pen id="61" fs="2" sz="100" fc="#FFF4FE" fo="192" bo="0" et="3" ec="#6B1D59" /><pen id="62" fs="2" sz="100" fc="#FFF4FE" fo="63" bo="0" et="4" ec="#6B1D59" /><pen id="63" fs="2" sz="100" fc="#FFF4FE" fo="63" bo="0" et="3" ec="#6B1D59" /><pen id="64" fs="2" sz="100" fc="#FFF4FE" fo="247" bo="0" et="4" ec="#6B1D59" /><pen id="65" fs="2" sz="100" fc="#FFF4FE" fo="247" bo="0" et="3" ec="#6B1D59" /><pen id="66" fs="2" sz="100" fc="#FFF4FE" fo="239" bo="0" et="4" ec="#6B1D59" /><pen id="67" fs="2" sz="100" fc="#FFF4FE" fo="239" bo="0" et="3" ec="#6B1D59" /><pen id="68" fs="2" sz="100" fc="#FFF4FE" fo="225" bo="0" et="4" ec="#6B1D59" /><pen id="69" fs="2" sz="100" fc="#FFF4FE" fo="225" bo="0" et="3" ec="#6B1D59" /><pen id="70" fs="2" sz="100" fc="#FFF4FE" fo="218" bo="0" et="4" ec="#6B1D59" /><pen id="71" fs="2" sz="100" fc="#FFF4FE" fo="218" bo="0" et="3" ec="#6B1D59" /><pen id="72" fs="2" sz="100" fc="#FFF4FE" fo="211" bo="0" et="4" ec="#6B1D59" /><pen id="73" fs="2" sz="100" fc="#FFF4FE" fo="211" bo="0" et="3" ec="#6B1D59" /><pen id="74" fs="2" sz="100" fc="#FFF4FE" fo="203" bo="0" et="4" ec="#6B1D59" /><pen id="75" fs="2" sz="100" fc="#FFF4FE" fo="203" bo="0" et="3" ec="#6B1D59" /><pen id="76" fs="2" sz="100" fc="#FFF4FE" fo="196" bo="0" et="4" ec="#6B1D59" /><pen id="77" fs="2" sz="100" fc="#FFF4FE" fo="196" bo="0" et="3" ec="#6B1D59" /><pen id="78" fs="2" sz="100" fc="#FFF4FE" fo="182" bo="0" et="4" ec="#6B1D59" /><pen id="79" fs="2" sz="100" fc="#FFF4FE" fo="182" bo="0" et="3" ec="#6B1D59" /><pen id="80" fs="2" sz="100" fc="#FFF4FE" fo="175" bo="0" et="4" ec="#6B1D59" /><pen id="81" fs="2" sz="100" fc="#FFF4FE" fo="175" bo="0" et="3" ec="#6B1D59" /><pen id="82" fs="2" sz="100" fc="#FFF4FE" fo="160" bo="0" et="4" ec="#6B1D59" /><pen id="83" fs="2" sz="100" fc="#FFF4FE" fo="160" bo="0" et="3" ec="#6B1D59" /><pen id="84" fs="2" sz="100" fc="#FFF4FE" fo="153" bo="0" et="4" ec="#6B1D59" /><pen id="85" fs="2" sz="100" fc="#FFF4FE" fo="153" bo="0" et="3" ec="#6B1D59" /><pen id="86" fs="2" sz="100" fc="#FFF4FE" fo="146" bo="0" et="4" ec="#6B1D59" /><pen id="87" fs="2" sz="100" fc="#FFF4FE" fo="146" bo="0" et="3" ec="#6B1D59" /><pen id="88" fs="2" sz="100" fc="#FFF4FE" fo="139" bo="0" et="4" ec="#6B1D59" /><pen id="89" fs="2" sz="100" fc="#FFF4FE" fo="139" bo="0" et="3" ec="#6B1D59" /><pen id="90" fs="2" sz="100" fc="#FFF4FE" fo="132" bo="0" et="4" ec="#6B1D59" /><pen id="91" fs="2" sz="100" fc="#FFF4FE" fo="132" bo="0" et="3" ec="#6B1D59" /><pen id="92" fs="2" sz="100" fc="#FFF4FE" fo="124" bo="0" et="4" ec="#6B1D59" /><pen id="93" fs="2" sz="100" fc="#FFF4FE" fo="124" bo="0" et="3" ec="#6B1D59" /><pen id="94" fs="2" sz="100" fc="#FFF4FE" fo="117" bo="0" et="4" ec="#6B1D59" /><pen id="95" fs="2" sz="100" fc="#FFF4FE" fo="117" bo="0" et="3" ec="#6B1D59" /><pen id="96" fs="2" sz="100" fc="#FFF4FE" fo="110" bo="0" et="4" ec="#6B1D59" /><pen id="97" fs="2" sz="100" fc="#FFF4FE" fo="110" bo="0" et="3" ec="#6B1D59" /><pen id="98" fs="2" sz="100" fc="#FFF4FE" fo="103" bo="0" et="4" ec="#6B1D59" /><pen id="99" fs="2" sz="100" fc="#FFF4FE" fo="103" bo="0" et="3" ec="#6B1D59" /><pen id="100" fs="2" sz="100" fc="#FFF4FE" fo="96" bo="0" et="4" ec="#6B1D59" /><pen id="101" fs="2" sz="100" fc="#FFF4FE" fo="96" bo="0" et="3" ec="#6B1D59" /><pen id="102" fs="2" sz="100" fc="#FFF4FE" fo="88" bo="0" et="4" ec="#6B1D59" /><pen id="103" fs="2" sz="100" fc="#FFF4FE" fo="88" bo="0" et="3" ec="#6B1D59" /><pen id="104" fs="2" sz="100" fc="#FFF4FE" fo="81" bo="0" et="4" ec="#6B1D59" /><pen id="105" fs="2" sz="100" fc="#FFF4FE" fo="81" bo="0" et="3" ec="#6B1D59" /><pen id="106" fs="2" sz="100" fc="#FFF4FE" fo="74" bo="0" et="4" ec="#6B1D59" /><pen id="107" fs="2" sz="100" fc="#FFF4FE" fo="74" bo="0" et="3" ec="#6B1D59" /><pen id="108" fs="2" sz="100" fc="#FFF4FE" fo="67" bo="0" et="4" ec="#6B1D59" /><pen id="109" fs="2" sz="100" fc="#FFF4FE" fo="67" bo="0" et="3" ec="#6B1D59" /><pen id="110" fs="2" sz="100" fc="#FFF4FE" fo="60" bo="0" et="4" ec="#6B1D59" /><pen id="111" fs="2" sz="100" fc="#FFF4FE" fo="60" bo="0" et="3" ec="#6B1D59" /><pen id="112" fs="2" sz="100" fc="#FFF4FE" fo="53" bo="0" et="4" ec="#6B1D59" /><pen id="113" fs="2" sz="100" fc="#FFF4FE" fo="53" bo="0" et="3" ec="#6B1D59" /><pen id="114" fs="2" sz="100" fc="#FFF4FE" fo="45" bo="0" et="4" ec="#6B1D59" /><pen id="115" fs="2" sz="100" fc="#FFF4FE" fo="45" bo="0" et="3" ec="#6B1D59" /><pen id="116" fs="2" sz="100" fc="#FFF4FE" fo="38" bo="0" et="4" ec="#6B1D59" /><pen id="117" fs="2" sz="100" fc="#FFF4FE" fo="38" bo="0" et="3" ec="#6B1D59" /><pen id="118" fs="2" sz="100" fc="#FFF4FE" fo="24" bo="0" et="4" ec="#6B1D59" /><pen id="119" fs="2" sz="100" fc="#FFF4FE" fo="24" bo="0" et="3" ec="#6B1D59" /><pen id="120" fs="2" sz="100" fc="#FFF4FE" fo="17" bo="0" et="4" ec="#6B1D59" /><pen id="121" fs="2" sz="100" fc="#FFF4FE" fo="17" bo="0" et="3" ec="#6B1D59" /><pen id="122" fs="2" sz="100" fc="#FFF4FE" fo="9" bo="0" et="4" ec="#6B1D59" /><pen id="123" fs="2" sz="100" fc="#FFF4FE" fo="9" bo="0" et="3" ec="#6B1D59" /><pen id="124" fs="2" sz="100" fc="#FFF4FE" fo="2" bo="0" et="4" ec="#6B1D59" /><pen id="125" fs="2" sz="100" fc="#FFF4FE" fo="2" bo="0" et="3" ec="#6B1D59" /><pen id="126" fs="2" sz="100" fc="#FFF4FE" fo="246" bo="0" et="4" ec="#6B1D59" /><pen id="127" fs="2" sz="100" fc="#FFF4FE" fo="246" bo="0" et="3" ec="#6B1D59" /><pen id="128" fs="2" sz="100" fc="#FFF4FE" fo="231" bo="0" et="4" ec="#6B1D59" /><pen id="129" fs="2" sz="100" fc="#FFF4FE" fo="231" bo="0" et="3" ec="#6B1D59" /><pen id="130" fs="2" sz="100" fc="#FFF4FE" fo="224" bo="0" et="4" ec="#6B1D59" /><pen id="131" fs="2" sz="100" fc="#FFF4FE" fo="224" bo="0" et="3" ec="#6B1D59" /><pen id="132" fs="2" sz="100" fc="#FFF4FE" fo="216" bo="0" et="4" ec="#6B1D59" /><pen id="133" fs="2" sz="100" fc="#FFF4FE" fo="216" bo="0" et="3" ec="#6B1D59" /><pen id="134" fs="2" sz="100" fc="#FFF4FE" fo="209" bo="0" et="4" ec="#6B1D59" /><pen id="135" fs="2" sz="100" fc="#FFF4FE" fo="209" bo="0" et="3" ec="#6B1D59" /><pen id="136" fs="2" sz="100" fc="#FFF4FE" fo="201" bo="0" et="4" ec="#6B1D59" /><pen id="137" fs="2" sz="100" fc="#FFF4FE" fo="201" bo="0" et="3" ec="#6B1D59" /><pen id="138" fs="2" sz="100" fc="#FFF4FE" fo="194" bo="0" et="4" ec="#6B1D59" /><pen id="139" fs="2" sz="100" fc="#FFF4FE" fo="194" bo="0" et="3" ec="#6B1D59" /><pen id="140" fs="2" sz="100" fc="#FFF4FE" fo="186" bo="0" et="4" ec="#6B1D59" /><pen id="141" fs="2" sz="100" fc="#FFF4FE" fo="186" bo="0" et="3" ec="#6B1D59" /><pen id="142" fs="2" sz="100" fc="#FFF4FE" fo="179" bo="0" et="4" ec="#6B1D59" /><pen id="143" fs="2" sz="100" fc="#FFF4FE" fo="179" bo="0" et="3" ec="#6B1D59" /><pen id="144" fs="2" sz="100" fc="#FFF4FE" fo="171" bo="0" et="4" ec="#6B1D59" /><pen id="145" fs="2" sz="100" fc="#FFF4FE" fo="171" bo="0" et="3" ec="#6B1D59" /><pen id="146" fs="2" sz="100" fc="#FFF4FE" fo="164" bo="0" et="4" ec="#6B1D59" /><pen id="147" fs="2" sz="100" fc="#FFF4FE" fo="164" bo="0" et="3" ec="#6B1D59" /><pen id="148" fs="2" sz="100" fc="#FFF4FE" fo="156" bo="0" et="4" ec="#6B1D59" /><pen id="149" fs="2" sz="100" fc="#FFF4FE" fo="156" bo="0" et="3" ec="#6B1D59" /><pen id="150" fs="2" sz="100" fc="#FFF4FE" fo="149" bo="0" et="4" ec="#6B1D59" /><pen id="151" fs="2" sz="100" fc="#FFF4FE" fo="149" bo="0" et="3" ec="#6B1D59" /><pen id="152" fs="2" sz="100" fc="#FFF4FE" fo="141" bo="0" et="4" ec="#6B1D59" /><pen id="153" fs="2" sz="100" fc="#FFF4FE" fo="141" bo="0" et="3" ec="#6B1D59" /><pen id="154" fs="2" sz="100" fc="#FFF4FE" fo="134" bo="0" et="4" ec="#6B1D59" /><pen id="155" fs="2" sz="100" fc="#FFF4FE" fo="134" bo="0" et="3" ec="#6B1D59" /><pen id="156" fs="2" sz="100" fc="#FFF4FE" fo="126" bo="0" et="4" ec="#6B1D59" /><pen id="157" fs="2" sz="100" fc="#FFF4FE" fo="126" bo="0" et="3" ec="#6B1D59" /><pen id="158" fs="2" sz="100" fc="#FFF4FE" fo="119" bo="0" et="4" ec="#6B1D59" /><pen id="159" fs="2" sz="100" fc="#FFF4FE" fo="119" bo="0" et="3" ec="#6B1D59" /><pen id="160" fs="2" sz="100" fc="#FFF4FE" fo="111" bo="0" et="4" ec="#6B1D59" /><pen id="161" fs="2" sz="100" fc="#FFF4FE" fo="111" bo="0" et="3" ec="#6B1D59" /><pen id="162" fs="2" sz="100" fc="#FFF4FE" fo="89" bo="0" et="4" ec="#6B1D59" /><pen id="163" fs="2" sz="100" fc="#FFF4FE" fo="89" bo="0" et="3" ec="#6B1D59" /><pen id="164" fs="2" sz="100" fc="#FFF4FE" fo="66" bo="0" et="4" ec="#6B1D59" /><pen id="165" fs="2" sz="100" fc="#FFF4FE" fo="66" bo="0" et="3" ec="#6B1D59" /><pen id="166" fs="2" sz="100" fc="#FFF4FE" fo="59" bo="0" et="4" ec="#6B1D59" /><pen id="167" fs="2" sz="100" fc="#FFF4FE" fo="59" bo="0" et="3" ec="#6B1D59" /><pen id="168" fs="2" sz="100" fc="#FFF4FE" fo="44" bo="0" et="4" ec="#6B1D59" /><pen id="169" fs="2" sz="100" fc="#FFF4FE" fo="44" bo="0" et="3" ec="#6B1D59" /><pen id="170" fs="2" sz="100" fc="#FFF4FE" fo="36" bo="0" et="4" ec="#6B1D59" /><pen id="171" fs="2" sz="100" fc="#FFF4FE" fo="36" bo="0" et="3" ec="#6B1D59" /><pen id="172" fs="2" sz="100" fc="#FFF4FE" fo="29" bo="0" et="4" ec="#6B1D59" /><pen id="173" fs="2" sz="100" fc="#FFF4FE" fo="29" bo="0" et="3" ec="#6B1D59" /><pen id="174" fs="2" sz="100" fc="#FFF4FE" fo="21" bo="0" et="4" ec="#6B1D59" /><pen id="175" fs="2" sz="100" fc="#FFF4FE" fo="21" bo="0" et="3" ec="#6B1D59" /><pen id="176" fs="2" sz="100" fc="#FFF4FE" fo="14" bo="0" et="4" ec="#6B1D59" /><pen id="177" fs="2" sz="100" fc="#FFF4FE" fo="14" bo="0" et="3" ec="#6B1D59" /><pen id="178" fs="2" sz="100" fc="#FFF4FE" fo="6" bo="0" et="4" ec="#6B1D59" /><pen id="179" fs="2" sz="100" fc="#FFF4FE" fo="6" bo="0" et="3" ec="#6B1D59" /><pen id="180" fs="2" sz="100" fc="#FFF4FE" fo="241" bo="0" et="4" ec="#6B1D59" /><pen id="181" fs="2" sz="100" fc="#FFF4FE" fo="241" bo="0" et="3" ec="#6B1D59" /><pen id="182" fs="2" sz="100" fc="#FFF4FE" fo="234" bo="0" et="4" ec="#6B1D59" /><pen id="183" fs="2" sz="100" fc="#FFF4FE" fo="234" bo="0" et="3" ec="#6B1D59" /><pen id="184" fs="2" sz="100" fc="#FFF4FE" fo="227" bo="0" et="4" ec="#6B1D59" /><pen id="185" fs="2" sz="100" fc="#FFF4FE" fo="227" bo="0" et="3" ec="#6B1D59" /><pen id="186" fs="2" sz="100" fc="#FFF4FE" fo="214" bo="0" et="4" ec="#6B1D59" /><pen id="187" fs="2" sz="100" fc="#FFF4FE" fo="214" bo="0" et="3" ec="#6B1D59" /><pen id="188" fs="2" sz="100" fc="#FFF4FE" fo="207" bo="0" et="4" ec="#6B1D59" /><pen id="189" fs="2" sz="100" fc="#FFF4FE" fo="207" bo="0" et="3" ec="#6B1D59" /><pen id="190" fs="2" sz="100" fc="#FFF4FE" fo="188" bo="0" et="4" ec="#6B1D59" /><pen id="191" fs="2" sz="100" fc="#FFF4FE" fo="188" bo="0" et="3" ec="#6B1D59" /><pen id="192" fs="2" sz="100" fc="#FFF4FE" fo="181" bo="0" et="4" ec="#6B1D59" /><pen id="193" fs="2" sz="100" fc="#FFF4FE" fo="181" bo="0" et="3" ec="#6B1D59" /><pen id="194" fs="2" sz="100" fc="#FFF4FE" fo="174" bo="0" et="4" ec="#6B1D59" /><pen id="195" fs="2" sz="100" fc="#FFF4FE" fo="174" bo="0" et="3" ec="#6B1D59" /><pen id="196" fs="2" sz="100" fc="#FFF4FE" fo="161" bo="0" et="4" ec="#6B1D59" /><pen id="197" fs="2" sz="100" fc="#FFF4FE" fo="161" bo="0" et="3" ec="#6B1D59" /><pen id="198" fs="2" sz="100" fc="#FFF4FE" fo="154" bo="0" et="4" ec="#6B1D59" /><pen id="199" fs="2" sz="100" fc="#FFF4FE" fo="154" bo="0" et="3" ec="#6B1D59" /><pen id="200" fs="2" sz="100" fc="#FFF4FE" fo="148" bo="0" et="4" ec="#6B1D59" /><pen id="201" fs="2" sz="100" fc="#FFF4FE" fo="148" bo="0" et="3" ec="#6B1D59" /><pen id="202" fs="2" sz="100" fc="#FFF4FE" fo="135" bo="0" et="4" ec="#6B1D59" /><pen id="203" fs="2" sz="100" fc="#FFF4FE" fo="135" bo="0" et="3" ec="#6B1D59" /><pen id="204" fs="2" sz="100" fc="#FFF4FE" fo="128" bo="0" et="4" ec="#6B1D59" /><pen id="205" fs="2" sz="100" fc="#FFF4FE" fo="128" bo="0" et="3" ec="#6B1D59" /><pen id="206" fs="2" sz="100" fc="#FFF4FE" fo="121" bo="0" et="4" ec="#6B1D59" /><pen id="207" fs="2" sz="100" fc="#FFF4FE" fo="121" bo="0" et="3" ec="#6B1D59" /><pen id="208" fs="2" sz="100" fc="#FFF4FE" fo="108" bo="0" et="4" ec="#6B1D59" /><pen id="209" fs="2" sz="100" fc="#FFF4FE" fo="108" bo="0" et="3" ec="#6B1D59" /><pen id="210" fs="2" sz="100" fc="#FFF4FE" fo="102" bo="0" et="4" ec="#6B1D59" /><pen id="211" fs="2" sz="100" fc="#FFF4FE" fo="102" bo="0" et="3" ec="#6B1D59" /><pen id="212" fs="2" sz="100" fc="#FFF4FE" fo="95" bo="0" et="4" ec="#6B1D59" /><pen id="213" fs="2" sz="100" fc="#FFF4FE" fo="95" bo="0" et="3" ec="#6B1D59" /><pen id="214" fs="2" sz="100" fc="#FFF4FE" fo="82" bo="0" et="4" ec="#6B1D59" /><pen id="215" fs="2" sz="100" fc="#FFF4FE" fo="82" bo="0" et="3" ec="#6B1D59" /><pen id="216" fs="2" sz="100" fc="#FFF4FE" fo="75" bo="0" et="4" ec="#6B1D59" /><pen id="217" fs="2" sz="100" fc="#FFF4FE" fo="75" bo="0" et="3" ec="#6B1D59" /><pen id="218" fs="2" sz="100" fc="#FFF4FE" fo="68" bo="0" et="4" ec="#6B1D59" /><pen id="219" fs="2" sz="100" fc="#FFF4FE" fo="68" bo="0" et="3" ec="#6B1D59" /><pen id="220" fs="2" sz="100" fc="#FFF4FE" fo="55" bo="0" et="4" ec="#6B1D59" /><pen id="221" fs="2" sz="100" fc="#FFF4FE" fo="55" bo="0" et="3" ec="#6B1D59" /><pen id="222" fs="2" sz="100" fc="#FFF4FE" fo="49" bo="0" et="4" ec="#6B1D59" /><pen id="223" fs="2" sz="100" fc="#FFF4FE" fo="49" bo="0" et="3" ec="#6B1D59" /><pen id="224" fs="2" sz="100" fc="#FFF4FE" fo="42" bo="0" et="4" ec="#6B1D59" /><pen id="225" fs="2" sz="100" fc="#FFF4FE" fo="42" bo="0" et="3" ec="#6B1D59" /><pen id="226" fs="2" sz="100" fc="#FFF4FE" fo="35" bo="0" et="4" ec="#6B1D59" /><pen id="227" fs="2" sz="100" fc="#FFF4FE" fo="35" bo="0" et="3" ec="#6B1D59" /><pen id="228" fs="2" sz="100" fc="#FFF4FE" fo="22" bo="0" et="4" ec="#6B1D59" /><pen id="229" fs="2" sz="100" fc="#FFF4FE" fo="22" bo="0" et="3" ec="#6B1D59" /><pen id="230" fs="2" sz="100" fc="#FFF4FE" fo="15" bo="0" et="4" ec="#6B1D59" /><pen id="231" fs="2" sz="100" fc="#FFF4FE" fo="15" bo="0" et="3" ec="#6B1D59" /></head><body><p t="33083" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="2">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="33083" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="3">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="33150" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="4">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="33150" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="5">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="33250" d="1635" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="6">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="33250" d="1635" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="7">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="34885" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="8">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="34885" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="9">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="34952" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="10">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="34952" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​看東西得比較​ ​</s><s p="1">​
+​</s><s p="11">​ ​Looking on the bright side​ ​</s><s p="1">​</s></p><p t="35019" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​正向​ ​</s><s p="1">​
+​</s><s p="2">​ ​of things​ ​</s><s p="1">​</s></p><p t="35019" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​正向​ ​</s><s p="1">​
+​</s><s p="3">​ ​of things​ ​</s><s p="1">​</s></p><p t="35085" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​正向​ ​</s><s p="1">​
+​</s><s p="4">​ ​of things​ ​</s><s p="1">​</s></p><p t="35085" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​正向​ ​</s><s p="1">​
+​</s><s p="5">​ ​of things​ ​</s><s p="1">​</s></p><p t="35185" d="634" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​正向​ ​</s><s p="1">​
+​</s><s p="6">​ ​of things​ ​</s><s p="1">​</s></p><p t="35185" d="634" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​正向​ ​</s><s p="1">​
+​</s><s p="7">​ ​of things​ ​</s><s p="1">​</s></p><p t="35819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​正向​ ​</s><s p="1">​
+​</s><s p="8">​ ​of things​ ​</s><s p="1">​</s></p><p t="35819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​正向​ ​</s><s p="1">​
+​</s><s p="9">​ ​of things​ ​</s><s p="1">​</s></p><p t="35886" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​正向​ ​</s><s p="1">​
+​</s><s p="10">​ ​of things​ ​</s><s p="1">​</s></p><p t="35886" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​正向​ ​</s><s p="1">​
+​</s><s p="11">​ ​of things​ ​</s><s p="1">​</s></p><p t="35953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="2">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="35953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="3">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="36020" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="4">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="36020" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="5">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="36120" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="6">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="36120" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="7">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="38422" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="8">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="38422" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="9">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="38489" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="10">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="38489" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我可以跟上，只要我想​ ​</s><s p="1">​
+​</s><s p="11">​ ​I can keep it up if I try​ ​</s><s p="1">​</s></p><p t="38555" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="2">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="38555" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="3">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="38622" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="4">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="38622" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="5">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="38722" d="1302" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="6">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="38722" d="1302" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="7">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="40024" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="8">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="40024" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="9">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="40090" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="10">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="40090" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​想著那些機會​ ​</s><s p="1">​
+​</s><s p="11">​ ​Thinking 'bout the chances​ ​</s><s p="1">​</s></p><p t="40157" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="2">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="40157" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="3">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="40224" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="4">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="40224" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="5">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="40324" d="667" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="6">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="40324" d="667" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="7">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="40991" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="8">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="40991" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="9">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="41058" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="10">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="41058" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我錯失​ ​</s><s p="1">​
+​</s><s p="11">​ ​thought I had​ ​</s><s p="1">​</s></p><p t="41125" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="2">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="41125" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="3">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="41191" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="4">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="41191" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="5">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="41291" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="6">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="41291" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="7">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="43660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="8">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="43660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="9">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="43727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="10">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="43727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​以為太陽一直都在天上​ ​</s><s p="1">​
+​</s><s p="11">​ ​thought the sun was out this whole time​ ​</s><s p="1">​</s></p><p t="43794" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="2">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="43794" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="3">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="43861" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="4">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="43861" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="5">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="43961" d="1568" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="6">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="43961" d="1568" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="7">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="45529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="8">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="45529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="9">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="45596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="10">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="45596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="11">​ ​You know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="45662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="2">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="45662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="3">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="45729" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="4">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="45729" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="5">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="45829" d="2636" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="6">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="45829" d="2636" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="7">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="48465" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="8">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="48465" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="9">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="48532" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="10">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="48532" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你想要我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="11">​ ​I can take control if you want​ ​</s><s p="1">​</s></p><p t="48799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="2">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="48799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="3">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="48866" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="4">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="48866" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="5">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="48966" d="2135" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="6">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="48966" d="2135" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="7">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="51101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="8">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="51101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="9">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="51168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="10">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="51168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​啥都不能取代此時​ ​</s><s p="1">​
+​</s><s p="11">​ ​Nothing can replace this moment​ ​</s><s p="1">​</s></p><p t="51235" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="2">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="51235" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="3">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="51301" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="4">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="51301" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="5">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="51402" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="6">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="51402" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="7">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="53771" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="8">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="53771" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="9">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="53837" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="10">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="53837" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​啥都不能分離我們​ ​</s><s p="1">​
+​</s><s p="11">​ ​and nothing can divide us right now​ ​</s><s p="1">​</s></p><p t="53904" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="2">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="53904" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="3">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="53971" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="4">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="53971" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="5">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="54071" d="1401" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="6">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="54071" d="1401" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="7">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="55472" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="8">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="55472" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="9">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="55539" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="10">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="55539" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​是否原諒我​ ​</s><s p="1">​
+​</s><s p="11">​ ​Won't you forgive me​ ​</s><s p="1">​</s></p><p t="55606" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="2">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="55606" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="3">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="55672" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="4">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="55672" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="5">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="55773" d="2168" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="6">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="55773" d="2168" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="7">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="57941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="8">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="57941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="9">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="58008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="10">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="58008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我以前的生活？​ ​</s><s p="1">​
+​</s><s p="11">​ ​for my life before?​ ​</s><s p="1">​</s></p><p t="58275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="2">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="58275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="3">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="58342" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="4">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="58342" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="5">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="58442" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="6">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="58442" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="7">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="61879" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="12">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="61879" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="13">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="61945" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="14">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="61945" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="15">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62012" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="16">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62012" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="17">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="18">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="19">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62146" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="20">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62146" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="21">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62212" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="22">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62212" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="23">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62279" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="24">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62279" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="25">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62346" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="26">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62346" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="27">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62413" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="28">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62413" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="29">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="30">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="30">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="31">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="31">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62546" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="32">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="32">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62546" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="33">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="33">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62613" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="34">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="34">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62613" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="35">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="35">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="36">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="36">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="37">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="37">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62746" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="38">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62746" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="39">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62813" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="40">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62813" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="41">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62880" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="42">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="42">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62880" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="43">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="43">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="44">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="44">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="62946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="45">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="45">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63013" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="46">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="46">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63013" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="47">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="47">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63080" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="48">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63080" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="49">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63147" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="50">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63147" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="51">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63213" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="52">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="52">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63213" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="53">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="53">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63280" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="54">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="54">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63280" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="55">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="55">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="56">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="56">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="57">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="57">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63414" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="58">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="58">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63414" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="59">​ ​有好多還要做的事​ ​</s><s p="1">​
+​</s><s p="59">​ ​There's so much still that's left to do​ ​</s><s p="1">​</s></p><p t="63514" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="2">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="63514" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="3">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="63580" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="4">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="63580" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="5">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="63680" d="1035" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="6">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="63680" d="1035" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="7">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="64715" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="60">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="64715" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​是眼冒金星​ ​</s><s p="1">​
+​</s><s p="61">​ ​Am I seeing stars​ ​</s><s p="1">​</s></p><p t="64815" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="62">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="64815" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="63">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="64915" d="1368" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="6">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="64915" d="1368" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="7">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="66283" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="8">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="66283" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="9">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="66350" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="10">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="66350" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​他們真這樣說？​ ​</s><s p="1">​
+​</s><s p="11">​ ​is this what they say?​ ​</s><s p="1">​</s></p><p t="66417" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="2">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="66417" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="3">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="66483" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="4">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="66483" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="5">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="66583" d="734" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="6">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="66583" d="734" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="7">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="67317" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="60">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="67317" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​我的生活​ ​</s><s p="1">​
+​</s><s p="61">​ ​Living my life​ ​</s><s p="1">​</s></p><p t="67418" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="62">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="67418" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="63">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="67518" d="1034" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="6">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="67518" d="1034" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="7">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="68552" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="8">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="68552" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="9">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="68619" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="10">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="68619" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​是虛度每一天？​ ​</s><s p="1">​
+​</s><s p="11">​ ​on the day to day?​ ​</s><s p="1">​</s></p><p t="68685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="2">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="68685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="3">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="68752" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="4">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="68752" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="5">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="68852" d="2169" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="6">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="68852" d="2169" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="7">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="71021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="8">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="71021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="9">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="71088" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="10">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="71088" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我知道我得跟上​ ​</s><s p="1">​
+​</s><s p="11">​ ​I know I gotta keep this up​ ​</s><s p="1">​</s></p><p t="71155" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="2">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="71155" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="3">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="71221" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="4">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="71221" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="5">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="71321" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="6">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="71321" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="7">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="73590" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="8">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="73590" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="9">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="73657" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="10">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="73657" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​表演繼續​ ​</s><s p="1">​
+​</s><s p="11">​ ​The show goes on​ ​</s><s p="1">​</s></p><p t="74391" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="74391" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="74458" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="74458" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="74558" d="1034" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="74558" d="1034" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="75592" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="75592" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="75692" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="75692" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="75793" d="1334" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="75793" d="1334" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77127" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77127" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77194" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="64">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77194" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="65">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77261" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77261" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77327" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="16">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77327" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="17">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77394" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="68">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77394" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="69">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77461" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="70">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77461" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="71">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77528" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="72">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77528" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="73">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="74">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="75">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="76">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="77">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="24">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="25">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77795" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="78">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77795" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="79">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77861" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="80">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77861" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="81">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77928" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="28">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77928" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="29">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77995" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="82">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="77995" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="83">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78062" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="84">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78062" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="85">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78128" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="86">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="86">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78128" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="87">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="87">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="88">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="88">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="89">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="89">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78262" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="90">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="90">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78262" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="91">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="91">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="92">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="92">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="93">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="93">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="94">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="94">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="95">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="95">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78462" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="96">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="96">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78462" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="97">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="97">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78529" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="98">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="98">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78529" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="99">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="99">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78595" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78595" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="102">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="103">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78796" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78796" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78862" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="108">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="108">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78862" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="109">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="109">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78929" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="110">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="110">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78929" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="111">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="111">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78996" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="112">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="112">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="78996" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="113">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="113">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79063" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="114">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="114">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79063" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="115">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="115">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79129" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="116">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="116">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79129" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="117">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="117">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79196" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79196" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79263" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="118">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="118">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79263" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="119">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="119">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79329" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="120">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="120">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79329" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="121">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="121">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79396" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="122">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79396" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="123">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79463" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="124">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79463" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="125">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="79563" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="79563" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="79630" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="79630" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="79730" d="1068" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="79730" d="1068" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="80798" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="80798" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="80898" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="80898" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="80998" d="1301" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="80998" d="1301" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82299" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82299" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82366" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="64">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82366" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="65">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82433" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82433" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82499" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="16">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82499" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="17">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82566" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="68">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82566" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="69">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82633" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="70">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82633" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="71">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82699" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="72">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82699" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="73">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82766" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="74">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82766" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="75">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82833" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="76">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82833" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="77">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82900" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="24">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82900" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="25">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82966" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="78">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="82966" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="79">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83033" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="80">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83033" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="81">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83100" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="28">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83100" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="29">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83167" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="82">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83167" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="83">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83233" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="84">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83233" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="85">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83300" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="86">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="86">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83300" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="87">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="87">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83367" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="88">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="88">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83367" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="89">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="89">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83434" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="90">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="90">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83434" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="91">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="91">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83500" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="92">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="92">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83500" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="93">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="93">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83567" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="94">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="94">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83567" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="95">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="95">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83634" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="96">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="96">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83634" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="97">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="97">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83700" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="98">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="98">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83700" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="99">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="99">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83767" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83767" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="102">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="103">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83901" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83901" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83967" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="83967" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84034" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="108">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="108">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84034" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="109">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="109">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="110">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="110">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="111">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="111">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84168" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="112">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="112">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84168" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="113">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="113">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84234" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="114">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="114">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84234" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="115">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="115">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84301" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="116">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="116">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84301" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="117">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="117">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84368" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84368" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84435" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="118">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="118">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84435" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="119">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="119">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84501" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="120">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="120">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84501" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="121">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="121">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84568" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="122">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84568" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="123">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84635" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="124">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84635" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="125">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="84735" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="84735" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="84802" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="84802" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="84902" d="1001" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="84902" d="1001" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="85903" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="85903" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="86003" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="86003" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="86103" d="1335" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="86103" d="1335" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87438" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87438" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87504" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="126">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="126">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87504" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="127">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="127">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87571" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87571" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87638" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="128">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="128">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87638" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="129">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="129">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87704" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="130">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="130">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87704" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="131">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="131">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87771" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="132">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="132">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87771" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="133">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="133">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="134">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="134">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="135">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="135">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87905" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="136">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="136">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87905" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="137">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="137">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87971" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="138">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="138">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="87971" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="139">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="139">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88038" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="140">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="140">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88038" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="141">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="141">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88105" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="142">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="142">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88105" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="143">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="143">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88172" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="144">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="144">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88172" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="145">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="145">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88238" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="146">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="146">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88238" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="147">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="147">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88305" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="148">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="148">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88305" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="149">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="149">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88372" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="150">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="150">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88372" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="151">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="151">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88439" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="152">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="152">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88439" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="153">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="153">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88505" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="154">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="154">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88505" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="155">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="155">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88572" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="156">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="156">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88572" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="157">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="157">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88639" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="158">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="158">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88639" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="159">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="159">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88705" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="160">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="160">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88705" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="161">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="161">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88772" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="40">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88772" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="41">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88839" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88839" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88906" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="162">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="162">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88906" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="163">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="163">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88972" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="88972" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89039" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89039" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89106" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="164">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="164">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89106" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="165">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="165">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89173" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="166">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="166">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89173" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="167">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="167">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89239" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="50">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89239" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="51">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89306" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="168">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="168">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89306" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="169">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="169">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="170">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="170">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="171">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="171">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89440" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="172">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="172">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89440" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="173">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="173">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89506" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="174">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="174">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89506" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="175">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="175">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89573" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="176">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="176">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89573" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="177">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="177">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89640" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="178">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="178">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89640" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="179">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="179">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="89907" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="89907" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="89973" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="89973" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="90074" d="1067" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="90074" d="1067" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="91141" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="91141" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="91241" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="91241" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="91341" d="601" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="91341" d="601" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="91942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="91942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="64">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="65">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92076" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92076" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92142" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="16">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92142" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="17">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92209" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="68">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92209" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="69">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92276" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="70">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92276" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="71">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92342" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="72">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92342" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="73">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="74">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="75">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="76">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="77">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92543" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="24">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92543" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="25">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92609" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="78">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92609" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="79">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92676" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="80">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92676" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="81">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92743" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="28">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92743" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="29">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92810" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="82">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92810" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="83">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92876" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="84">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92876" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="85">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92943" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="86">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="86">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="92943" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="87">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="87">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93010" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="88">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="88">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93010" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="89">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="89">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93077" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="90">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="90">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93077" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="91">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="91">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93143" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="92">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="92">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93143" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="93">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="93">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93210" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="94">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="94">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93210" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="95">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="95">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93277" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="96">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="96">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93277" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="97">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="97">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="98">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="98">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="99">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="99">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93477" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="102">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93477" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="103">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93544" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93544" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93610" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93610" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93677" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="108">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="108">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93677" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="109">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="109">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="110">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="110">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="111">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="111">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93811" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="112">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="112">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93811" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="113">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="113">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93877" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="114">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="114">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93877" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="115">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="115">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="116">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="116">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="93944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="117">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="117">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94011" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94011" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94078" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="118">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="118">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94078" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="119">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="119">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94144" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="120">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="120">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94144" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="121">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="121">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94211" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="122">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94211" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="123">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94278" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="124">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94278" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="125">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="94344" d="2236" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我是個魔女​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'm a sorceress​ ​</s><s p="1">​</s></p><p t="94344" d="2236" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我是個魔女​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'm a sorceress​ ​</s><s p="1">​</s></p><p t="96580" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你感覺到沒？​ ​</s><s p="1">​
+​</s><s p="6">​ ​can't you feel me?​ ​</s><s p="1">​</s></p><p t="96580" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你感覺到沒？​ ​</s><s p="1">​
+​</s><s p="7">​ ​can't you feel me?​ ​</s><s p="1">​</s></p><p t="99750" d="2002" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我沒在耍戲​ ​</s><s p="1">​
+​</s><s p="6">​ ​I play no games​ ​</s><s p="1">​</s></p><p t="99750" d="2002" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我沒在耍戲​ ​</s><s p="1">​
+​</s><s p="7">​ ​I play no games​ ​</s><s p="1">​</s></p><p t="101752" d="1902" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​這就是我自己​ ​</s><s p="1">​
+​</s><s p="6">​ ​this is the real me​ ​</s><s p="1">​</s></p><p t="101752" d="1902" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​這就是我自己​ ​</s><s p="1">​
+​</s><s p="7">​ ​this is the real me​ ​</s><s p="1">​</s></p><p t="104555" d="2636" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我快要沒時間​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'm running out of time​ ​</s><s p="1">​</s></p><p t="104555" d="2636" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我快要沒時間​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'm running out of time​ ​</s><s p="1">​</s></p><p t="107191" d="2335" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​給愛情用​ ​</s><s p="1">​
+​</s><s p="6">​ ​to fall in love​ ​</s><s p="1">​</s></p><p t="107191" d="2335" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​給愛情用​ ​</s><s p="1">​
+​</s><s p="7">​ ​to fall in love​ ​</s><s p="1">​</s></p><p t="109526" d="2336" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​只因我有的魔法​ ​</s><s p="1">​
+​</s><s p="6">​ ​'Cuz the magic I've got​ ​</s><s p="1">​</s></p><p t="109526" d="2336" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​只因我有的魔法​ ​</s><s p="1">​
+​</s><s p="7">​ ​'Cuz the magic I've got​ ​</s><s p="1">​</s></p><p t="111862" d="1702" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​不過火花​ ​</s><s p="1">​
+​</s><s p="6">​ ​is just a spark​ ​</s><s p="1">​</s></p><p t="111862" d="1702" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​不過火花​ ​</s><s p="1">​
+​</s><s p="7">​ ​is just a spark​ ​</s><s p="1">​</s></p><p t="146830" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="2">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="146830" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="3">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="146897" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="4">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="146897" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="5">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="146997" d="3837" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="6">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="146997" d="3837" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="7">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="150834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="8">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="150834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="9">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="150901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="10">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="150901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你是否還對我畏忌？​ ​</s><s p="1">​
+​</s><s p="11">​ ​Are you still afraid of me?​ ​</s><s p="1">​</s></p><p t="151168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="2">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="151168" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="3">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="151235" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="4">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="151235" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="5">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="151335" d="2569" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="151335" d="2569" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="153904" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="153904" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="153971" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="64">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="153971" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="65">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154037" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="180">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="180">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154037" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="181">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="181">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154104" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="182">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="182">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154104" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="183">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="183">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154171" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="184">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="184">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154171" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="185">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="185">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154238" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="18">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154238" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="19">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154304" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="186">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="186">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154304" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="187">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="187">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="188">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="188">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="189">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="189">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="136">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="136">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="137">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="137">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154505" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="138">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="138">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154505" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="139">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="139">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154571" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="190">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="190">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154571" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="191">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="191">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154638" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="192">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="192">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154638" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="193">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="193">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154705" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="194">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="194">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154705" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="195">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="195">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154771" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="28">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154771" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="29">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="196">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="196">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="197">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="197">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154905" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="198">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="198">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154905" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="199">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="199">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154972" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="200">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="200">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="154972" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="201">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="201">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155038" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="152">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="152">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155038" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="153">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="153">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155105" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="202">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="202">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155105" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="203">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="203">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155172" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="204">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="204">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155172" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="205">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="205">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155239" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="206">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="206">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155239" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="207">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="207">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155305" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="38">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155305" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="39">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155372" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="208">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="208">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155372" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="209">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="209">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155439" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="210">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="210">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155439" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="211">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="211">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155506" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="212">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="212">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155506" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="213">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="213">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155572" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="102">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155572" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="103">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155639" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="214">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="214">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155639" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="215">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="215">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155706" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="216">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="216">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155706" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="217">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="217">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155772" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="218">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="218">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155772" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="219">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="219">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155839" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="48">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155839" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="49">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155906" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="220">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="220">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155906" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="221">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="221">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155973" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="222">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="222">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="155973" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="223">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="223">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156039" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="224">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="224">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156039" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="225">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="225">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156106" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="226">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="226">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156106" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="227">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="227">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156173" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="172">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="172">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156173" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="173">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="173">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156240" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="228">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="228">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156240" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="229">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="229">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156306" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="230">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="230">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156306" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="231">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="231">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="122">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156373" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="123">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156440" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="124">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156440" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​我應該不會咬人，但...​ ​</s><s p="1">​
+​</s><s p="125">​ ​I'd say that I don't bite, but...​ ​</s><s p="1">​</s></p><p t="156507" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="2">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="156507" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="3">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="156573" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="4">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="156573" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="5">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="156673" d="1969" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="6">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="156673" d="1969" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="7">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="158642" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="8">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="158642" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="9">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="158709" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="10">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="158709" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你知道是謠言​ ​</s><s p="1">​
+​</s><s p="11">​ ​You know that it isn't true​ ​</s><s p="1">​</s></p><p t="158775" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="2">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="158775" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="3">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="158842" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="4">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="158842" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="5">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="158942" d="2136" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="6">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="158942" d="2136" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="7">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="161078" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="8">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="161078" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="9">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="161145" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="10">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="161145" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​他們所言​ ​</s><s p="1">​
+​</s><s p="11">​ ​the things they say​ ​</s><s p="1">​</s></p><p t="161345" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="2">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="161345" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="3">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="161411" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="4">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="161411" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="5">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="161512" d="3803" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="6">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="161512" d="3803" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="7">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="165315" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="8">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="165315" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="9">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="165382" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="10">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="165382" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​反正我們從沒機會​ ​</s><s p="1">​
+​</s><s p="11">​ ​We never had a chance anyway​ ​</s><s p="1">​</s></p><p t="166817" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="2">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="166817" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="3">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="166884" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="4">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="166884" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="5">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="166984" d="901" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="6">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="166984" d="901" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="7">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="167885" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="60">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="167885" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​你知道我有魔力​ ​</s><s p="1">​
+​</s><s p="61">​ ​You know I've got magic​ ​</s><s p="1">​</s></p><p t="167985" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="62">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="167985" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="63">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="168085" d="1101" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="6">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="168085" d="1101" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="7">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="169186" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="8">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="169186" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="9">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="169253" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="10">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="169253" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​就說關鍵字​ ​</s><s p="1">​
+​</s><s p="11">​ ​just say the word​ ​</s><s p="1">​</s></p><p t="169486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="2">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="169486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="3">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="169553" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="4">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="169553" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="5">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="169653" d="834" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="6">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="169653" d="834" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="7">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="170487" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="60">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="170487" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​看進我眼​ ​</s><s p="1">​
+​</s><s p="61">​ ​Look in my eyes​ ​</s><s p="1">​</s></p><p t="170587" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​你心是我一切​ ​</s><s p="1">​
+​</s><s p="62">​ ​your heart is my world​ ​</s><s p="1">​</s></p><p t="170587" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​你心是我一切​ ​</s><s p="1">​
+​</s><s p="63">​ ​your heart is my world​ ​</s><s p="1">​</s></p><p t="170687" d="1368" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你心是我一切​ ​</s><s p="1">​
+​</s><s p="6">​ ​your heart is my world​ ​</s><s p="1">​</s></p><p t="170687" d="1368" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你心是我一切​ ​</s><s p="1">​
+​</s><s p="7">​ ​your heart is my world​ ​</s><s p="1">​</s></p><p t="172055" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​你心是我一切​ ​</s><s p="1">​
+​</s><s p="60">​ ​your heart is my world​ ​</s><s p="1">​</s></p><p t="172055" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​你心是我一切​ ​</s><s p="1">​
+​</s><s p="61">​ ​your heart is my world​ ​</s><s p="1">​</s></p><p t="172156" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​你能否感到我心​ ​</s><s p="1">​
+​</s><s p="62">​ ​Can you feel my heartbeat?​ ​</s><s p="1">​</s></p><p t="172156" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​你能否感到我心​ ​</s><s p="1">​
+​</s><s p="63">​ ​Can you feel my heartbeat?​ ​</s><s p="1">​</s></p><p t="172256" d="1334" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你能否感到我心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Can you feel my heartbeat?​ ​</s><s p="1">​</s></p><p t="172256" d="1334" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你能否感到我心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Can you feel my heartbeat?​ ​</s><s p="1">​</s></p><p t="173590" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​你能否感到我心​ ​</s><s p="1">​
+​</s><s p="60">​ ​Can you feel my heartbeat?​ ​</s><s p="1">​</s></p><p t="173590" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​你能否感到我心​ ​</s><s p="1">​
+​</s><s p="61">​ ​Can you feel my heartbeat?​ ​</s><s p="1">​</s></p><p t="173690" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​我是一切​ ​</s><s p="1">​
+​</s><s p="62">​ ​it's on me​ ​</s><s p="1">​</s></p><p t="173690" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​我是一切​ ​</s><s p="1">​
+​</s><s p="63">​ ​it's on me​ ​</s><s p="1">​</s></p><p t="173790" d="735" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我是一切​ ​</s><s p="1">​
+​</s><s p="6">​ ​it's on me​ ​</s><s p="1">​</s></p><p t="173790" d="735" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我是一切​ ​</s><s p="1">​
+​</s><s p="7">​ ​it's on me​ ​</s><s p="1">​</s></p><p t="174525" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​我是一切​ ​</s><s p="1">​
+​</s><s p="60">​ ​it's on me​ ​</s><s p="1">​</s></p><p t="174525" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​我是一切​ ​</s><s p="1">​
+​</s><s p="61">​ ​it's on me​ ​</s><s p="1">​</s></p><p t="174625" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="62">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="174625" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="63">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="174725" d="867" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="174725" d="867" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="175592" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="8">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="175592" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="9">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="175659" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="10">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="175659" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我是全世界​ ​</s><s p="1">​
+​</s><s p="11">​ ​I'm the whole damn world​ ​</s><s p="1">​</s></p><p t="175726" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="2">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="175726" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="3">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="175792" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="4">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="175792" d="101" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="5">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="175893" d="1101" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="175893" d="1101" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="176994" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="8">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="176994" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="9">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="177060" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="10">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="177060" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我不在乎​ ​</s><s p="1">​
+​</s><s p="11">​ ​I'm carefree​ ​</s><s p="1">​</s></p><p t="177694" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="2">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="177694" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="3">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="177761" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="4">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="177761" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="5">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="177861" d="1935" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="6">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="177861" d="1935" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="7">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="179796" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="8">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="179796" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="9">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="179863" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="10">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="179863" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​而你知道我是一位魔女​ ​</s><s p="1">​
+​</s><s p="11">​ ​And you know that I'm a sorceress​ ​</s><s p="1">​</s></p><p t="179930" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="2">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="179930" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="3">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="179997" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="4">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="179997" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="5">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="180097" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="6">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="180097" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="7">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="182533" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="8">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="182533" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="9">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="182599" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="10">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="182599" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我爽我也能夠掌權​ ​</s><s p="1">​
+​</s><s p="11">​ ​I can take control if I please​ ​</s><s p="1">​</s></p><p t="183066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="2">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="183066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="3">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="183133" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="4">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="183133" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="5">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="183233" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="6">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="183233" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="7">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="185502" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="8">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="185502" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="9">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="185569" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="10">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="185569" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​別想那些我的錯誤​ ​</s><s p="1">​
+​</s><s p="11">​ ​Don't think about the mistakes I've made​ ​</s><s p="1">​</s></p><p t="185669" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="2">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="185669" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="3">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="185736" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="4">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="185736" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="5">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="185836" d="2002" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="6">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="185836" d="2002" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="7">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="187838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="8">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="187838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="9">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="187905" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="10">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="187905" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我不可能一直忍耐這事​ ​</s><s p="1">​
+​</s><s p="11">​ ​I can't keep on living through this​ ​</s><s p="1">​</s></p><p t="187971" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="187971" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="188038" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="188038" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="188138" d="1035" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="188138" d="1035" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="189173" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="189173" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="189273" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="189273" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="189373" d="1334" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="189373" d="1334" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190707" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190707" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190774" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="64">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190774" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="65">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190841" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190841" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190908" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="16">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190908" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="17">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190974" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="68">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="190974" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="69">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191041" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="70">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191041" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="71">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191108" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="72">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191108" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="73">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191175" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="74">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191175" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="75">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191241" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="76">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191241" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="77">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191308" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="24">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191308" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="25">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191375" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="78">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191375" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="79">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191441" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="80">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191441" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="81">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191508" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="28">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191508" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="29">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191575" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="82">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191575" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="83">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191642" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="84">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191642" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="85">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191708" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="86">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="86">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191708" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="87">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="87">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191775" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="88">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="88">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191775" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="89">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="89">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191842" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="90">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="90">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191842" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="91">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="91">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191909" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="92">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="92">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191909" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="93">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="93">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191975" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="94">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="94">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="191975" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="95">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="95">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192042" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="96">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="96">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192042" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="97">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="97">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192109" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="98">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="98">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192109" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="99">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="99">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192176" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192176" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192242" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="102">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192242" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="103">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192309" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192309" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192376" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192376" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192442" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="108">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="108">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192442" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="109">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="109">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192509" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="110">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="110">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192509" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="111">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="111">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192576" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="112">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="112">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192576" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="113">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="113">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192643" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="114">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="114">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192643" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="115">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="115">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192709" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="116">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="116">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192709" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="117">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="117">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192776" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192776" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192843" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="118">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="118">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192843" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="119">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="119">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192910" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="120">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="120">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192910" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="121">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="121">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192976" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="122">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="192976" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="123">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="193043" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="124">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="193043" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="125">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="193143" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="193143" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="193210" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="193210" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="193310" d="1068" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="193310" d="1068" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="194378" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="194378" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="194478" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="194478" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="194578" d="1301" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="194578" d="1301" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="195879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="195879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="195946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="64">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="195946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="65">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196013" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196013" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="16">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="17">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196146" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="68">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196146" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="69">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196213" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="70">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196213" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="71">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196280" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="72">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196280" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="73">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196346" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="74">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196346" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="75">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196413" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="76">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196413" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="77">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="24">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196480" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="25">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196547" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="78">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196547" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="79">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196613" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="80">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196613" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="81">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196680" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="28">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196680" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="29">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196747" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="82">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196747" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="83">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196813" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="84">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196813" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="85">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196880" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="86">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="86">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196880" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="87">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="87">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196947" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="88">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="88">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="196947" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="89">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="89">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197014" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="90">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="90">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197014" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="91">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="91">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197080" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="92">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="92">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197080" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="93">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="93">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197147" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="94">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="94">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197147" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="95">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="95">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197214" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="96">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="96">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197214" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="97">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="97">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197281" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="98">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="98">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197281" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="99">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="99">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197347" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197414" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="102">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197414" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="103">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197481" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197481" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197548" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197548" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197614" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="108">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="108">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197614" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="109">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="109">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197681" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="110">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="110">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197681" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="111">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="111">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197748" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="112">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="112">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197748" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="113">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="113">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197814" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="114">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="114">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197814" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="115">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="115">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197881" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="116">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="116">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197881" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="117">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="117">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197948" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="197948" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198015" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="118">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="118">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198015" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="119">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="119">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198081" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="120">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="120">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198081" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="121">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="121">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198148" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="122">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198148" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="123">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198215" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="124">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198215" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="125">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="198315" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="198315" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="198382" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="198382" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="198482" d="1001" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="198482" d="1001" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="199483" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="199483" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="199583" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="199583" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="199683" d="1335" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="199683" d="1335" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201018" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201018" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="126">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="126">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="127">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="127">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201151" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201151" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201218" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="128">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="128">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201218" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="129">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="129">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201285" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="130">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="130">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201285" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="131">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="131">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="132">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="132">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="133">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="133">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201418" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="134">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="134">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201418" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="135">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="135">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201485" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="136">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="136">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201485" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="137">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="137">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201552" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="138">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="138">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201552" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="139">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="139">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201618" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="140">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="140">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201618" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="141">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="141">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="142">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="142">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="143">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="143">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201752" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="144">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="144">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201752" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="145">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="145">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201818" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="146">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="146">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201818" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="147">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="147">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201885" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="148">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="148">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201885" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="149">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="149">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201952" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="150">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="150">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="201952" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="151">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="151">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202019" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="152">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="152">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202019" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="153">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="153">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202085" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="154">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="154">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202085" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="155">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="155">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="156">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="156">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="157">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="157">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202219" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="158">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="158">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202219" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="159">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="159">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202286" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="160">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="160">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202286" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="161">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="161">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="40">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="41">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202419" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202419" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="162">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="162">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="163">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="163">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202553" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202553" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202619" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202619" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202686" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="164">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="164">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202686" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="165">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="165">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202753" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="166">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="166">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202753" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="167">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="167">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="50">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="51">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202886" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="168">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="168">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202886" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="169">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="169">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="170">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="170">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="202953" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="171">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="171">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203020" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="172">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="172">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203020" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="173">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="173">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203086" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="174">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="174">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203086" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="175">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="175">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203153" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="176">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="176">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203153" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="177">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="177">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203220" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="178">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="178">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203220" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="179">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="179">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="203487" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="203487" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="203554" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="4">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="203554" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="5">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="203654" d="1034" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="203654" d="1034" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="204688" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="60">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="204688" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​對我施魔咒​ ​</s><s p="1">​
+​</s><s p="61">​ ​Put a spell on me​ ​</s><s p="1">​</s></p><p t="204788" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="62">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="204788" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="63">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="204888" d="634" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="204888" d="634" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205522" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="6">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205522" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="7">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205589" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="64">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205589" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="65">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205656" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="66">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205656" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="67">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205722" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="16">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205722" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="17">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205789" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="68">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205789" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="69">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205856" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="70">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205856" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="71">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205923" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="72">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205923" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="73">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205989" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="74">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="205989" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="75">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206056" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="76">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206056" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="77">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206123" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="24">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206123" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="25">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206190" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="78">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206190" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="79">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206256" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="80">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206256" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="81">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206323" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="28">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206323" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="29">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206390" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="82">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206390" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="83">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206456" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="84">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206456" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="85">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206523" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="86">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="86">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206523" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="87">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="87">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206590" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="88">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="88">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206590" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="89">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="89">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206657" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="90">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="90">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206657" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="91">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="91">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="92">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="92">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="93">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="93">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="94">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="94">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="95">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="95">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206857" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="96">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="96">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206857" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="97">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="97">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206924" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="98">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="98">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206924" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="99">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="99">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206990" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="100">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="206990" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="101">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207057" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="102">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207057" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="103">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207124" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="104">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207124" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="105">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207191" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="106">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207191" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="107">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207257" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="108">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="108">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207257" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="109">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="109">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207324" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="110">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="110">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207324" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="111">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="111">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207391" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="112">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="112">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207391" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="113">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="113">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207457" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="114">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="114">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207457" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="115">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="115">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207524" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="116">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="116">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207524" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="117">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="117">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="2">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="3">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207658" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="118">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="118">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207658" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="119">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="119">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207724" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="120">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="120">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207724" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="121">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="121">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207791" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="122">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207791" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="123">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207858" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="124">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207858" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​對我施魔咒...​ ​</s><s p="1">​
+​</s><s p="125">​ ​Put a spell on me...​ ​</s><s p="1">​</s></p><p t="207925" d="2168" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我是個魔女​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'm a sorceress​ ​</s><s p="1">​</s></p><p t="207925" d="2168" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我是個魔女​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'm a sorceress​ ​</s><s p="1">​</s></p><p t="210093" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你感覺到沒？​ ​</s><s p="1">​
+​</s><s p="6">​ ​can't you feel me?​ ​</s><s p="1">​</s></p><p t="210093" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你感覺到沒？​ ​</s><s p="1">​
+​</s><s p="7">​ ​can't you feel me?​ ​</s><s p="1">​</s></p><p t="213230" d="2035" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我沒在耍戲​ ​</s><s p="1">​
+​</s><s p="6">​ ​I play no games​ ​</s><s p="1">​</s></p><p t="213230" d="2035" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我沒在耍戲​ ​</s><s p="1">​
+​</s><s p="7">​ ​I play no games​ ​</s><s p="1">​</s></p><p t="215265" d="1869" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​這就是我自己​ ​</s><s p="1">​
+​</s><s p="6">​ ​this is the real me​ ​</s><s p="1">​</s></p><p t="215265" d="1869" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​這就是我自己​ ​</s><s p="1">​
+​</s><s p="7">​ ​this is the real me​ ​</s><s p="1">​</s></p><p t="218068" d="2636" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我快要沒時間​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'm running out of time​ ​</s><s p="1">​</s></p><p t="218068" d="2636" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我快要沒時間​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'm running out of time​ ​</s><s p="1">​</s></p><p t="220704" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​給愛情用​ ​</s><s p="1">​
+​</s><s p="6">​ ​to fall in love​ ​</s><s p="1">​</s></p><p t="220704" d="2302" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​給愛情用​ ​</s><s p="1">​
+​</s><s p="7">​ ​to fall in love​ ​</s><s p="1">​</s></p><p t="223006" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​只因我有的魔法​ ​</s><s p="1">​
+​</s><s p="6">​ ​'Cuz the magic I've got​ ​</s><s p="1">​</s></p><p t="223006" d="2369" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​只因我有的魔法​ ​</s><s p="1">​
+​</s><s p="7">​ ​'Cuz the magic I've got​ ​</s><s p="1">​</s></p><p t="225375" d="1702" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​不過火花​ ​</s><s p="1">​
+​</s><s p="6">​ ​is just a spark​ ​</s><s p="1">​</s></p><p t="225375" d="1702" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​不過火花​ ​</s><s p="1">​
+​</s><s p="7">​ ​is just a spark​ ​</s><s p="1">​</s></p></body></timedtext>

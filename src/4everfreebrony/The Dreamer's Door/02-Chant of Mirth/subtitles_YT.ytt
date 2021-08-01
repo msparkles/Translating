@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="1" ah="31" av="27" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="0" fc="#A0AAB4" fo="0" bo="0" /><pen id="2" fs="6" sz="100" fc="#FBCEE4" fo="11" bo="0" et="4" ec="#000000" /><pen id="3" fs="6" sz="100" fc="#FBCEE4" fo="11" bo="0" et="3" ec="#000000" /><pen id="4" fs="6" sz="100" fc="#FBCEE4" fo="57" bo="0" et="4" ec="#000000" /><pen id="5" fs="6" sz="100" fc="#FBCEE4" fo="57" bo="0" et="3" ec="#000000" /><pen id="6" fs="6" sz="100" fc="#FBCEE4" fo="104" bo="0" et="4" ec="#000000" /><pen id="7" fs="6" sz="100" fc="#FBCEE4" fo="104" bo="0" et="3" ec="#000000" /><pen id="8" fs="6" sz="100" fc="#FBCEE4" fo="150" bo="0" et="4" ec="#000000" /><pen id="9" fs="6" sz="100" fc="#FBCEE4" fo="150" bo="0" et="3" ec="#000000" /><pen id="10" fs="6" sz="100" fc="#FBCEE4" fo="197" bo="0" et="4" ec="#000000" /><pen id="11" fs="6" sz="100" fc="#FBCEE4" fo="197" bo="0" et="3" ec="#000000" /><pen id="12" fs="6" sz="100" fc="#FBCEE4" fo="243" bo="0" et="4" ec="#000000" /><pen id="13" fs="6" sz="100" fc="#FBCEE4" fo="243" bo="0" et="3" ec="#000000" /><pen id="14" fs="6" sz="100" fc="#FBCEE4" fo="254" bo="0" et="4" ec="#000000" /><pen id="15" fs="6" sz="100" fc="#FBCEE4" fo="254" bo="0" et="3" ec="#000000" /><pen id="16" fs="6" sz="100" fc="#FBCEE4" fo="244" bo="0" et="4" ec="#000000" /><pen id="17" fs="6" sz="100" fc="#FBCEE4" fo="244" bo="0" et="3" ec="#000000" /><pen id="18" fs="6" sz="100" fc="#FBCEE4" fo="198" bo="0" et="4" ec="#000000" /><pen id="19" fs="6" sz="100" fc="#FBCEE4" fo="198" bo="0" et="3" ec="#000000" /><pen id="20" fs="6" sz="100" fc="#FBCEE4" fo="151" bo="0" et="4" ec="#000000" /><pen id="21" fs="6" sz="100" fc="#FBCEE4" fo="151" bo="0" et="3" ec="#000000" /><pen id="22" fs="6" sz="100" fc="#FBCEE4" fo="105" bo="0" et="4" ec="#000000" /><pen id="23" fs="6" sz="100" fc="#FBCEE4" fo="105" bo="0" et="3" ec="#000000" /><pen id="24" fs="6" sz="100" fc="#FBCEE4" fo="58" bo="0" et="4" ec="#000000" /><pen id="25" fs="6" sz="100" fc="#FBCEE4" fo="58" bo="0" et="3" ec="#000000" /><pen id="26" fs="6" sz="100" fc="#FBCEE4" fo="12" bo="0" et="4" ec="#000000" /><pen id="27" fs="6" sz="100" fc="#FBCEE4" fo="12" bo="0" et="3" ec="#000000" /><pen id="28" fs="6" sz="100" fc="#FBCEE4" fo="8" bo="0" et="4" ec="#000000" /><pen id="29" fs="6" sz="100" fc="#FBCEE4" fo="8" bo="0" et="3" ec="#000000" /><pen id="30" fs="6" sz="100" fc="#FBCEE4" fo="42" bo="0" et="4" ec="#000000" /><pen id="31" fs="6" sz="100" fc="#FBCEE4" fo="42" bo="0" et="3" ec="#000000" /><pen id="32" fs="6" sz="100" fc="#FBCEE4" fo="77" bo="0" et="4" ec="#000000" /><pen id="33" fs="6" sz="100" fc="#FBCEE4" fo="77" bo="0" et="3" ec="#000000" /><pen id="34" fs="6" sz="100" fc="#FBCEE4" fo="112" bo="0" et="4" ec="#000000" /><pen id="35" fs="6" sz="100" fc="#FBCEE4" fo="112" bo="0" et="3" ec="#000000" /><pen id="36" fs="6" sz="100" fc="#FBCEE4" fo="147" bo="0" et="4" ec="#000000" /><pen id="37" fs="6" sz="100" fc="#FBCEE4" fo="147" bo="0" et="3" ec="#000000" /><pen id="38" fs="6" sz="100" fc="#FBCEE4" fo="182" bo="0" et="4" ec="#000000" /><pen id="39" fs="6" sz="100" fc="#FBCEE4" fo="182" bo="0" et="3" ec="#000000" /><pen id="40" fs="6" sz="100" fc="#FBCEE4" fo="191" bo="0" et="4" ec="#000000" /><pen id="41" fs="6" sz="100" fc="#FBCEE4" fo="191" bo="0" et="3" ec="#000000" /><pen id="42" fs="6" sz="100" fc="#FBCEE4" fo="148" bo="0" et="4" ec="#000000" /><pen id="43" fs="6" sz="100" fc="#FBCEE4" fo="148" bo="0" et="3" ec="#000000" /><pen id="44" fs="6" sz="100" fc="#FBCEE4" fo="113" bo="0" et="4" ec="#000000" /><pen id="45" fs="6" sz="100" fc="#FBCEE4" fo="113" bo="0" et="3" ec="#000000" /><pen id="46" fs="6" sz="100" fc="#FBCEE4" fo="78" bo="0" et="4" ec="#000000" /><pen id="47" fs="6" sz="100" fc="#FBCEE4" fo="78" bo="0" et="3" ec="#000000" /><pen id="48" fs="6" sz="100" fc="#FBCEE4" fo="43" bo="0" et="4" ec="#000000" /><pen id="49" fs="6" sz="100" fc="#FBCEE4" fo="43" bo="0" et="3" ec="#000000" /></head><body><p t="28412" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28412" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28479" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28479" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28746" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28746" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28812" d="5039" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="28812" d="5039" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="33851" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="33851" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="33917" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="33917" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="33984" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="33984" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="34051" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="34051" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="34118" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="34118" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="34184" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="34184" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="35452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35519" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35519" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35586" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35586" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35652" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35652" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35719" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35719" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35786" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35786" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35853" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="35853" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40758" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40758" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40824" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40824" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40891" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40891" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40958" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="40958" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="41025" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="41025" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="41091" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="41091" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="41859" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="41859" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="41925" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="41925" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="41992" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="41992" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42059" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42059" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42126" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42126" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42192" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42259" d="5372" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="42259" d="5372" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47631" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47631" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47698" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47698" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47765" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47765" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47831" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47831" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47898" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47898" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47965" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="47965" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="48732" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48732" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48866" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48866" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="48999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="49066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="49066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="49133" d="4671" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="49133" d="4671" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="53804" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="53804" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="53871" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="53871" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="53937" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="53937" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="54004" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="54004" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="54071" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="54071" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="54138" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="54138" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="54438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="2">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="3">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54505" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="4">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54505" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="5">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54571" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="6">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54571" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="7">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54638" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="8">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54638" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="9">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54705" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="10">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54705" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="11">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54772" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="12">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54772" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="13">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54838" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="14">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="54838" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="15">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59743" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="16">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59743" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="17">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59810" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="18">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59810" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="19">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59877" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="20">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59877" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="21">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59943" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="22">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="59943" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="23">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="60010" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="24">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="60010" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="25">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="60077" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="26">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="60077" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​人的心靈，可以苟且，可以突出​ ​</s><s p="1">​
+​</s><s p="27">​ ​With one mind, we can make, we can live​ ​</s><s p="1">​</s></p><p t="61311" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="2">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61311" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="3">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61378" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="4">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61378" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="5">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61445" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="6">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61445" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="7">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61512" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="8">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61512" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="9">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61578" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="10">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61578" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="11">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61645" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="12">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61645" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="13">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61712" d="5706" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="14">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="61712" d="5706" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="15">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="16">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="17">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67484" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="18">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67484" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="19">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67551" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="20">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67551" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="21">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67618" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="22">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67618" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="23">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67684" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="24">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67684" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="25">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67751" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="26">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="67751" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​人的生命，可以接受，可以付出​ ​</s><s p="1">​
+​</s><s p="27">​ ​With a life, one can take, one can give​ ​</s><s p="1">​</s></p><p t="68485" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="2">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68485" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="3">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68552" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="4">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68552" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="5">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68619" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="6">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68619" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="7">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="8">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68685" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="9">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="10">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="11">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="12">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="13">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68886" d="5438" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="14">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="68886" d="5438" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="15">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74324" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="16">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74324" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="17">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74391" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="18">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74391" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="19">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74458" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="20">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74458" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="21">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74525" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="22">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74525" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="23">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="24">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="25">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="26">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="74658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​我們歡笑，分享著我們的一切​ ​</s><s p="1">​
+​</s><s p="27">​ ​We rejoice, lending all we possess​ ​</s><s p="1">​</s></p><p t="75292" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="2">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75292" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="3">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75359" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="4">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75359" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="5">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75426" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="6">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75426" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="7">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75492" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="8">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75492" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="9">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75559" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="10">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75559" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="11">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75626" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="12">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75626" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="13">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75692" d="5539" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="14">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="75692" d="5539" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="15">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81231" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="16">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81231" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="17">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81298" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="18">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81298" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="19">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="20">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="21">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81432" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="22">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81432" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="23">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81498" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="24">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81498" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="25">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81565" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="26">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="81565" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​人的聲音，可以如塵，可以如鐘​ ​</s><s p="1">​
+​</s><s p="27">​ ​With a voice, one can lift or depress​ ​</s><s p="1">​</s></p><p t="84034" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84034" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84101" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84168" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84168" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84234" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84234" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84301" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84301" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84368" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84368" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84435" d="5038" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="84435" d="5038" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89540" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89540" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89606" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89606" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89673" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89673" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89740" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89740" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89807" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="89807" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="91075" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91075" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91141" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91141" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91275" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91275" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91341" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91341" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91475" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="91475" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96380" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96380" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96447" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96447" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96513" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96513" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96580" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96580" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96647" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96647" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96713" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="96713" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="97481" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97481" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97548" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97548" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97614" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97614" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97681" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97681" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97748" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97748" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97815" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97815" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97881" d="5406" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="97881" d="5406" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103287" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103287" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103353" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103353" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103420" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103420" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103487" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103487" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103554" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103554" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103620" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="103620" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="104354" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104354" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104421" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104421" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104488" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104488" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104555" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104555" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104621" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104621" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104688" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104688" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104755" d="3770" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="104755" d="3770" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108525" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108525" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108592" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108592" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108659" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108659" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108725" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108725" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108792" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108792" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108859" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108859" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="108959" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="2">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="108959" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="3">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109026" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="4">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109026" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="5">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109093" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="6">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109093" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="7">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109159" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="8">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109159" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="9">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109226" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="10">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109226" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="11">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109293" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="12">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109293" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="13">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109359" d="3370" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="14">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="109359" d="3370" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="15">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="16">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112729" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="17">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112796" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="18">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112796" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="19">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112863" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="20">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112863" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="21">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112930" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="22">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112930" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="23">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112996" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="24">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="112996" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="25">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="113063" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="26">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="113063" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="27">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="113664" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="2">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113664" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="3">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113730" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="4">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113730" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="5">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113797" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="6">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113797" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="7">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113864" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="8">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113864" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="9">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113931" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="10">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113931" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="11">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113997" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="12">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="113997" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="13">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="114064" d="4405" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="14">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="114064" d="4405" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="15">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118469" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="16">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118469" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="17">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118535" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="18">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118535" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="19">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118602" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="20">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118602" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="21">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118669" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="22">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118669" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="23">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118735" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="24">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118735" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="25">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118802" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="26">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="118802" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​這場大夢不允許一點怨氣​ ​</s><s p="1">​
+​</s><s p="27">​ ​In this dream, there is no room for spite​ ​</s><s p="1">​</s></p><p t="120370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="2">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120370" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="3">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="4">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120437" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="5">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120504" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="6">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120504" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="7">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120571" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="8">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120571" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="9">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120637" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="10">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120637" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="11">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120704" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="12">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120704" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="13">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120771" d="5872" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="14">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="120771" d="5872" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="15">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126643" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="16">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126643" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="17">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126710" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="18">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126710" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="19">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126777" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="20">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126777" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="21">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126844" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="22">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126844" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="23">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126910" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="24">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126910" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="25">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126977" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="26">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="126977" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​但卻好像是我自己的決定​ ​</s><s p="1">​
+​</s><s p="27">​ ​Still it seems, only I can decide​ ​</s><s p="1">​</s></p><p t="127578" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="2">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127578" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="3">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127644" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="4">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127644" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="5">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="6">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="7">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127778" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="8">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127778" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="9">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127845" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="10">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127845" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="11">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127911" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="12">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127911" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="13">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127978" d="5772" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="14">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="127978" d="5772" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="15">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133750" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="16">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133750" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="17">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133817" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="18">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133817" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="19">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133884" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="20">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133884" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="21">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133951" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="22">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="133951" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="23">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="134017" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="24">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="134017" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="25">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="134084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="26">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="134084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​我迷了路，但卻不用待在世間​ ​</s><s p="1">​
+​</s><s p="27">​ ​I am lost, but am free of the world​ ​</s><s p="1">​</s></p><p t="134351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="2">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="3">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134418" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="4">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134418" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="5">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134485" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="6">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134485" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="7">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134551" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="8">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134551" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="9">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134618" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="10">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134618" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="11">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134685" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="12">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134685" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="13">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134751" d="4772" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="14">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="134751" d="4772" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="15">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139523" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="16">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139523" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="17">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139590" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="18">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139590" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="19">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139656" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="20">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139656" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="21">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="22">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="23">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="24">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="25">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="26">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="139857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​在我眼裡，那是冰冷，那是蒼涼​ ​</s><s p="1">​
+​</s><s p="27">​ ​For outside, all is bleak, all is cold​ ​</s><s p="1">​</s></p><p t="143193" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143193" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143260" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143260" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143327" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143327" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143393" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143393" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143460" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143460" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143527" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143527" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143594" d="5038" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="143594" d="5038" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148632" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148632" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148699" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148699" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148765" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148765" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148832" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148832" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148899" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148899" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148966" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="148966" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="150234" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150234" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150300" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150300" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150367" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150367" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150434" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150434" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150501" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150501" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150567" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150567" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150634" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="150634" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155539" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155539" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155606" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155606" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155672" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155672" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155739" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155739" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155806" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155806" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155873" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="155873" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="156640" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156640" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156707" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156707" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156773" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156773" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156840" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156840" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156907" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156907" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156974" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="156974" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="157040" d="5406" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="157040" d="5406" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162446" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162446" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162513" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162513" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162579" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162579" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162646" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162646" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162713" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162713" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162779" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="162779" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="163514" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163514" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163580" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163580" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163647" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163647" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163714" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163714" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163780" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163780" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163847" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163847" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163914" d="4671" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="163914" d="4671" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168585" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168585" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168652" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168652" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168719" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168719" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168785" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168785" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168852" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168852" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168919" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="168919" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="171021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171088" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171088" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171155" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171155" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171221" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171221" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171288" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171288" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171355" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171355" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171421" d="5039" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="171421" d="5039" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176460" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176460" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176527" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176527" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176593" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176593" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176727" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176727" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176793" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="176793" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​歡笑之聲遍世間，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Jollity, forever shown;​ ​</s><s p="1">​</s></p><p t="178061" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178061" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178128" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178128" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178262" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178262" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178462" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="178462" d="4905" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183367" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183367" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183433" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183433" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183500" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183500" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183567" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183567" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183634" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183634" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183700" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="183700" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​樂道之者卻鮮見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​path of joy, so few have known.​ ​</s><s p="1">​</s></p><p t="184468" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184468" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184535" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184535" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184601" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184601" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184668" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184668" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184735" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184735" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184801" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184801" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184868" d="5406" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="184868" d="5406" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190274" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190274" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190340" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190340" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190541" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190541" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190607" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="190607" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​那份真實的誠摯，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Sincerity and emphasis,​ ​</s><s p="1">​</s></p><p t="191341" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="2">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191341" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="3">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="4">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="5">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191475" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="6">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191475" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="7">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191542" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="8">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191542" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="9">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191608" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="10">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191608" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="11">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191675" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="12">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191675" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="13">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191742" d="3670" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="14">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="191742" d="3670" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="15">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195412" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="16">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195412" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="17">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="18">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="19">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195546" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="20">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195546" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="21">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="22">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="23">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="24">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="25">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195746" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="26">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195746" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅在歡樂中看見。​ ​</s><s p="1">​
+​</s><s p="27">​ ​so truly seen in happiness.​ ​</s><s p="1">​</s></p><p t="195812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="2">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="195812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="3">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="195879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="4">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="195879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="5">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="195946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="6">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="195946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="7">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196013" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="8">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196013" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="9">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="10">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="11">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196146" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="12">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196146" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="13">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196213" d="3503" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="14">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="196213" d="3503" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="15">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199716" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="16">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199716" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="17">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199783" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="18">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199783" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="19">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199850" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="20">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199850" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="21">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199917" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="22">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199917" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="23">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="24">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="199983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="25">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="200050" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="26">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="200050" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="27">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227077" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="28">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227077" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="29">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227144" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="30">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="30">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227144" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="31">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="31">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227211" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="32">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="32">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227211" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="33">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="33">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227277" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="34">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="34">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227277" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="35">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="35">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227344" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="36">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="36">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227344" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="37">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="37">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227411" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="38">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227411" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="39">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227477" d="3804" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="40">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="227477" d="3804" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="41">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231281" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="38">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231281" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="39">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231348" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="42">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="42">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231348" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="43">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="43">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231415" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="44">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="44">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231415" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="45">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="45">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231481" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="46">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="46">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231481" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="47">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="47">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231548" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="48">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231548" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="49">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231615" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="28">​ ​In happiness​ ​</s><s p="1">​</s></p><p t="231615" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​在歡笑中​ ​</s><s p="1">​
+​</s><s p="29">​ ​In happiness​ ​</s><s p="1">​</s></p></body></timedtext>

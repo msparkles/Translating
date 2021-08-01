@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="7" ah="50" av="100" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="0" fc="#A0AAB4" fo="0" bo="0" /><pen id="2" sz="100" b="1" fc="#9DEAFF" fo="25" bo="0" et="4" ec="#0B1F52" /><pen id="3" sz="100" b="1" fc="#9DEAFF" fo="25" bo="0" et="3" ec="#0B1F52" /><pen id="4" sz="100" b="1" fc="#9DEAFF" fo="127" bo="0" et="4" ec="#0B1F52" /><pen id="5" sz="100" b="1" fc="#9DEAFF" fo="127" bo="0" et="3" ec="#0B1F52" /><pen id="6" sz="100" b="1" fc="#9DEAFF" fo="229" bo="0" et="4" ec="#0B1F52" /><pen id="7" sz="100" b="1" fc="#9DEAFF" fo="229" bo="0" et="3" ec="#0B1F52" /><pen id="8" sz="100" b="1" fc="#9DEAFF" fo="254" bo="0" et="4" ec="#0B1F52" /><pen id="9" sz="100" b="1" fc="#9DEAFF" fo="254" bo="0" et="3" ec="#0B1F52" /><pen id="10" sz="100" b="1" fc="#9DEAFF" fo="230" bo="0" et="4" ec="#0B1F52" /><pen id="11" sz="100" b="1" fc="#9DEAFF" fo="230" bo="0" et="3" ec="#0B1F52" /><pen id="12" sz="100" b="1" fc="#9DEAFF" fo="128" bo="0" et="4" ec="#0B1F52" /><pen id="13" sz="100" b="1" fc="#9DEAFF" fo="128" bo="0" et="3" ec="#0B1F52" /><pen id="14" sz="100" b="1" fc="#9DEAFF" fo="26" bo="0" et="4" ec="#0B1F52" /><pen id="15" sz="100" b="1" fc="#9DEAFF" fo="26" bo="0" et="3" ec="#0B1F52" /><pen id="16" sz="100" b="1" fc="#9DEAFF" fo="247" bo="0" et="4" ec="#0B1F52" /><pen id="17" sz="100" b="1" fc="#9DEAFF" fo="247" bo="0" et="3" ec="#0B1F52" /><pen id="18" sz="100" b="1" fc="#9DEAFF" fo="240" bo="0" et="4" ec="#0B1F52" /><pen id="19" sz="100" b="1" fc="#9DEAFF" fo="240" bo="0" et="3" ec="#0B1F52" /><pen id="20" sz="100" b="1" fc="#9DEAFF" fo="233" bo="0" et="4" ec="#0B1F52" /><pen id="21" sz="100" b="1" fc="#9DEAFF" fo="233" bo="0" et="3" ec="#0B1F52" /><pen id="22" sz="100" b="1" fc="#9DEAFF" fo="226" bo="0" et="4" ec="#0B1F52" /><pen id="23" sz="100" b="1" fc="#9DEAFF" fo="226" bo="0" et="3" ec="#0B1F52" /><pen id="24" sz="100" b="1" fc="#9DEAFF" fo="219" bo="0" et="4" ec="#0B1F52" /><pen id="25" sz="100" b="1" fc="#9DEAFF" fo="219" bo="0" et="3" ec="#0B1F52" /><pen id="26" sz="100" b="1" fc="#9DEAFF" fo="212" bo="0" et="4" ec="#0B1F52" /><pen id="27" sz="100" b="1" fc="#9DEAFF" fo="212" bo="0" et="3" ec="#0B1F52" /><pen id="28" sz="100" b="1" fc="#9DEAFF" fo="206" bo="0" et="4" ec="#0B1F52" /><pen id="29" sz="100" b="1" fc="#9DEAFF" fo="206" bo="0" et="3" ec="#0B1F52" /><pen id="30" sz="100" b="1" fc="#9DEAFF" fo="199" bo="0" et="4" ec="#0B1F52" /><pen id="31" sz="100" b="1" fc="#9DEAFF" fo="199" bo="0" et="3" ec="#0B1F52" /><pen id="32" sz="100" b="1" fc="#9DEAFF" fo="192" bo="0" et="4" ec="#0B1F52" /><pen id="33" sz="100" b="1" fc="#9DEAFF" fo="192" bo="0" et="3" ec="#0B1F52" /><pen id="34" sz="100" b="1" fc="#9DEAFF" fo="185" bo="0" et="4" ec="#0B1F52" /><pen id="35" sz="100" b="1" fc="#9DEAFF" fo="185" bo="0" et="3" ec="#0B1F52" /><pen id="36" sz="100" b="1" fc="#9DEAFF" fo="178" bo="0" et="4" ec="#0B1F52" /><pen id="37" sz="100" b="1" fc="#9DEAFF" fo="178" bo="0" et="3" ec="#0B1F52" /><pen id="38" sz="100" b="1" fc="#9DEAFF" fo="171" bo="0" et="4" ec="#0B1F52" /><pen id="39" sz="100" b="1" fc="#9DEAFF" fo="171" bo="0" et="3" ec="#0B1F52" /><pen id="40" sz="100" b="1" fc="#9DEAFF" fo="164" bo="0" et="4" ec="#0B1F52" /><pen id="41" sz="100" b="1" fc="#9DEAFF" fo="164" bo="0" et="3" ec="#0B1F52" /><pen id="42" sz="100" b="1" fc="#9DEAFF" fo="157" bo="0" et="4" ec="#0B1F52" /><pen id="43" sz="100" b="1" fc="#9DEAFF" fo="157" bo="0" et="3" ec="#0B1F52" /><pen id="44" sz="100" b="1" fc="#9DEAFF" fo="150" bo="0" et="4" ec="#0B1F52" /><pen id="45" sz="100" b="1" fc="#9DEAFF" fo="150" bo="0" et="3" ec="#0B1F52" /><pen id="46" sz="100" b="1" fc="#9DEAFF" fo="144" bo="0" et="4" ec="#0B1F52" /><pen id="47" sz="100" b="1" fc="#9DEAFF" fo="144" bo="0" et="3" ec="#0B1F52" /><pen id="48" sz="100" b="1" fc="#9DEAFF" fo="137" bo="0" et="4" ec="#0B1F52" /><pen id="49" sz="100" b="1" fc="#9DEAFF" fo="137" bo="0" et="3" ec="#0B1F52" /><pen id="50" sz="100" b="1" fc="#9DEAFF" fo="130" bo="0" et="4" ec="#0B1F52" /><pen id="51" sz="100" b="1" fc="#9DEAFF" fo="130" bo="0" et="3" ec="#0B1F52" /><pen id="52" sz="100" b="1" fc="#9DEAFF" fo="123" bo="0" et="4" ec="#0B1F52" /><pen id="53" sz="100" b="1" fc="#9DEAFF" fo="123" bo="0" et="3" ec="#0B1F52" /><pen id="54" sz="100" b="1" fc="#9DEAFF" fo="116" bo="0" et="4" ec="#0B1F52" /><pen id="55" sz="100" b="1" fc="#9DEAFF" fo="116" bo="0" et="3" ec="#0B1F52" /><pen id="56" sz="100" b="1" fc="#9DEAFF" fo="109" bo="0" et="4" ec="#0B1F52" /><pen id="57" sz="100" b="1" fc="#9DEAFF" fo="109" bo="0" et="3" ec="#0B1F52" /><pen id="58" sz="100" b="1" fc="#9DEAFF" fo="102" bo="0" et="4" ec="#0B1F52" /><pen id="59" sz="100" b="1" fc="#9DEAFF" fo="102" bo="0" et="3" ec="#0B1F52" /><pen id="60" sz="100" b="1" fc="#9DEAFF" fo="95" bo="0" et="4" ec="#0B1F52" /><pen id="61" sz="100" b="1" fc="#9DEAFF" fo="95" bo="0" et="3" ec="#0B1F52" /><pen id="62" sz="100" b="1" fc="#9DEAFF" fo="88" bo="0" et="4" ec="#0B1F52" /><pen id="63" sz="100" b="1" fc="#9DEAFF" fo="88" bo="0" et="3" ec="#0B1F52" /><pen id="64" sz="100" b="1" fc="#9DEAFF" fo="81" bo="0" et="4" ec="#0B1F52" /><pen id="65" sz="100" b="1" fc="#9DEAFF" fo="81" bo="0" et="3" ec="#0B1F52" /><pen id="66" sz="100" b="1" fc="#9DEAFF" fo="75" bo="0" et="4" ec="#0B1F52" /><pen id="67" sz="100" b="1" fc="#9DEAFF" fo="75" bo="0" et="3" ec="#0B1F52" /><pen id="68" sz="100" b="1" fc="#9DEAFF" fo="68" bo="0" et="4" ec="#0B1F52" /><pen id="69" sz="100" b="1" fc="#9DEAFF" fo="68" bo="0" et="3" ec="#0B1F52" /><pen id="70" sz="100" b="1" fc="#9DEAFF" fo="61" bo="0" et="4" ec="#0B1F52" /><pen id="71" sz="100" b="1" fc="#9DEAFF" fo="61" bo="0" et="3" ec="#0B1F52" /><pen id="72" sz="100" b="1" fc="#9DEAFF" fo="54" bo="0" et="4" ec="#0B1F52" /><pen id="73" sz="100" b="1" fc="#9DEAFF" fo="54" bo="0" et="3" ec="#0B1F52" /><pen id="74" sz="100" b="1" fc="#9DEAFF" fo="47" bo="0" et="4" ec="#0B1F52" /><pen id="75" sz="100" b="1" fc="#9DEAFF" fo="47" bo="0" et="3" ec="#0B1F52" /><pen id="76" sz="100" b="1" fc="#9DEAFF" fo="40" bo="0" et="4" ec="#0B1F52" /><pen id="77" sz="100" b="1" fc="#9DEAFF" fo="40" bo="0" et="3" ec="#0B1F52" /><pen id="78" sz="100" b="1" fc="#9DEAFF" fo="33" bo="0" et="4" ec="#0B1F52" /><pen id="79" sz="100" b="1" fc="#9DEAFF" fo="33" bo="0" et="3" ec="#0B1F52" /><pen id="80" sz="100" b="1" fc="#9DEAFF" fo="19" bo="0" et="4" ec="#0B1F52" /><pen id="81" sz="100" b="1" fc="#9DEAFF" fo="19" bo="0" et="3" ec="#0B1F52" /><pen id="82" sz="100" b="1" fc="#9DEAFF" fo="13" bo="0" et="4" ec="#0B1F52" /><pen id="83" sz="100" b="1" fc="#9DEAFF" fo="13" bo="0" et="3" ec="#0B1F52" /><pen id="84" sz="100" b="1" fc="#9DEAFF" fo="6" bo="0" et="4" ec="#0B1F52" /><pen id="85" sz="100" b="1" fc="#9DEAFF" fo="6" bo="0" et="3" ec="#0B1F52" /></head><body><p t="25943" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="2">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="25943" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="3">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="26010" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="4">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="26010" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="5">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="26076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="6">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="26076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="7">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="26143" d="3637" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="8">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="26143" d="3637" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="9">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="29780" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="10">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="29780" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="11">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="29847" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="12">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="29847" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="13">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="29913" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="14">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="29913" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​當我大聲喊，你能否聽到？​ ​</s><s p="1">​
+​</s><s p="15">​ ​Can you hear my voice when I call out?​ ​</s><s p="1">​</s></p><p t="30814" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="2">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="30814" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="3">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="30881" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="4">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="30881" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="5">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="30948" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="6">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="30948" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="7">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="31015" d="4137" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="8">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="31015" d="4137" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="9">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="35152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="10">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="35152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="11">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="35219" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="12">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="35219" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="13">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="35285" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="14">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="35285" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​跟以前比起來，有什麼新的？​ ​</s><s p="1">​
+​</s><s p="15">​ ​Is there something new from what before?​ ​</s><s p="1">​</s></p><p t="35586" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="2">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="35586" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="3">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="35652" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="4">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="35652" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="5">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="35719" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="6">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="35719" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="7">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="35786" d="4004" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="8">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="35786" d="4004" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="9">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="39790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="10">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="39790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="11">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="39857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="12">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="39857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="13">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="39923" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="14">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="39923" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​經歷了這麼多，我能否喘口氣？​ ​</s><s p="1">​
+​</s><s p="15">​ ​Can I get a break from everything I've gone through?​ ​</s><s p="1">​</s></p><p t="40424" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="2">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="40424" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="3">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="40491" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="4">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="40491" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="5">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="40557" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="6">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="40557" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="7">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="40624" d="3971" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="8">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="40624" d="3971" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="9">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="44595" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="10">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="44595" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="11">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="44661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="12">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="44661" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="13">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="44728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="14">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="44728" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你也可以看看活了多久​ ​</s><s p="1">​
+​</s><s p="15">​ ​You can use that lifetime too​ ​</s><s p="1">​</s></p><p t="45529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="2">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="45529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="3">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="45596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="4">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="45596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="5">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="45662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="6">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="45662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="7">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="45729" d="3671" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="8">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="45729" d="3671" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="9">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="49400" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="10">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="49400" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="11">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="49466" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="12">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="49466" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="13">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="49533" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="14">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="49533" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="15">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="50300" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="2">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="50300" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="3">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="50367" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="4">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="50367" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="5">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="50434" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="6">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="50434" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="7">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="50501" d="1401" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="8">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="50501" d="1401" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="9">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="51902" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="10">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="51902" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="11">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="51969" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="12">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="51969" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="13">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="52036" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="14">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="52036" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="15">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="52102" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="2">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="52102" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="3">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="52169" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="4">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="52169" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="5">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="52236" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="6">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="52236" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="7">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="52302" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="8">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="52302" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="9">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="54371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="10">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="54371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="11">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="54438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="12">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="54438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="13">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="54505" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="14">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="54505" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="15">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="55039" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="2">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="55039" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="3">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="55105" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="4">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="55105" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="5">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="55172" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="6">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="55172" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="7">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="55239" d="3570" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="8">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="55239" d="3570" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="9">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="58809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="10">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="58809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="11">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="58876" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="12">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="58876" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="13">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="58942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="14">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="58942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="15">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="59009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="2">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="59009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="3">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="59076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="4">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="59076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="5">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="59143" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="6">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="59143" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="7">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="59209" d="1402" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="8">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="59209" d="1402" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="9">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60611" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="8">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60611" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="9">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60677" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="16">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60677" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="17">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="18">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60744" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="19">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60811" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="20">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60811" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="21">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60878" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="22">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60878" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="23">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="24">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="60944" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="25">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61011" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="26">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61011" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="27">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61078" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="28">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61078" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="29">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61145" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="30">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="30">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61145" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="31">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="31">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61211" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="32">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="32">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61211" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="33">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="33">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61278" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="34">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="34">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61278" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="35">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="35">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61345" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="36">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="36">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61345" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="37">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="37">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61412" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="38">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61412" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="39">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61478" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="40">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61478" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="41">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="42">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="42">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="43">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="43">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61612" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="44">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="44">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61612" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="45">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="45">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61678" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="46">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="46">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61678" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="47">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="47">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61745" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="48">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61745" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="49">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="50">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="51">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61879" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="52">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="52">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61879" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="53">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="53">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61945" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="54">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="54">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="61945" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="55">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="55">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62012" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="56">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="56">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62012" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="57">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="57">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="58">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="58">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62079" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="59">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="59">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62146" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="60">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62146" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="61">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62212" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="62">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62212" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="63">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62279" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="64">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62279" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="65">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62346" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="66">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62346" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="67">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62413" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="68">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62413" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="69">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="70">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62479" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="71">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62546" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="72">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62546" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="73">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62613" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="74">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62613" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="75">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="76">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62679" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="77">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62746" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="78">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62746" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="79">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62813" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="14">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62813" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="15">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62880" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="80">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62880" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="81">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="82">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="62946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="83">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="63013" d="134" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="84">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="63013" d="134" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="85">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="63147" d="1067" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​彷彿能夠—​ ​</s><s p="1">​
+​</s><s p="8">​ ​Feel like I could--​ ​</s><s p="1">​</s></p><p t="63147" d="1067" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​彷彿能夠—​ ​</s><s p="1">​
+​</s><s p="9">​ ​Feel like I could--​ ​</s><s p="1">​</s></p><p t="64214" d="4138" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​—打倒一隻大熊座​ ​</s><s p="1">​
+​</s><s p="8">​ ​--take down an Ursa Major​ ​</s><s p="1">​</s></p><p t="64214" d="4138" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​—打倒一隻大熊座​ ​</s><s p="1">​
+​</s><s p="9">​ ​--take down an Ursa Major​ ​</s><s p="1">​</s></p><p t="68352" d="4538" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​能抬起這個該死世界​ ​</s><s p="1">​
+​</s><s p="8">​ ​like I could lift up the whole damn world​ ​</s><s p="1">​</s></p><p t="68352" d="4538" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​能抬起這個該死世界​ ​</s><s p="1">​
+​</s><s p="9">​ ​like I could lift up the whole damn world​ ​</s><s p="1">​</s></p><p t="72890" d="5305" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但我能否就停止作夢​ ​</s><s p="1">​
+​</s><s p="8">​ ​But can I get a break from dreaming​ ​</s><s p="1">​</s></p><p t="72890" d="5305" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但我能否就停止作夢​ ​</s><s p="1">​
+​</s><s p="9">​ ​But can I get a break from dreaming​ ​</s><s p="1">​</s></p><p t="78195" d="5105" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​他媽對一個女孩還是太多​ ​</s><s p="1">​
+​</s><s p="8">​ ​it's just too much for one damn girl​ ​</s><s p="1">​</s></p><p t="78195" d="5105" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​他媽對一個女孩還是太多​ ​</s><s p="1">​
+​</s><s p="9">​ ​it's just too much for one damn girl​ ​</s><s p="1">​</s></p><p t="102653" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="2">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="102653" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="3">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="102719" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="4">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="102719" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="5">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="102786" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="6">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="102786" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="7">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="102853" d="4238" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="8">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="102853" d="4238" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="9">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="107091" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="10">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="107091" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="11">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="107157" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="12">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="107157" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="13">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="107224" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="14">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="107224" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​歷史是給那些不好好玩的人來寫​ ​</s><s p="1">​
+​</s><s p="15">​ ​History is written by the ones who don't play nice​ ​</s><s p="1">​</s></p><p t="107558" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="2">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="107558" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="3">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="107624" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="4">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="107624" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="5">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="107691" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="6">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="107691" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="7">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="107758" d="2836" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="8">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="107758" d="2836" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="9">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="110594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="10">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="110594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="11">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="110661" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="12">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="110661" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="13">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="110727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="14">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="110727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​守規矩的人不會有什麼聲望​ ​</s><s p="1">​
+​</s><s p="15">​ ​No fame is gained in behaving​ ​</s><s p="1">​</s></p><p t="112396" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="2">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="112396" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="3">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="112463" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="4">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="112463" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="5">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="112529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="112529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="112596" d="3904" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="8">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="112596" d="3904" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="9">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="116500" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="10">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="116500" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="11">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="116567" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="12">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="116567" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="13">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="116633" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="14">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="116633" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​要是能達成目的我也會開始動亂​ ​</s><s p="1">​
+​</s><s p="15">​ ​I'd start a riot if it meant I'd get my way​ ​</s><s p="1">​</s></p><p t="116700" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="2">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="116700" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="3">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="116767" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="4">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="116767" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="5">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="116834" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="6">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="116834" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="7">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="116900" d="4405" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="8">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="116900" d="4405" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="9">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="121305" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="10">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="121305" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="11">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="121371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="12">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="121371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="13">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="121438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="14">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="121438" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​聽聽看在那新暑期中的魔力​ ​</s><s p="1">​
+​</s><s p="15">​ ​Listen for the magic in the new type summer phase​ ​</s><s p="1">​</s></p><p t="122272" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="2">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="122272" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="3">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="122339" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="4">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="122339" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="5">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="122406" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="6">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="122406" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="7">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="122473" d="3737" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="8">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="122473" d="3737" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="9">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="126210" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="10">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="126210" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="11">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="126276" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="12">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="126276" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="13">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="126343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="14">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="126343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​登上舞台，把握時機​ ​</s><s p="1">​
+​</s><s p="15">​ ​You take the stage and seize the moment​ ​</s><s p="1">​</s></p><p t="127111" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="2">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="127111" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="3">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="127177" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="4">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="127177" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="5">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="127244" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="6">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="127244" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="7">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="127311" d="3703" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="8">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="127311" d="3703" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="9">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="131014" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="10">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="131014" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="11">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="131081" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="12">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="131081" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="13">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="131148" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="14">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="131148" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​翻過一頁，聽見海聲​ ​</s><s p="1">​
+​</s><s p="15">​ ​Turn a page and hear the ocean​ ​</s><s p="1">​</s></p><p t="131982" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="2">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="131982" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="3">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="132049" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="4">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="132049" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="5">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="132116" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="6">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="132116" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="7">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="132182" d="3671" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="8">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="132182" d="3671" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="9">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="135853" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="10">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="135853" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="11">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="135919" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="12">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="135919" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="13">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="135986" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="14">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="135986" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​燒一座橋，再建新的​ ​</s><s p="1">​
+​</s><s p="15">​ ​We burn a bridge and then rebuild it​ ​</s><s p="1">​</s></p><p t="136687" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="2">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="136687" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="3">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="136753" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="4">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="136753" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="5">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="136820" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="6">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="136820" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="7">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="136887" d="2903" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="8">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="136887" d="2903" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="9">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="139790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="10">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="139790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="11">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="139857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="12">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="139857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="13">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="139923" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="14">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="139923" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​就算是鹹魚，也能夠翻身​ ​</s><s p="1">​
+​</s><s p="15">​ ​Not one c-list protag gone amiss​ ​</s><s p="1">​</s></p><p t="141692" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="2">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="141692" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="3">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="141758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="4">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="141758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="5">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="141825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="6">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="141825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="7">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="141892" d="3637" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="8">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="141892" d="3637" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="9">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="145529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="10">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="145529" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="11">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="145596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="12">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="145596" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="13">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="145662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="14">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="145662" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​太多雙翅膀，太多匹在飛翔​ ​</s><s p="1">​
+​</s><s p="15">​ ​Way too many wings, too many up on high​ ​</s><s p="1">​</s></p><p t="146463" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="2">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="146463" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="3">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="146530" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="4">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="146530" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="5">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="146597" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="6">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="146597" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="7">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="146663" d="1402" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="8">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="146663" d="1402" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="9">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="148065" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="10">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="148065" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="11">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="148132" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="12">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="148132" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="13">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="148198" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="14">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="148198" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​每一雙翅膀，就有隻角​ ​</s><s p="1">​
+​</s><s p="15">​ ​and for every pair, there's a horn​ ​</s><s p="1">​</s></p><p t="148265" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="2">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="148265" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="3">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="148332" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="4">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="148332" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="5">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="148398" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="6">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="148398" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="7">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="148465" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="8">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="148465" d="2069" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="9">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="150534" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="10">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="150534" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="11">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="150601" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="12">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="150601" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="13">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="150667" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="14">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="150667" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​魔法大家有​ ​</s><s p="1">​
+​</s><s p="15">​ ​Magic's got to spare​ ​</s><s p="1">​</s></p><p t="151201" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="2">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="151201" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="3">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="151268" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="4">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="151268" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="5">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="151335" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="6">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="151335" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="7">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="151401" d="3537" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="8">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="151401" d="3537" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="9">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="154938" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="10">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="154938" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="11">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="155005" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="12">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="155005" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="13">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="155072" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="14">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="155072" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​感覺能做的還有好多​ ​</s><s p="1">​
+​</s><s p="15">​ ​Feel like I could be so much more​ ​</s><s p="1">​</s></p><p t="155139" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="2">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="155139" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="3">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="155205" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="4">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="155205" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="5">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="155272" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="6">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="155272" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="7">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="155339" d="1401" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="8">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="155339" d="1401" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="9">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156740" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="8">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156740" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="9">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156807" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="16">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156807" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="17">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156874" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="18">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156874" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="19">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156940" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="20">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="156940" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="21">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157007" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="22">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157007" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="23">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157074" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="24">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157074" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="25">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157141" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="26">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157141" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="27">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157207" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="28">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157207" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="29">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157274" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="30">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="30">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157274" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="31">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="31">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157341" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="32">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="32">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157341" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="33">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="33">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="34">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="34">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157407" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="35">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="35">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="36">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="36">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157474" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="37">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="37">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157541" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="38">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157541" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="39">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157608" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="40">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157608" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="41">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157674" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="42">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="42">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157674" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="43">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="43">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157741" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="44">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="44">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157741" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="45">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="45">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157808" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="46">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="46">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157808" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="47">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="47">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157875" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="48">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157875" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="49">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="50">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="157941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="51">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="52">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="52">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="53">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="53">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="54">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="54">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="55">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="55">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158142" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="56">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="56">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158142" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="57">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="57">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="58">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="58">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="59">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="59">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="60">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="61">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158342" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="62">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158342" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="63">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="64">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="65">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158475" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="66">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158475" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="67">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158542" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="68">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158542" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="69">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158609" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="70">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158609" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="71">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158675" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="72">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158675" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="73">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158742" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="74">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158742" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="75">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="76">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="77">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158876" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="78">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158876" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="79">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="14">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="158942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="15">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="159009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="80">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="159009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="81">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="159076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="82">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="159076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="83">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="159143" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="84">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="159143" d="100" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​就做什麼​ ​</s><s p="1">​
+​</s><s p="85">​ ​Do anything​ ​</s><s p="1">​</s></p><p t="159243" d="1067" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​彷彿能夠—​ ​</s><s p="1">​
+​</s><s p="8">​ ​Feel like I could--​ ​</s><s p="1">​</s></p><p t="159243" d="1067" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​彷彿能夠—​ ​</s><s p="1">​
+​</s><s p="9">​ ​Feel like I could--​ ​</s><s p="1">​</s></p><p t="160310" d="4138" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​—打倒一隻大熊座​ ​</s><s p="1">​
+​</s><s p="8">​ ​--take down an Ursa Major​ ​</s><s p="1">​</s></p><p t="160310" d="4138" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​—打倒一隻大熊座​ ​</s><s p="1">​
+​</s><s p="9">​ ​--take down an Ursa Major​ ​</s><s p="1">​</s></p><p t="164448" d="4538" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​能抬起這個該死世界​ ​</s><s p="1">​
+​</s><s p="8">​ ​like I could lift up the whole damn world​ ​</s><s p="1">​</s></p><p t="164448" d="4538" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​能抬起這個該死世界​ ​</s><s p="1">​
+​</s><s p="9">​ ​like I could lift up the whole damn world​ ​</s><s p="1">​</s></p><p t="168986" d="5305" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​但我能否就停止作夢​ ​</s><s p="1">​
+​</s><s p="8">​ ​But can I get a break from dreaming​ ​</s><s p="1">​</s></p><p t="168986" d="5305" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​但我能否就停止作夢​ ​</s><s p="1">​
+​</s><s p="9">​ ​But can I get a break from dreaming​ ​</s><s p="1">​</s></p><p t="174291" d="5105" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​他媽對一個女孩還是太多​ ​</s><s p="1">​
+​</s><s p="8">​ ​it's just too much for one damn girl​ ​</s><s p="1">​</s></p><p t="174291" d="5105" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​他媽對一個女孩還是太多​ ​</s><s p="1">​
+​</s><s p="9">​ ​it's just too much for one damn girl​ ​</s><s p="1">​</s></p></body></timedtext>

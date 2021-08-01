@@ -1,0 +1,666 @@
+# special
+unknown.svg:
+  extensions: __unknown
+
+folder.svg:
+  extensions: __folder
+
+go_up.svg:
+  extensions: __go-up
+  #made by combining folder-lnk and folder
+
+# normal, may be wrong because I'm a little lazy.
+actionscript.svg:
+  extensions: actionscript
+
+ai.svg:
+  extensions: ai
+
+android.svg:
+  extensions: android
+
+angular-component.svg:
+  extensions: angular-component
+
+angular-directive.svg:
+  extensions: angular-directive
+
+angular-guard.svg:
+  extensions: angular-guard
+
+angular-pipe.svg:
+  extensions: angular-pipe
+
+angular-resolver.svg:
+  extensions: angular-resolver
+
+angular-routing.svg:
+  extensions: angular-routing
+
+angular-service.svg:
+  extensions: angular-service
+
+angular.svg:
+  extensions: angular
+
+applescript.svg:
+  extensions: applescript
+
+arduino.svg:
+  extensions: arduino
+
+assembly.svg:
+  extensions: assembly
+
+audio.svg:
+  extensions: audio
+
+autohotkey.svg:
+  extensions: autohotkey
+
+babel.svg:
+  extensions: babel
+
+blade.svg:
+  extensions: blade
+
+bower.svg:
+  extensions: bower
+
+browserlist.svg:
+  extensions: browserlist
+
+c.svg:
+  extensions: c
+
+cabal.svg:
+  extensions: cabal
+
+cargo-lock.svg:
+  extensions: cargo-lock
+
+certificate.svg:
+  extensions: certificate
+
+changelog.svg:
+  extensions: changelog
+
+clojure.svg:
+  extensions: clojure
+
+cmake.svg:
+  extensions: cmake
+
+cmd.svg:
+  extensions: cmd
+
+coffee.svg:
+  extensions: coffee
+
+coldfusion.svg:
+  extensions: coldfusion
+
+conduct.svg:
+  extensions: conduct
+
+console.svg:
+  extensions: console
+
+contributing.svg:
+  extensions: contributing
+
+cpp.svg:
+  extensions: cpp
+
+credits.svg:
+  extensions: credits
+
+csharp.svg:
+  extensions: csharp
+
+css-map.svg:
+  extensions: css-map
+
+css.svg:
+  extensions: css
+
+dart.svg:
+  extensions: dart
+
+database.svg:
+  extensions: database
+
+dlang.svg:
+  extensions: dlang
+
+docker.svg:
+  extensions: docker
+
+document.svg:
+  extensions: document
+
+dvc.svg:
+  extensions: dvc
+
+elixir-lock.svg:
+  extensions: elixir-lock
+
+elixir.svg:
+  extensions: elixir
+
+elm.svg:
+  extensions: elm
+
+email.svg:
+  extensions: email
+
+erlang.svg:
+  extensions: erlang
+
+eslint.svg:
+  extensions: eslint
+
+ex.svg:
+  extensions: ex
+
+exe.svg:
+  extensions: exe
+
+favicon.svg:
+  extensions: favicon
+
+file_dark.svg:
+  extensions: file_dark
+
+file_lnk.svg:
+  extensions: file_lnk
+
+file_mdx.svg:
+  extensions: file_mdx
+
+firebase.svg:
+  extensions: firebase
+
+flash.svg:
+  extensions: flash
+
+flow.svg:
+  extensions: flow
+
+folder_assets.svg:
+  extensions: folder_assets
+
+folder_assets_open.svg:
+  extensions: folder_assets_open
+
+folder_bower.svg:
+  extensions: folder_bower
+
+folder_bower_open.svg:
+  extensions: folder_bower_open
+
+folder_ci.svg:
+  extensions: folder_ci
+
+folder_ci_open.svg:
+  extensions: folder_ci_open
+
+folder_css.svg:
+  extensions: folder_css
+
+folder_css_open.svg:
+  extensions: folder_css_open
+
+folder_dark.svg:
+  extensions: folder_dark
+
+folder_dist.svg:
+  extensions: folder_dist
+
+folder_dist_open.svg:
+  extensions: folder_dist_open
+
+folder_git.svg:
+  extensions: folder_git
+
+folder_git_open.svg:
+  extensions: folder_git_open
+
+folder_github.svg:
+  extensions: folder_github
+
+folder_github_open.svg:
+  extensions: folder_github_open
+
+folder_gulp.svg:
+  extensions: folder_gulp
+
+folder_gulp_open.svg:
+  extensions: folder_gulp_open
+
+folder_images.svg:
+  extensions: folder_images
+
+folder_images_open.svg:
+  extensions: folder_images_open
+
+folder_js.svg:
+  extensions: folder_js
+
+folder_js_open.svg:
+  extensions: folder_js_open
+
+folder_light.svg:
+  extensions: folder_light
+
+folder_nginx.svg:
+  extensions: folder_nginx
+
+folder_nginx_open.svg:
+  extensions: folder_nginx_open
+
+folder_node.svg:
+  extensions: folder_node
+
+folder_node_open.svg:
+  extensions: folder_node_open
+
+folder_open.svg:
+  extensions: folder_open
+
+folder_root_dark.svg:
+  extensions: folder_root_dark
+
+folder_root_light.svg:
+  extensions: folder_root_light
+
+folder_root_open.svg:
+  extensions: folder_root_open
+
+folder_sass.svg:
+  extensions: folder_sass
+
+folder_sass_open.svg:
+  extensions: folder_sass_open
+
+folder_src.svg:
+  extensions: folder_src
+
+folder_src_open.svg:
+  extensions: folder_src_open
+
+folder_test.svg:
+  extensions: folder_test
+
+folder_test_open.svg:
+  extensions: folder_test_open
+
+folder_vscode.svg:
+  extensions: folder_vscode
+
+folder_vscode_open.svg:
+  extensions: folder_vscode_open
+
+font.svg:
+  extensions: font
+
+fsharp.svg:
+  extensions: fsharp
+
+gatsby.svg:
+  extensions: gatsby
+
+git.svg:
+  extensions: git
+
+github.svg:
+  extensions: github
+
+gitlab.svg:
+  extensions: gitlab
+
+go.svg:
+  extensions: go
+
+gradle.svg:
+  extensions: gradle
+
+graphql.svg:
+  extensions: graphql
+
+graphviz.svg:
+  extensions: graphviz
+
+groovy.svg:
+  extensions: groovy
+
+grunt.svg:
+  extensions: grunt
+
+gulp.svg:
+  extensions: gulp
+
+haml.svg:
+  extensions: haml
+
+handlebars.svg:
+  extensions: handlebars
+
+haskell.svg:
+  extensions: haskell
+
+haxe.svg:
+  extensions: haxe
+
+html.svg:
+  extensions: html
+
+image.svg:
+  extensions: image
+
+ionic.svg:
+  extensions: ionic
+
+java.svg:
+  extensions: java
+
+jenkins.svg:
+  extensions: jenkins
+
+jest.svg:
+  extensions: jest
+
+js.svg:
+  extensions: js
+
+js_map.svg:
+  extensions: js_map
+
+json.svg:
+  extensions: json
+
+julia.svg:
+  extensions: julia
+
+jupyter.svg:
+  extensions: jupyter
+
+key.svg:
+  extensions: key
+
+kotlin.svg:
+  extensions: kotlin
+
+less.svg:
+  extensions: less
+
+lib.svg:
+  extensions: util
+
+license.svg:
+  extensions: license
+
+liquid.svg:
+  extensions: liquid
+
+lua.svg:
+  extensions: lua
+
+markdown.svg:
+  extensions: markdown,md
+
+markojs.svg:
+  extensions: markojs
+
+markup.svg:
+  extensions: markup
+
+matlab.svg:
+  extensions: matlab
+
+mdx.svg:
+  extensions: mdx
+
+mjml.svg:
+  extensions: mjml
+
+movie.svg:
+  extensions: movie
+
+mustache.svg:
+  extensions: mustache
+
+mxml.svg:
+  extensions: mxml
+
+nginx.svg:
+  extensions: nginx
+
+node.svg:
+  extensions: node
+
+note.svg:
+  extensions: note
+
+now.svg:
+  extensions: now
+
+npm.svg:
+  extensions: npm
+
+nunjucks.svg:
+  extensions: nunjucks
+
+nuxtconfig.svg:
+  extensions: nuxtconfig
+
+ocaml.svg:
+  extensions: ocaml
+
+package-lock.svg:
+  extensions: package-lock
+
+pdf.svg:
+  extensions: pdf
+
+perl.svg:
+  extensions: perl
+
+php.svg:
+  extensions: php
+
+pipfile-lock.svg:
+  extensions: pipfile-lock
+
+pipfile.svg:
+  extensions: pipfile
+
+polymer.svg:
+  extensions: polymer
+
+postcss.svg:
+  extensions: postcss
+
+powerpoint.svg:
+  extensions: powerpoint
+
+prettier.svg:
+  extensions: prettier
+
+procfile.svg:
+  extensions: procfile
+
+protobuf.svg:
+  extensions: protobuf
+
+psd.svg:
+  extensions: psd
+
+pug.svg:
+  extensions: pug
+
+puppet.svg:
+  extensions: puppet
+
+python.svg:
+  extensions: python
+
+r.svg:
+  extensions: r
+
+rails.svg:
+  extensions: rails
+
+raml.svg:
+  extensions: raml
+
+react.svg:
+  extensions: react
+
+readme.svg:
+  extensions: readme
+
+reason.svg:
+  extensions: reason
+
+rest.svg:
+  extensions: rest
+
+rollup.svg:
+  extensions: rollup
+
+ruby.svg:
+  extensions: ruby
+
+rust.svg:
+  extensions: rust
+
+sass.svg:
+  extensions: sass
+
+scala.svg:
+  extensions: scala
+
+settings.svg:
+  extensions: settings
+
+sketch.svg:
+  extensions: sketch
+
+slim.svg:
+  extensions: slim
+
+smallbasic.svg:
+  extensions: smallbasic
+
+source.svg:
+  extensions: source
+
+sql-lite.svg:
+  extensions: sql-lite
+
+sql.svg:
+  extensions: sql
+
+storybook.svg:
+  extensions: storybook
+
+stylelint.svg:
+  extensions: stylelint
+
+stylus.svg:
+  extensions: stylus
+
+sublime.svg:
+  extensions: sublime
+
+svelte.svg:
+  extensions: svelte
+
+svg.svg:
+  extensions: svg
+
+swc.svg:
+  extensions: swc
+
+swift.svg:
+  extensions: swift
+
+swig.svg:
+  extensions: swig
+
+table.svg:
+  extensions: table
+
+tailwind.svg:
+  extensions: tailwind
+
+tcl.svg:
+  extensions: tcl
+
+terraform.svg:
+  extensions: terraform
+
+test.svg:
+  extensions: test
+
+tex.svg:
+  extensions: tex
+
+todo.svg:
+  extensions: todo
+
+tune.svg:
+  extensions: tune
+
+twig.svg:
+  extensions: twig
+
+typescript.svg:
+  extensions: typescript
+
+typescript_def.svg:
+  extensions: typescript_def
+
+url.svg:
+  extensions: url
+
+virtual.svg:
+  extensions: virtual
+
+visualstudio.svg:
+  extensions: visualstudio
+
+vlang.svg:
+  extensions: vlang
+
+vue.svg:
+  extensions: vue
+
+webpack.svg:
+  extensions: webpack
+
+word.svg:
+  extensions: word
+
+xaml.svg:
+  extensions: xaml
+
+xml.svg:
+  extensions: xml
+
+yaml.svg:
+  extensions: yaml
+
+yarn-lock.svg:
+  extensions: yarn-lock
+
+yarn.svg:
+  extensions: yarn
+
+zephyr.svg:
+  extensions: zephyr
+
+zip.svg:
+  extensions: zip
+

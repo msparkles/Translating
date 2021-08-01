@@ -1,0 +1,726 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.16.0" root="/home/madeline/Translating/src/Jane Remover/frailty/goldfish/assets/video">
+ <profile frame_rate_num="30" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="1" description="HD 1080p 30 fps" display_aspect_num="16" frame_rate_den="1" width="1920" height="1080" sample_aspect_den="1"/>
+ <producer id="producer0" in="00:00:00.000" out="00:19:41.067">
+  <property name="length">2147483647</property>
+  <property name="eof">continue</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="kdenlive:playlistid">black_track</property>
+  <property name="mlt_image_format">rgba</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">60</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist0"/>
+  <track hide="video" producer="playlist1"/>
+  <filter id="filter0">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter1">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter2">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="dbpeak">1</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <chain id="chain0" out="00:03:01.033">
+  <property name="length">5432</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/madeline/Translating/src/Jane Remover/frailty/goldfish/assets/source/goldfish.mp3</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:multistreams">1</property>
+  <property name="kdenlive:file_size">4702071</property>
+  <property name="kdenlive:file_hash">88f18012817db608544e12e6f7e27c3f</property>
+  <property name="meta.media.nb_streams">9</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">128000</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc60.3.</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">640</property>
+  <property name="meta.media.1.codec.height">640</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.title.markup">Cover</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">640</property>
+  <property name="meta.media.2.codec.height">640</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.2.codec.colorspace">601</property>
+  <property name="meta.media.2.codec.name">mjpeg</property>
+  <property name="meta.media.2.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.2.stream.title.markup">Cover</property>
+  <property name="meta.attr.2.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.3.stream.type">video</property>
+  <property name="meta.media.3.stream.frame_rate">90000</property>
+  <property name="meta.media.3.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.3.codec.width">640</property>
+  <property name="meta.media.3.codec.height">640</property>
+  <property name="meta.media.3.codec.rotate">0</property>
+  <property name="meta.media.3.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.3.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.3.codec.colorspace">601</property>
+  <property name="meta.media.3.codec.name">mjpeg</property>
+  <property name="meta.media.3.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.3.codec.bit_rate">0</property>
+  <property name="meta.attr.3.stream.title.markup">Cover</property>
+  <property name="meta.attr.3.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.4.stream.type">video</property>
+  <property name="meta.media.4.stream.frame_rate">90000</property>
+  <property name="meta.media.4.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.4.codec.width">640</property>
+  <property name="meta.media.4.codec.height">640</property>
+  <property name="meta.media.4.codec.rotate">0</property>
+  <property name="meta.media.4.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.4.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.4.codec.colorspace">601</property>
+  <property name="meta.media.4.codec.name">mjpeg</property>
+  <property name="meta.media.4.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.4.codec.bit_rate">0</property>
+  <property name="meta.attr.4.stream.title.markup">Cover</property>
+  <property name="meta.attr.4.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.5.stream.type">video</property>
+  <property name="meta.media.5.stream.frame_rate">90000</property>
+  <property name="meta.media.5.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.5.codec.width">640</property>
+  <property name="meta.media.5.codec.height">640</property>
+  <property name="meta.media.5.codec.rotate">0</property>
+  <property name="meta.media.5.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.5.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.5.codec.colorspace">601</property>
+  <property name="meta.media.5.codec.name">mjpeg</property>
+  <property name="meta.media.5.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.5.codec.bit_rate">0</property>
+  <property name="meta.attr.5.stream.title.markup">Cover</property>
+  <property name="meta.attr.5.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.6.stream.type">video</property>
+  <property name="meta.media.6.stream.frame_rate">90000</property>
+  <property name="meta.media.6.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.6.codec.width">640</property>
+  <property name="meta.media.6.codec.height">640</property>
+  <property name="meta.media.6.codec.rotate">0</property>
+  <property name="meta.media.6.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.6.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.6.codec.colorspace">601</property>
+  <property name="meta.media.6.codec.name">mjpeg</property>
+  <property name="meta.media.6.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.6.codec.bit_rate">0</property>
+  <property name="meta.attr.6.stream.title.markup">Cover</property>
+  <property name="meta.attr.6.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.7.stream.type">video</property>
+  <property name="meta.media.7.stream.frame_rate">90000</property>
+  <property name="meta.media.7.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.7.codec.width">640</property>
+  <property name="meta.media.7.codec.height">640</property>
+  <property name="meta.media.7.codec.rotate">0</property>
+  <property name="meta.media.7.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.7.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.7.codec.colorspace">601</property>
+  <property name="meta.media.7.codec.name">mjpeg</property>
+  <property name="meta.media.7.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.7.codec.bit_rate">0</property>
+  <property name="meta.attr.7.stream.title.markup">Cover</property>
+  <property name="meta.attr.7.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.8.stream.type">video</property>
+  <property name="meta.media.8.stream.frame_rate">90000</property>
+  <property name="meta.media.8.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.8.codec.width">640</property>
+  <property name="meta.media.8.codec.height">640</property>
+  <property name="meta.media.8.codec.rotate">0</property>
+  <property name="meta.media.8.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.8.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.8.codec.colorspace">601</property>
+  <property name="meta.media.8.codec.name">mjpeg</property>
+  <property name="meta.media.8.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.8.codec.bit_rate">0</property>
+  <property name="meta.attr.8.stream.title.markup">Cover</property>
+  <property name="meta.attr.8.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.title.markup">goldfish</property>
+  <property name="meta.attr.artist.markup">Jane Remover</property>
+  <property name="meta.attr.track.markup">1/13</property>
+  <property name="meta.attr.album.markup">Frailty</property>
+  <property name="meta.attr.disc.markup">1/1</property>
+  <property name="meta.attr.date.markup">2021-11-12</property>
+  <property name="meta.attr.genre.markup">Glitchcore</property>
+  <property name="meta.attr.TDOR.markup">2021</property>
+  <property name="meta.attr.encoded_by.markup">deadAir</property>
+  <property name="meta.attr.copyright.markup">2021 deadAir</property>
+  <property name="meta.attr.album_artist.markup">Jane Remover</property>
+  <property name="meta.attr.encoder.markup">Lavf60.3.100</property>
+  <property name="meta.attr.comment.markup">https://music.youtube.com/watch?v=CVEkYvkJN5A</property>
+  <property name="meta.attr.lyrics-XXX.markup">[Verse]
+Just hold down the fort for me
+I'll be gone for two weeks, or a month
+Spent my summer climbing a tree
+There's so much to be seen from the top
+Unless you fall
+And I know you're scared of heights
+And it's okay, you know you can fly
+But the thought of falling makes you want to cry
+And why don't you respond to our texts?
+You know, you have a family that loves you
+So when you come home, let's
+Let's go back to Six Flags
+I got new goldfish to put in the tank
+And I might just feed them
+This time of your life
+What sounds like home to you?
+Before it's too late, tell me that you love and you miss me
+You look so great but you feel like you're gonna die
+This time of your life</property>
+  <property name="meta.media.sample_aspect_num">72</property>
+  <property name="meta.media.sample_aspect_den">72</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">640</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </chain>
+ <playlist id="playlist2">
+  <property name="kdenlive:audio_track">1</property>
+  <entry producer="chain0" in="00:00:00.000" out="00:03:01.033">
+   <property name="kdenlive:id">4</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor1" in="00:00:00.000" out="00:03:01.033">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">60</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist2"/>
+  <track hide="video" producer="playlist3"/>
+  <filter id="filter3">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter4">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter5">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="dbpeak">1</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer1" in="00:00:00.000" out="00:03:01.033">
+  <property name="length">5432</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/madeline/Translating/src/Jane Remover/frailty/cover.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1200</property>
+  <property name="meta.media.height">1200</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">2871768</property>
+  <property name="kdenlive:file_hash">fb861007a261e661e6b362e5dc2dcbaf</property>
+ </producer>
+ <playlist id="playlist4">
+  <entry producer="producer1" in="00:00:00.000" out="00:02:54.567">
+   <property name="kdenlive:id">5</property>
+   <property name="kdenlive:activeeffect">2</property>
+   <filter id="filter6">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=384 216 1152 648 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">1</property>
+   </filter>
+   <filter id="filter7" out="00:00:20.333">
+    <property name="start">1</property>
+    <property name="level">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="alpha">00:00:00.000=0;00:00:20.333=1</property>
+    <property name="kdenlive:collapsed">1</property>
+   </filter>
+   <filter id="filter8" in="00:02:25.100" out="00:02:54.567">
+    <property name="start">1</property>
+    <property name="level">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="alpha">00:00:00.000=1;00:00:29.467=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor id="tractor2" in="00:00:00.000" out="00:02:54.567">
+  <property name="kdenlive:trackheight">60</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist4"/>
+  <track hide="audio" producer="playlist5"/>
+ </tractor>
+ <playlist id="playlist6"/>
+ <playlist id="playlist7"/>
+ <tractor id="tractor3" in="00:00:00.000">
+  <property name="kdenlive:trackheight">60</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist6"/>
+  <track hide="audio" producer="playlist7"/>
+ </tractor>
+ <tractor id="{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}" in="00:00:00.000" out="00:19:41.067">
+  <property name="kdenlive:uuid">{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}</property>
+  <property name="kdenlive:clipname">Sequence 1</property>
+  <property name="kdenlive:sequenceproperties.hasAudio">1</property>
+  <property name="kdenlive:sequenceproperties.hasVideo">1</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">2</property>
+  <property name="kdenlive:sequenceproperties.tracksCount">4</property>
+  <property name="kdenlive:sequenceproperties.documentuuid">{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}</property>
+  <property name="kdenlive:duration">00:03:01:02</property>
+  <property name="kdenlive:maxduration">5432</property>
+  <property name="kdenlive:producer_type">17</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_hash">f8eafd143da46e922de1c0461c0cead9</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:sequenceproperties.groups">[
+]
+</property>
+  <property name="kdenlive:sequenceproperties.zoom">15</property>
+  <property name="kdenlive:sequenceproperties.verticalzoom">1</property>
+  <property name="kdenlive:sequenceproperties.thumbnailFrame"/>
+  <property name="kdenlive:sequenceproperties.guides">[
+]
+</property>
+  <property name="kdenlive:sequenceproperties.audioTarget">-1</property>
+  <property name="kdenlive:sequenceproperties.videoTarget">2</property>
+  <property name="kdenlive:sequenceproperties.position">40</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">0</property>
+  <property name="kdenlive:sequenceproperties.zonein">0</property>
+  <property name="kdenlive:sequenceproperties.zoneout">75</property>
+  <property name="kdenlive:sequenceproperties.disablepreview">0</property>
+  <track producer="producer0"/>
+  <track producer="tractor0"/>
+  <track producer="tractor1"/>
+  <track producer="tractor2"/>
+  <track producer="tractor3"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <filter id="filter9">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter10">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <chain id="chain1" out="00:03:01.033">
+  <property name="length">5432</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/madeline/Translating/src/Jane Remover/frailty/goldfish/assets/source/goldfish.mp3</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">9</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">128000</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc60.3.</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">640</property>
+  <property name="meta.media.1.codec.height">640</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.title.markup">Cover</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.2.stream.type">video</property>
+  <property name="meta.media.2.stream.frame_rate">90000</property>
+  <property name="meta.media.2.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.2.codec.width">640</property>
+  <property name="meta.media.2.codec.height">640</property>
+  <property name="meta.media.2.codec.rotate">0</property>
+  <property name="meta.media.2.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.2.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.2.codec.colorspace">601</property>
+  <property name="meta.media.2.codec.name">mjpeg</property>
+  <property name="meta.media.2.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.2.stream.title.markup">Cover</property>
+  <property name="meta.attr.2.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.3.stream.type">video</property>
+  <property name="meta.media.3.stream.frame_rate">90000</property>
+  <property name="meta.media.3.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.3.codec.width">640</property>
+  <property name="meta.media.3.codec.height">640</property>
+  <property name="meta.media.3.codec.rotate">0</property>
+  <property name="meta.media.3.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.3.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.3.codec.colorspace">601</property>
+  <property name="meta.media.3.codec.name">mjpeg</property>
+  <property name="meta.media.3.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.3.codec.bit_rate">0</property>
+  <property name="meta.attr.3.stream.title.markup">Cover</property>
+  <property name="meta.attr.3.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.4.stream.type">video</property>
+  <property name="meta.media.4.stream.frame_rate">90000</property>
+  <property name="meta.media.4.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.4.codec.width">640</property>
+  <property name="meta.media.4.codec.height">640</property>
+  <property name="meta.media.4.codec.rotate">0</property>
+  <property name="meta.media.4.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.4.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.4.codec.colorspace">601</property>
+  <property name="meta.media.4.codec.name">mjpeg</property>
+  <property name="meta.media.4.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.4.codec.bit_rate">0</property>
+  <property name="meta.attr.4.stream.title.markup">Cover</property>
+  <property name="meta.attr.4.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.5.stream.type">video</property>
+  <property name="meta.media.5.stream.frame_rate">90000</property>
+  <property name="meta.media.5.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.5.codec.width">640</property>
+  <property name="meta.media.5.codec.height">640</property>
+  <property name="meta.media.5.codec.rotate">0</property>
+  <property name="meta.media.5.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.5.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.5.codec.colorspace">601</property>
+  <property name="meta.media.5.codec.name">mjpeg</property>
+  <property name="meta.media.5.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.5.codec.bit_rate">0</property>
+  <property name="meta.attr.5.stream.title.markup">Cover</property>
+  <property name="meta.attr.5.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.6.stream.type">video</property>
+  <property name="meta.media.6.stream.frame_rate">90000</property>
+  <property name="meta.media.6.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.6.codec.width">640</property>
+  <property name="meta.media.6.codec.height">640</property>
+  <property name="meta.media.6.codec.rotate">0</property>
+  <property name="meta.media.6.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.6.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.6.codec.colorspace">601</property>
+  <property name="meta.media.6.codec.name">mjpeg</property>
+  <property name="meta.media.6.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.6.codec.bit_rate">0</property>
+  <property name="meta.attr.6.stream.title.markup">Cover</property>
+  <property name="meta.attr.6.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.7.stream.type">video</property>
+  <property name="meta.media.7.stream.frame_rate">90000</property>
+  <property name="meta.media.7.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.7.codec.width">640</property>
+  <property name="meta.media.7.codec.height">640</property>
+  <property name="meta.media.7.codec.rotate">0</property>
+  <property name="meta.media.7.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.7.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.7.codec.colorspace">601</property>
+  <property name="meta.media.7.codec.name">mjpeg</property>
+  <property name="meta.media.7.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.7.codec.bit_rate">0</property>
+  <property name="meta.attr.7.stream.title.markup">Cover</property>
+  <property name="meta.attr.7.stream.comment.markup">Cover (front)</property>
+  <property name="meta.media.8.stream.type">video</property>
+  <property name="meta.media.8.stream.frame_rate">90000</property>
+  <property name="meta.media.8.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.8.codec.width">640</property>
+  <property name="meta.media.8.codec.height">640</property>
+  <property name="meta.media.8.codec.rotate">0</property>
+  <property name="meta.media.8.codec.pix_fmt">yuvj444p</property>
+  <property name="meta.media.8.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.8.codec.colorspace">601</property>
+  <property name="meta.media.8.codec.name">mjpeg</property>
+  <property name="meta.media.8.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.8.codec.bit_rate">0</property>
+  <property name="meta.attr.8.stream.title.markup">Cover</property>
+  <property name="meta.attr.8.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.title.markup">goldfish</property>
+  <property name="meta.attr.artist.markup">Jane Remover</property>
+  <property name="meta.attr.track.markup">1/13</property>
+  <property name="meta.attr.album.markup">Frailty</property>
+  <property name="meta.attr.disc.markup">1/1</property>
+  <property name="meta.attr.date.markup">2021-11-12</property>
+  <property name="meta.attr.genre.markup">Glitchcore</property>
+  <property name="meta.attr.TDOR.markup">2021</property>
+  <property name="meta.attr.encoded_by.markup">deadAir</property>
+  <property name="meta.attr.copyright.markup">2021 deadAir</property>
+  <property name="meta.attr.album_artist.markup">Jane Remover</property>
+  <property name="meta.attr.encoder.markup">Lavf60.3.100</property>
+  <property name="meta.attr.comment.markup">https://music.youtube.com/watch?v=CVEkYvkJN5A</property>
+  <property name="meta.attr.lyrics-XXX.markup">[Verse]
+Just hold down the fort for me
+I'll be gone for two weeks, or a month
+Spent my summer climbing a tree
+There's so much to be seen from the top
+Unless you fall
+And I know you're scared of heights
+And it's okay, you know you can fly
+But the thought of falling makes you want to cry
+And why don't you respond to our texts?
+You know, you have a family that loves you
+So when you come home, let's
+Let's go back to Six Flags
+I got new goldfish to put in the tank
+And I might just feed them
+This time of your life
+What sounds like home to you?
+Before it's too late, tell me that you love and you miss me
+You look so great but you feel like you're gonna die
+This time of your life</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">72</property>
+  <property name="meta.media.sample_aspect_den">72</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">640</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="kdenlive:clipname"/>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:multistreams">1</property>
+  <property name="kdenlive:file_size">4702071</property>
+  <property name="kdenlive:file_hash">88f18012817db608544e12e6f7e27c3f</property>
+ </chain>
+ <playlist id="main_bin">
+  <property name="kdenlive:folder.-1.2">Sequences</property>
+  <property name="kdenlive:sequenceFolder">2</property>
+  <property name="kdenlive:docproperties.browserurl">/home/madeline/Videos/</property>
+  <property name="kdenlive:docproperties.compositing">1</property>
+  <property name="kdenlive:docproperties.documentid">1685174175471</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.externalproxyparams">./;GL;.LRV;./;GX;.MP4</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.guidesCategories">[
+    {
+        "color": "#9b59b6",
+        "comment": "Category 1",
+        "index": 0
+    },
+    {
+        "color": "#3daee9",
+        "comment": "Category 2",
+        "index": 1
+    },
+    {
+        "color": "#1abc9c",
+        "comment": "Category 3",
+        "index": 2
+    },
+    {
+        "color": "#1cdc9a",
+        "comment": "Category 4",
+        "index": 3
+    },
+    {
+        "color": "#c9ce3b",
+        "comment": "Category 5",
+        "index": 4
+    },
+    {
+        "color": "#fdbc4b",
+        "comment": "Category 6",
+        "index": 5
+    },
+    {
+        "color": "#f39c1f",
+        "comment": "Category 7",
+        "index": 6
+    },
+    {
+        "color": "#f47750",
+        "comment": "Category 8",
+        "index": 7
+    },
+    {
+        "color": "#da4453",
+        "comment": "Category 9",
+        "index": 8
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">23.04.1</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.uuid">{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}</property>
+  <property name="kdenlive:docproperties.version">1.1</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:binZoom">4</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:docproperties.opensequences">{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}</property>
+  <property name="kdenlive:docproperties.activetimeline">{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.rendercustomquality">-1</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
+  <property name="kdenlive:docproperties.rendermode">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderpreview">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">540</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">960</property>
+  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">-1</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/home/madeline/Videos/goldfish.mp4</property>
+  <property name="xml_retain">1</property>
+  <entry producer="{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}" in="00:00:00.000" out="00:00:00.000"/>
+  <entry producer="chain1" in="00:00:00.000" out="00:03:01.033"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:04.967"/>
+ </playlist>
+ <tractor id="tractor4" in="00:00:00.000" out="00:03:01.067">
+  <property name="kdenlive:projectTractor">1</property>
+  <track producer="{872ab1b5-0a5b-4451-9198-0eb3c706ebcd}" in="00:00:00.000" out="00:03:01.067"/>
+ </tractor>
+</mlt>

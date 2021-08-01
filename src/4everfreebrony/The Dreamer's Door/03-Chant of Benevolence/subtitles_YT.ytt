@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="1" ah="50" av="0" /><wp id="2" ap="1" ah="50" av="21" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="0" fc="#A0AAB4" fo="0" bo="0" /><pen id="2" fs="6" sz="100" fc="#D7E55B" fo="11" bo="0" et="4" ec="#000000" /><pen id="3" fs="6" sz="100" fc="#D7E55B" fo="11" bo="0" et="3" ec="#000000" /><pen id="4" fs="6" sz="100" fc="#D7E55B" fo="57" bo="0" et="4" ec="#000000" /><pen id="5" fs="6" sz="100" fc="#D7E55B" fo="57" bo="0" et="3" ec="#000000" /><pen id="6" fs="6" sz="100" fc="#D7E55B" fo="104" bo="0" et="4" ec="#000000" /><pen id="7" fs="6" sz="100" fc="#D7E55B" fo="104" bo="0" et="3" ec="#000000" /><pen id="8" fs="6" sz="100" fc="#D7E55B" fo="150" bo="0" et="4" ec="#000000" /><pen id="9" fs="6" sz="100" fc="#D7E55B" fo="150" bo="0" et="3" ec="#000000" /><pen id="10" fs="6" sz="100" fc="#D7E55B" fo="197" bo="0" et="4" ec="#000000" /><pen id="11" fs="6" sz="100" fc="#D7E55B" fo="197" bo="0" et="3" ec="#000000" /><pen id="12" fs="6" sz="100" fc="#D7E55B" fo="243" bo="0" et="4" ec="#000000" /><pen id="13" fs="6" sz="100" fc="#D7E55B" fo="243" bo="0" et="3" ec="#000000" /><pen id="14" fs="6" sz="100" fc="#D7E55B" fo="254" bo="0" et="4" ec="#000000" /><pen id="15" fs="6" sz="100" fc="#D7E55B" fo="254" bo="0" et="3" ec="#000000" /><pen id="16" fs="6" sz="100" fc="#D7E55B" fo="244" bo="0" et="4" ec="#000000" /><pen id="17" fs="6" sz="100" fc="#D7E55B" fo="244" bo="0" et="3" ec="#000000" /><pen id="18" fs="6" sz="100" fc="#D7E55B" fo="198" bo="0" et="4" ec="#000000" /><pen id="19" fs="6" sz="100" fc="#D7E55B" fo="198" bo="0" et="3" ec="#000000" /><pen id="20" fs="6" sz="100" fc="#D7E55B" fo="151" bo="0" et="4" ec="#000000" /><pen id="21" fs="6" sz="100" fc="#D7E55B" fo="151" bo="0" et="3" ec="#000000" /><pen id="22" fs="6" sz="100" fc="#D7E55B" fo="105" bo="0" et="4" ec="#000000" /><pen id="23" fs="6" sz="100" fc="#D7E55B" fo="105" bo="0" et="3" ec="#000000" /><pen id="24" fs="6" sz="100" fc="#D7E55B" fo="58" bo="0" et="4" ec="#000000" /><pen id="25" fs="6" sz="100" fc="#D7E55B" fo="58" bo="0" et="3" ec="#000000" /><pen id="26" fs="6" sz="100" fc="#D7E55B" fo="12" bo="0" et="4" ec="#000000" /><pen id="27" fs="6" sz="100" fc="#D7E55B" fo="12" bo="0" et="3" ec="#000000" /><pen id="28" fs="6" sz="100" fc="#D7E55B" fo="8" bo="0" et="4" ec="#000000" /><pen id="29" fs="6" sz="100" fc="#D7E55B" fo="8" bo="0" et="3" ec="#000000" /><pen id="30" fs="6" sz="100" fc="#D7E55B" fo="42" bo="0" et="4" ec="#000000" /><pen id="31" fs="6" sz="100" fc="#D7E55B" fo="42" bo="0" et="3" ec="#000000" /><pen id="32" fs="6" sz="100" fc="#D7E55B" fo="77" bo="0" et="4" ec="#000000" /><pen id="33" fs="6" sz="100" fc="#D7E55B" fo="77" bo="0" et="3" ec="#000000" /><pen id="34" fs="6" sz="100" fc="#D7E55B" fo="112" bo="0" et="4" ec="#000000" /><pen id="35" fs="6" sz="100" fc="#D7E55B" fo="112" bo="0" et="3" ec="#000000" /><pen id="36" fs="6" sz="100" fc="#D7E55B" fo="147" bo="0" et="4" ec="#000000" /><pen id="37" fs="6" sz="100" fc="#D7E55B" fo="147" bo="0" et="3" ec="#000000" /><pen id="38" fs="6" sz="100" fc="#D7E55B" fo="182" bo="0" et="4" ec="#000000" /><pen id="39" fs="6" sz="100" fc="#D7E55B" fo="182" bo="0" et="3" ec="#000000" /><pen id="40" fs="6" sz="100" fc="#D7E55B" fo="191" bo="0" et="4" ec="#000000" /><pen id="41" fs="6" sz="100" fc="#D7E55B" fo="191" bo="0" et="3" ec="#000000" /><pen id="42" fs="6" sz="100" fc="#D7E55B" fo="148" bo="0" et="4" ec="#000000" /><pen id="43" fs="6" sz="100" fc="#D7E55B" fo="148" bo="0" et="3" ec="#000000" /><pen id="44" fs="6" sz="100" fc="#D7E55B" fo="113" bo="0" et="4" ec="#000000" /><pen id="45" fs="6" sz="100" fc="#D7E55B" fo="113" bo="0" et="3" ec="#000000" /><pen id="46" fs="6" sz="100" fc="#D7E55B" fo="78" bo="0" et="4" ec="#000000" /><pen id="47" fs="6" sz="100" fc="#D7E55B" fo="78" bo="0" et="3" ec="#000000" /><pen id="48" fs="6" sz="100" fc="#D7E55B" fo="43" bo="0" et="4" ec="#000000" /><pen id="49" fs="6" sz="100" fc="#D7E55B" fo="43" bo="0" et="3" ec="#000000" /></head><body><p t="818" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="2">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="818" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="3">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="884" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="4">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="884" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="5">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="951" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="6">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="951" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="7">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1018" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="8">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1018" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="9">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1085" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="10">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1085" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="11">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1151" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="12">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1151" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="13">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1218" d="7541" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="14">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="1218" d="7541" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="15">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8759" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="16">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8759" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="17">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8826" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="18">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8826" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="19">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8892" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="20">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8892" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="21">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8959" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="22">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="8959" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="23">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="9026" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="24">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="9026" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="25">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="9093" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="26">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="9093" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="27">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="9326" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="2">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9326" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="3">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9393" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="4">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9393" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="5">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9460" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="6">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9460" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="7">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9526" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="8">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9526" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="9">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9593" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="10">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9593" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="11">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="12">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="13">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9727" d="6873" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="14">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="9727" d="6873" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="15">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16600" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="16">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16600" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="17">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16667" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="18">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16667" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="19">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16734" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="20">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16734" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="21">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16800" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="22">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16800" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="23">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16867" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="24">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16867" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="25">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16934" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="26">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="16934" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="27">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="17501" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="2">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17501" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="3">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17568" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="4">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17568" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="5">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17634" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="6">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17634" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="7">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17701" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="8">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17701" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="9">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17768" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="10">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17768" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="11">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17835" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="12">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17835" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="13">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17901" d="7541" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="14">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="17901" d="7541" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="15">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25442" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="16">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25442" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="17">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25509" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="18">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25509" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="19">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25576" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="20">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25576" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="21">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25642" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="22">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25642" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="23">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25709" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="24">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25709" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="25">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25776" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="26">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="25776" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="27">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="26276" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="2">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26276" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="3">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="4">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="5">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="6">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="7">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26477" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="8">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26477" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="9">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26543" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="10">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26543" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="11">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26610" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="12">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26610" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="13">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26677" d="6840" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="14">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="26677" d="6840" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="15">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33517" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="16">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33517" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="17">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33584" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="18">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33584" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="19">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33650" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="20">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33650" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="21">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33717" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="22">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33717" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="23">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33784" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="24">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33784" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="25">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33851" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="26">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="33851" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="27">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="51902" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="2">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="51902" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="3">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="51969" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="4">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="51969" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="5">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52036" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="6">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52036" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="7">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52102" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="8">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52102" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="9">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52169" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="10">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52169" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="11">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52236" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="12">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52236" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="13">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52302" d="7041" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="14">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="52302" d="7041" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="15">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="16">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="17">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59410" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="18">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59410" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="19">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="20">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59476" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="21">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59543" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="22">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59543" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="23">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59610" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="24">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59610" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="25">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59676" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="26">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="59676" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Light of virtue shown​ ​</s><s p="1">​
+​</s><s p="27">​ ​美德之光高照​ ​</s><s p="1">​</s></p><p t="60377" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="2">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60377" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="3">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60444" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="4">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60444" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="5">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60511" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="6">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60511" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="7">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60577" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="8">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60577" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="9">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60644" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="10">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60644" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="11">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="12">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60711" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="13">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60778" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="14">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="60778" d="6373" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="15">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67151" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="16">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67151" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="17">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67217" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="18">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67217" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="19">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="20">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="21">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="22">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="23">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="24">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="25">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67484" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="26">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="67484" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Sign of one's true form​ ​</s><s p="1">​
+​</s><s p="27">​ ​接露人之本面​ ​</s><s p="1">​</s></p><p t="68252" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="2">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68252" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="3">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68318" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="4">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68318" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="5">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68385" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="6">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68385" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="7">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="8">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68452" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="9">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68519" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="10">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68519" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="11">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68585" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="12">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68585" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="13">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68652" d="3337" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="14">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="68652" d="3337" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="15">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="71989" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="16">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="71989" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="17">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72056" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="18">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72056" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="19">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72122" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="20">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72122" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="21">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72189" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="22">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72189" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="23">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72256" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="24">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72256" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="25">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72322" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="26">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72322" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​To grow, only small​ ​</s><s p="1">​
+​</s><s p="27">​ ​一點一滴教育​ ​</s><s p="1">​</s></p><p t="72623" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="2">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72623" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="3">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72689" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="4">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72689" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="5">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72756" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="6">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72756" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="7">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72823" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="8">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72823" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="9">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72890" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="10">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72890" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="11">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72956" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="12">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="72956" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="13">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="73023" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="14">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="73023" d="3437" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="15">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76460" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="16">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76460" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="17">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76527" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="18">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76527" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="19">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76593" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="20">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76593" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="21">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="22">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76660" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="23">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="24">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="25">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76794" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="26">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="76794" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Giving guidance for all​ ​</s><s p="1">​
+​</s><s p="27">​ ​引領世間萬物​ ​</s><s p="1">​</s></p><p t="77294" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="2">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77294" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="3">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77361" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="4">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77361" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="5">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77428" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="6">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77428" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="7">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77494" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="8">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77494" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="9">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77561" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="10">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77561" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="11">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77628" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="12">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77628" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="13">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77694" d="5439" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="14">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="77694" d="5439" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="15">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83133" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="16">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83133" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="17">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83200" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="18">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83200" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="19">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83267" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="20">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83267" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="21">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="22">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="23">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83400" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="24">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83400" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="25">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83467" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="26">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="83467" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Seen while hardly known​ ​</s><s p="1">​
+​</s><s p="27">​ ​有誰能真正看懂​ ​</s><s p="1">​</s></p><p t="85469" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="2">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85469" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="3">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85536" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="4">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85536" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="5">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85602" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="6">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85602" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="7">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85669" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="8">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85669" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="9">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85736" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="10">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85736" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="11">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85803" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="12">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85803" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="13">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85869" d="7408" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="14">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="85869" d="7408" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="15">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93277" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="16">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93277" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="17">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="18">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93343" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="19">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="20">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93410" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="21">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93477" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="22">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93477" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="23">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93544" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="24">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93544" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="25">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93610" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="26">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="93610" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="27">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="94111" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="2">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94111" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="3">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94178" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="4">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94178" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="5">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94244" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="6">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94244" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="7">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94311" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="8">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94311" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="9">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94378" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="10">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94378" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="11">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94445" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="12">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94445" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="13">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94511" d="6874" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="14">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="94511" d="6874" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="15">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101385" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="16">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101385" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="17">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101452" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="18">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101452" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="19">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101518" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="20">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101518" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="21">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101585" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="22">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101585" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="23">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101652" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="24">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101652" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="25">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101718" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="26">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="101718" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="27">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="102352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="2">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="3">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102419" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="4">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102419" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="5">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="6">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="7">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102553" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="8">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102553" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="9">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102619" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="10">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102619" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="11">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102686" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="12">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102686" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="13">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102753" d="7641" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="14">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="102753" d="7641" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="15">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110394" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="16">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110394" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="17">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110461" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="18">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110461" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="19">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110527" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="20">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110527" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="21">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="22">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110594" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="23">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110661" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="24">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110661" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="25">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="26">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="110727" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="27">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="111061" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="2">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111061" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="3">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111128" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="4">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111128" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="5">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111195" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="6">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111195" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="7">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111261" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="8">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111261" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="9">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="10">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111328" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="11">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="12">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="13">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111462" d="6840" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="14">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="111462" d="6840" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="15">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118302" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="16">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118302" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="17">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118368" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="18">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118368" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="19">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118435" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="20">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118435" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="21">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118502" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="22">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118502" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="23">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118569" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="24">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118569" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="25">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118635" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="26">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="118635" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="27">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="124141" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="2">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124141" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="3">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124208" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="4">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124208" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="5">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124274" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="6">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124274" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="7">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124341" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="8">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124341" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="9">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="10">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="11">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124475" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="12">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124475" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="13">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124541" d="6140" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="14">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="124541" d="6140" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="15">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130681" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="16">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130681" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="17">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130747" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="18">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130747" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="19">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130814" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="20">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130814" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="21">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130881" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="22">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130881" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="23">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130948" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="24">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="130948" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="25">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="131014" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="26">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="131014" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Bright inviting morn​ ​</s><s p="1">​
+​</s><s p="27">​ ​和藹的那道晨光​ ​</s><s p="1">​</s></p><p t="132649" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="2">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132649" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="3">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132716" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="4">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132716" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="5">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132783" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="6">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132783" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="7">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132850" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="8">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132850" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="9">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132916" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="10">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132916" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="11">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="12">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="132983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="13">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="133050" d="6673" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="14">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="133050" d="6673" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="15">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="16">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139723" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="17">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="18">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="19">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="20">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139857" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="21">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139923" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="22">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139923" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="23">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139990" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="24">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="139990" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="25">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="140057" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="26">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="140057" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Brilliant rays reborn​ ​</s><s p="1">​
+​</s><s p="27">​ ​閃耀的光芒再現​ ​</s><s p="1">​</s></p><p t="140357" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="2">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140357" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="3">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140424" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="4">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140424" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="5">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140491" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="6">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140491" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="7">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140557" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="8">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140557" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="9">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140624" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="10">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140624" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="11">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140691" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="12">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140691" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="13">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140757" d="3337" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="14">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="140757" d="3337" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="15">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144094" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="16">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144094" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="17">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144161" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="18">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144161" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="19">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144228" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="20">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144228" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="21">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144294" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="22">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144294" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="23">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144361" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="24">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144361" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="25">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144428" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="26">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144428" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​So follow along​ ​</s><s p="1">​
+​</s><s p="27">​ ​跟上腳步​ ​</s><s p="1">​</s></p><p t="144561" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="2">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144561" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="3">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144628" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="4">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144628" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="5">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144695" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="6">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144695" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="7">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144761" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="8">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144761" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="9">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144828" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="10">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144828" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="11">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144895" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="12">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144895" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="13">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144962" d="3970" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="14">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="144962" d="3970" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="15">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="148932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="16">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="148932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="17">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="148999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="18">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="148999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="19">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="20">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="21">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149133" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="22">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149133" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="23">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="24">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="25">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="26">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​as the shadows have gone​ ​</s><s p="1">​
+​</s><s p="27">​ ​黑夜已成明日​ ​</s><s p="1">​</s></p><p t="149600" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="2">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149600" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="3">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149666" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="4">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149666" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="5">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149733" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="6">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149733" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="7">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149800" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="8">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149800" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="9">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149867" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="10">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149867" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="11">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149933" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="12">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="149933" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="13">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="150000" d="6073" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="14">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="150000" d="6073" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="15">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156073" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="16">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156073" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="17">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156140" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="18">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156140" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="19">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156206" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="20">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156206" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="21">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156273" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="22">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156273" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="23">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156340" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="24">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156340" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="25">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156406" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="26">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="156406" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Walk where time has torn​ ​</s><s p="1">​
+​</s><s p="27">​ ​跟我穿越時空​ ​</s><s p="1">​</s></p><p t="157674" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="2">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157674" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="3">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157741" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="4">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157741" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="5">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157808" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="6">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157808" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="7">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157875" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="8">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157875" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="9">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="10">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="157941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="11">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="158008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="12">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="158008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="13">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="158075" d="7407" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="14">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="158075" d="7407" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="15">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165482" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="16">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165482" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="17">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165549" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="18">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165549" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="19">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165616" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="20">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165616" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="21">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165682" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="22">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165682" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="23">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165749" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="24">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165749" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="25">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165816" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="26">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="165816" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​September Blue, thy sorrows be forgotten​ ​</s><s p="1">​
+​</s><s p="27">​ ​九月之靛，汝之憂被淡忘​ ​</s><s p="1">​</s></p><p t="166316" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="2">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166316" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="3">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166383" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="4">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166383" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="5">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166450" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="6">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166450" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="7">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166517" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="8">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166517" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="9">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166583" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="10">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166583" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="11">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166650" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="12">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166650" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="13">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166717" d="6873" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="14">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="166717" d="6873" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="15">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173590" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="16">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173590" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="17">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173657" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="18">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173657" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="19">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173724" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="20">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173724" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="21">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="22">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="23">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173857" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="24">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173857" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="25">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="26">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="173924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​October Auburn, let this season pass​ ​</s><s p="1">​
+​</s><s p="27">​ ​十月之紅，讓這季節過去​ ​</s><s p="1">​</s></p><p t="174391" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="2">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174391" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="3">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174458" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="4">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174458" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="5">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174525" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="6">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174525" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="7">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="8">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174591" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="9">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="10">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="11">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174725" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="12">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174725" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="13">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174791" d="7808" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="14">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="174791" d="7808" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="15">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182599" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="16">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182599" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="17">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182666" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="18">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182666" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="19">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182733" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="20">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182733" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="21">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="22">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="23">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182866" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="24">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182866" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="25">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182933" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="26">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="182933" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​November Gray, restore with thy rain​ ​</s><s p="1">​
+​</s><s p="27">​ ​十一之灰，以汝雨水恢復​ ​</s><s p="1">​</s></p><p t="183267" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="2">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183267" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="3">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="4">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="5">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183400" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="6">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183400" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="7">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183467" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="8">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183467" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="9">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183534" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="10">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183534" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="11">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183600" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="12">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183600" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="13">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183667" d="6840" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="14">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="183667" d="6840" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="15">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190507" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="16">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190507" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="17">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190574" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="18">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190574" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="19">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190641" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="20">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190641" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="21">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190707" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="22">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190707" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="23">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190774" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="24">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190774" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="25">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190841" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="26">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="190841" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​December White, thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="27">​ ​十二之白，汝之美永留存​ ​</s><s p="1">​</s></p><p t="217701" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​December White​ ​</s><s p="1">​
+​</s><s p="2">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217701" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​December White​ ​</s><s p="1">​
+​</s><s p="3">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217768" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​December White​ ​</s><s p="1">​
+​</s><s p="4">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217768" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​December White​ ​</s><s p="1">​
+​</s><s p="5">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​December White​ ​</s><s p="1">​
+​</s><s p="6">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217834" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​December White​ ​</s><s p="1">​
+​</s><s p="7">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​December White​ ​</s><s p="1">​
+​</s><s p="8">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217901" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​December White​ ​</s><s p="1">​
+​</s><s p="9">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217968" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​December White​ ​</s><s p="1">​
+​</s><s p="10">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="217968" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​December White​ ​</s><s p="1">​
+​</s><s p="11">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="218035" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​December White​ ​</s><s p="1">​
+​</s><s p="12">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="218035" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​December White​ ​</s><s p="1">​
+​</s><s p="13">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="218101" d="3571" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​December White​ ​</s><s p="1">​
+​</s><s p="14">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="218101" d="3571" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​December White​ ​</s><s p="1">​
+​</s><s p="15">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="219703" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="28">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="28">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219703" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="29">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="29">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219770" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="30">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="30">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219770" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="31">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="31">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219836" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="32">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="32">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219836" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="33">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="33">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219903" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="34">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="34">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219903" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="35">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="35">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219970" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="36">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="36">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="219970" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="37">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="37">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="220037" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="38">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="38">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="220037" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="39">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="39">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="220103" d="2069" wp="2" ws="1"><s p="1">​</s>​<s p="40">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="40">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="220103" d="2069" wp="2" ws="1"><s p="1">​</s>​<s p="41">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="41">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="221672" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​December White​ ​</s><s p="1">​
+​</s><s p="16">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221672" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​December White​ ​</s><s p="1">​
+​</s><s p="17">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221738" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​December White​ ​</s><s p="1">​
+​</s><s p="18">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221738" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​December White​ ​</s><s p="1">​
+​</s><s p="19">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221805" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​December White​ ​</s><s p="1">​
+​</s><s p="20">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221805" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​December White​ ​</s><s p="1">​
+​</s><s p="21">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221872" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​December White​ ​</s><s p="1">​
+​</s><s p="22">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221872" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​December White​ ​</s><s p="1">​
+​</s><s p="23">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221939" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​December White​ ​</s><s p="1">​
+​</s><s p="24">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="221939" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​December White​ ​</s><s p="1">​
+​</s><s p="25">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="222005" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​December White​ ​</s><s p="1">​
+​</s><s p="26">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="222005" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​December White​ ​</s><s p="1">​
+​</s><s p="27">​ ​十二之白​ ​</s><s p="1">​</s></p><p t="222172" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="38">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="38">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222172" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="39">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="39">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222239" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="42">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="42">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222239" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="43">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="43">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222306" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="44">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="44">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222306" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="45">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="45">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222372" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="46">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="46">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222372" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="47">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="47">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222439" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="48">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="48">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222439" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="49">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="49">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222506" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="28">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="28">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222506" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="29">​ ​(December White)​ ​</s><s p="1">​
+​</s><s p="29">​ ​(十二之白)​ ​</s><s p="1">​</s></p><p t="222573" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="2">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222573" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="3">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222639" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="4">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222639" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="5">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222706" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="6">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222706" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="7">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222773" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="8">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222773" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="9">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222839" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="10">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222839" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="11">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222906" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="12">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222906" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="13">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222973" d="7407" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="14">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="222973" d="7407" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="15">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="224474" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="28">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="28">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224474" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="29">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="29">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224541" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="30">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="30">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224541" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="31">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="31">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224608" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="32">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="32">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224608" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="33">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="33">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224675" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="34">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="34">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224675" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="35">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="35">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224741" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="36">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="36">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224741" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="37">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="37">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224808" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="38">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="38">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224808" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="39">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="39">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224875" d="5505" wp="2" ws="1"><s p="1">​</s>​<s p="40">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="40">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="224875" d="5505" wp="2" ws="1"><s p="1">​</s>​<s p="41">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="41">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230380" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="16">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230380" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="17">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230380" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="38">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="38">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230380" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="39">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="39">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230447" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="18">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230447" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="19">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230447" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="42">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="42">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230447" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="43">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="43">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230514" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="20">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230514" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="21">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230514" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="44">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="44">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230514" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="45">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="45">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230581" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="22">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230581" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="23">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230581" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="46">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="46">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230581" d="66" wp="2" ws="1"><s p="1">​</s>​<s p="47">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="47">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230647" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="24">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230647" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="25">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230647" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="48">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="48">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230647" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="49">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="49">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230714" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="26">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230714" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​Thy beauty ever last​ ​</s><s p="1">​
+​</s><s p="27">​ ​汝之美永留存​ ​</s><s p="1">​</s></p><p t="230714" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="28">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="28">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p><p t="230714" d="67" wp="2" ws="1"><s p="1">​</s>​<s p="29">​ ​(Thy beauty ever last)​ ​</s><s p="1">​
+​</s><s p="29">​ ​(汝之美永留存)​ ​</s><s p="1">​</s></p></body></timedtext>

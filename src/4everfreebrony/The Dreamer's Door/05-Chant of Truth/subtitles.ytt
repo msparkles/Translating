@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?><timedtext format="3"><head><wp id="0" ap="7" ah="0" av="0" /><wp id="1" ap="1" ah="50" av="0" /><ws id="0" ju="2" pd="0" sd="0" /><ws id="1" ju="2" pd="0" sd="0" /><pen id="0" sz="100" fc="#000000" fo="0" bo="0" /><pen id="1" sz="0" fc="#A0AAB4" fo="0" bo="0" /><pen id="2" sz="100" fc="#E8D883" fo="11" bo="0" et="4" ec="#000000" /><pen id="3" sz="100" fc="#E8D883" fo="11" bo="0" et="3" ec="#000000" /><pen id="4" sz="100" fc="#E8D883" fo="57" bo="0" et="4" ec="#000000" /><pen id="5" sz="100" fc="#E8D883" fo="57" bo="0" et="3" ec="#000000" /><pen id="6" sz="100" fc="#E8D883" fo="104" bo="0" et="4" ec="#000000" /><pen id="7" sz="100" fc="#E8D883" fo="104" bo="0" et="3" ec="#000000" /><pen id="8" sz="100" fc="#E8D883" fo="150" bo="0" et="4" ec="#000000" /><pen id="9" sz="100" fc="#E8D883" fo="150" bo="0" et="3" ec="#000000" /><pen id="10" sz="100" fc="#E8D883" fo="197" bo="0" et="4" ec="#000000" /><pen id="11" sz="100" fc="#E8D883" fo="197" bo="0" et="3" ec="#000000" /><pen id="12" sz="100" fc="#E8D883" fo="243" bo="0" et="4" ec="#000000" /><pen id="13" sz="100" fc="#E8D883" fo="243" bo="0" et="3" ec="#000000" /><pen id="14" sz="100" fc="#E8D883" fo="254" bo="0" et="4" ec="#000000" /><pen id="15" sz="100" fc="#E8D883" fo="254" bo="0" et="3" ec="#000000" /><pen id="16" sz="100" fc="#E8D883" fo="244" bo="0" et="4" ec="#000000" /><pen id="17" sz="100" fc="#E8D883" fo="244" bo="0" et="3" ec="#000000" /><pen id="18" sz="100" fc="#E8D883" fo="198" bo="0" et="4" ec="#000000" /><pen id="19" sz="100" fc="#E8D883" fo="198" bo="0" et="3" ec="#000000" /><pen id="20" sz="100" fc="#E8D883" fo="151" bo="0" et="4" ec="#000000" /><pen id="21" sz="100" fc="#E8D883" fo="151" bo="0" et="3" ec="#000000" /><pen id="22" sz="100" fc="#E8D883" fo="105" bo="0" et="4" ec="#000000" /><pen id="23" sz="100" fc="#E8D883" fo="105" bo="0" et="3" ec="#000000" /><pen id="24" sz="100" fc="#E8D883" fo="58" bo="0" et="4" ec="#000000" /><pen id="25" sz="100" fc="#E8D883" fo="58" bo="0" et="3" ec="#000000" /><pen id="26" sz="100" fc="#E8D883" fo="12" bo="0" et="4" ec="#000000" /><pen id="27" sz="100" fc="#E8D883" fo="12" bo="0" et="3" ec="#000000" /><pen id="28" sz="100" fc="#E8D883" fo="250" bo="0" et="4" ec="#000000" /><pen id="29" sz="100" fc="#E8D883" fo="250" bo="0" et="3" ec="#000000" /><pen id="30" sz="100" fc="#E8D883" fo="246" bo="0" et="4" ec="#000000" /><pen id="31" sz="100" fc="#E8D883" fo="246" bo="0" et="3" ec="#000000" /><pen id="32" sz="100" fc="#E8D883" fo="242" bo="0" et="4" ec="#000000" /><pen id="33" sz="100" fc="#E8D883" fo="242" bo="0" et="3" ec="#000000" /><pen id="34" sz="100" fc="#E8D883" fo="237" bo="0" et="4" ec="#000000" /><pen id="35" sz="100" fc="#E8D883" fo="237" bo="0" et="3" ec="#000000" /><pen id="36" sz="100" fc="#E8D883" fo="233" bo="0" et="4" ec="#000000" /><pen id="37" sz="100" fc="#E8D883" fo="233" bo="0" et="3" ec="#000000" /><pen id="38" sz="100" fc="#E8D883" fo="229" bo="0" et="4" ec="#000000" /><pen id="39" sz="100" fc="#E8D883" fo="229" bo="0" et="3" ec="#000000" /><pen id="40" sz="100" fc="#E8D883" fo="224" bo="0" et="4" ec="#000000" /><pen id="41" sz="100" fc="#E8D883" fo="224" bo="0" et="3" ec="#000000" /><pen id="42" sz="100" fc="#E8D883" fo="220" bo="0" et="4" ec="#000000" /><pen id="43" sz="100" fc="#E8D883" fo="220" bo="0" et="3" ec="#000000" /><pen id="44" sz="100" fc="#E8D883" fo="216" bo="0" et="4" ec="#000000" /><pen id="45" sz="100" fc="#E8D883" fo="216" bo="0" et="3" ec="#000000" /><pen id="46" sz="100" fc="#E8D883" fo="212" bo="0" et="4" ec="#000000" /><pen id="47" sz="100" fc="#E8D883" fo="212" bo="0" et="3" ec="#000000" /><pen id="48" sz="100" fc="#E8D883" fo="207" bo="0" et="4" ec="#000000" /><pen id="49" sz="100" fc="#E8D883" fo="207" bo="0" et="3" ec="#000000" /><pen id="50" sz="100" fc="#E8D883" fo="203" bo="0" et="4" ec="#000000" /><pen id="51" sz="100" fc="#E8D883" fo="203" bo="0" et="3" ec="#000000" /><pen id="52" sz="100" fc="#E8D883" fo="199" bo="0" et="4" ec="#000000" /><pen id="53" sz="100" fc="#E8D883" fo="199" bo="0" et="3" ec="#000000" /><pen id="54" sz="100" fc="#E8D883" fo="194" bo="0" et="4" ec="#000000" /><pen id="55" sz="100" fc="#E8D883" fo="194" bo="0" et="3" ec="#000000" /><pen id="56" sz="100" fc="#E8D883" fo="190" bo="0" et="4" ec="#000000" /><pen id="57" sz="100" fc="#E8D883" fo="190" bo="0" et="3" ec="#000000" /><pen id="58" sz="100" fc="#E8D883" fo="186" bo="0" et="4" ec="#000000" /><pen id="59" sz="100" fc="#E8D883" fo="186" bo="0" et="3" ec="#000000" /><pen id="60" sz="100" fc="#E8D883" fo="182" bo="0" et="4" ec="#000000" /><pen id="61" sz="100" fc="#E8D883" fo="182" bo="0" et="3" ec="#000000" /><pen id="62" sz="100" fc="#E8D883" fo="177" bo="0" et="4" ec="#000000" /><pen id="63" sz="100" fc="#E8D883" fo="177" bo="0" et="3" ec="#000000" /><pen id="64" sz="100" fc="#E8D883" fo="173" bo="0" et="4" ec="#000000" /><pen id="65" sz="100" fc="#E8D883" fo="173" bo="0" et="3" ec="#000000" /><pen id="66" sz="100" fc="#E8D883" fo="169" bo="0" et="4" ec="#000000" /><pen id="67" sz="100" fc="#E8D883" fo="169" bo="0" et="3" ec="#000000" /><pen id="68" sz="100" fc="#E8D883" fo="164" bo="0" et="4" ec="#000000" /><pen id="69" sz="100" fc="#E8D883" fo="164" bo="0" et="3" ec="#000000" /><pen id="70" sz="100" fc="#E8D883" fo="160" bo="0" et="4" ec="#000000" /><pen id="71" sz="100" fc="#E8D883" fo="160" bo="0" et="3" ec="#000000" /><pen id="72" sz="100" fc="#E8D883" fo="156" bo="0" et="4" ec="#000000" /><pen id="73" sz="100" fc="#E8D883" fo="156" bo="0" et="3" ec="#000000" /><pen id="74" sz="100" fc="#E8D883" fo="152" bo="0" et="4" ec="#000000" /><pen id="75" sz="100" fc="#E8D883" fo="152" bo="0" et="3" ec="#000000" /><pen id="76" sz="100" fc="#E8D883" fo="147" bo="0" et="4" ec="#000000" /><pen id="77" sz="100" fc="#E8D883" fo="147" bo="0" et="3" ec="#000000" /><pen id="78" sz="100" fc="#E8D883" fo="143" bo="0" et="4" ec="#000000" /><pen id="79" sz="100" fc="#E8D883" fo="143" bo="0" et="3" ec="#000000" /><pen id="80" sz="100" fc="#E8D883" fo="139" bo="0" et="4" ec="#000000" /><pen id="81" sz="100" fc="#E8D883" fo="139" bo="0" et="3" ec="#000000" /><pen id="82" sz="100" fc="#E8D883" fo="134" bo="0" et="4" ec="#000000" /><pen id="83" sz="100" fc="#E8D883" fo="134" bo="0" et="3" ec="#000000" /><pen id="84" sz="100" fc="#E8D883" fo="130" bo="0" et="4" ec="#000000" /><pen id="85" sz="100" fc="#E8D883" fo="130" bo="0" et="3" ec="#000000" /><pen id="86" sz="100" fc="#E8D883" fo="126" bo="0" et="4" ec="#000000" /><pen id="87" sz="100" fc="#E8D883" fo="126" bo="0" et="3" ec="#000000" /><pen id="88" sz="100" fc="#E8D883" fo="122" bo="0" et="4" ec="#000000" /><pen id="89" sz="100" fc="#E8D883" fo="122" bo="0" et="3" ec="#000000" /><pen id="90" sz="100" fc="#E8D883" fo="117" bo="0" et="4" ec="#000000" /><pen id="91" sz="100" fc="#E8D883" fo="117" bo="0" et="3" ec="#000000" /><pen id="92" sz="100" fc="#E8D883" fo="113" bo="0" et="4" ec="#000000" /><pen id="93" sz="100" fc="#E8D883" fo="113" bo="0" et="3" ec="#000000" /><pen id="94" sz="100" fc="#E8D883" fo="109" bo="0" et="4" ec="#000000" /><pen id="95" sz="100" fc="#E8D883" fo="109" bo="0" et="3" ec="#000000" /><pen id="96" sz="100" fc="#E8D883" fo="100" bo="0" et="4" ec="#000000" /><pen id="97" sz="100" fc="#E8D883" fo="100" bo="0" et="3" ec="#000000" /><pen id="98" sz="100" fc="#E8D883" fo="96" bo="0" et="4" ec="#000000" /><pen id="99" sz="100" fc="#E8D883" fo="96" bo="0" et="3" ec="#000000" /><pen id="100" sz="100" fc="#E8D883" fo="92" bo="0" et="4" ec="#000000" /><pen id="101" sz="100" fc="#E8D883" fo="92" bo="0" et="3" ec="#000000" /><pen id="102" sz="100" fc="#E8D883" fo="87" bo="0" et="4" ec="#000000" /><pen id="103" sz="100" fc="#E8D883" fo="87" bo="0" et="3" ec="#000000" /><pen id="104" sz="100" fc="#E8D883" fo="83" bo="0" et="4" ec="#000000" /><pen id="105" sz="100" fc="#E8D883" fo="83" bo="0" et="3" ec="#000000" /><pen id="106" sz="100" fc="#E8D883" fo="79" bo="0" et="4" ec="#000000" /><pen id="107" sz="100" fc="#E8D883" fo="79" bo="0" et="3" ec="#000000" /><pen id="108" sz="100" fc="#E8D883" fo="74" bo="0" et="4" ec="#000000" /><pen id="109" sz="100" fc="#E8D883" fo="74" bo="0" et="3" ec="#000000" /><pen id="110" sz="100" fc="#E8D883" fo="70" bo="0" et="4" ec="#000000" /><pen id="111" sz="100" fc="#E8D883" fo="70" bo="0" et="3" ec="#000000" /><pen id="112" sz="100" fc="#E8D883" fo="66" bo="0" et="4" ec="#000000" /><pen id="113" sz="100" fc="#E8D883" fo="66" bo="0" et="3" ec="#000000" /><pen id="114" sz="100" fc="#E8D883" fo="62" bo="0" et="4" ec="#000000" /><pen id="115" sz="100" fc="#E8D883" fo="62" bo="0" et="3" ec="#000000" /><pen id="116" sz="100" fc="#E8D883" fo="53" bo="0" et="4" ec="#000000" /><pen id="117" sz="100" fc="#E8D883" fo="53" bo="0" et="3" ec="#000000" /><pen id="118" sz="100" fc="#E8D883" fo="49" bo="0" et="4" ec="#000000" /><pen id="119" sz="100" fc="#E8D883" fo="49" bo="0" et="3" ec="#000000" /><pen id="120" sz="100" fc="#E8D883" fo="44" bo="0" et="4" ec="#000000" /><pen id="121" sz="100" fc="#E8D883" fo="44" bo="0" et="3" ec="#000000" /><pen id="122" sz="100" fc="#E8D883" fo="40" bo="0" et="4" ec="#000000" /><pen id="123" sz="100" fc="#E8D883" fo="40" bo="0" et="3" ec="#000000" /><pen id="124" sz="100" fc="#E8D883" fo="36" bo="0" et="4" ec="#000000" /><pen id="125" sz="100" fc="#E8D883" fo="36" bo="0" et="3" ec="#000000" /><pen id="126" sz="100" fc="#E8D883" fo="32" bo="0" et="4" ec="#000000" /><pen id="127" sz="100" fc="#E8D883" fo="32" bo="0" et="3" ec="#000000" /><pen id="128" sz="100" fc="#E8D883" fo="27" bo="0" et="4" ec="#000000" /><pen id="129" sz="100" fc="#E8D883" fo="27" bo="0" et="3" ec="#000000" /><pen id="130" sz="100" fc="#E8D883" fo="23" bo="0" et="4" ec="#000000" /><pen id="131" sz="100" fc="#E8D883" fo="23" bo="0" et="3" ec="#000000" /><pen id="132" sz="100" fc="#E8D883" fo="19" bo="0" et="4" ec="#000000" /><pen id="133" sz="100" fc="#E8D883" fo="19" bo="0" et="3" ec="#000000" /><pen id="134" sz="100" fc="#E8D883" fo="14" bo="0" et="4" ec="#000000" /><pen id="135" sz="100" fc="#E8D883" fo="14" bo="0" et="3" ec="#000000" /><pen id="136" sz="100" fc="#E8D883" fo="10" bo="0" et="4" ec="#000000" /><pen id="137" sz="100" fc="#E8D883" fo="10" bo="0" et="3" ec="#000000" /><pen id="138" sz="100" fc="#E8D883" fo="6" bo="0" et="4" ec="#000000" /><pen id="139" sz="100" fc="#E8D883" fo="6" bo="0" et="3" ec="#000000" /><pen id="140" sz="100" fc="#E8D883" fo="2" bo="0" et="4" ec="#000000" /><pen id="141" sz="100" fc="#E8D883" fo="2" bo="0" et="3" ec="#000000" /></head><body><p t="16734" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="16734" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="16800" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="16800" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="16867" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="16867" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="16934" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="16934" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="17001" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="17001" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="17067" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="17067" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="17134" d="5439" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="17134" d="5439" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22573" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22573" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22639" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22639" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22706" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22706" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22773" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22773" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22840" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22840" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22906" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="22906" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="25075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="2">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="3">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25142" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="4">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25142" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="5">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25209" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="6">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25209" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="7">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="8">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="9">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25342" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="10">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25342" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="11">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="12">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="13">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25476" d="7207" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="14">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="25476" d="7207" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="15">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32683" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="16">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32683" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="17">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32750" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="18">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32750" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="19">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32816" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="20">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32816" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="21">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32883" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="22">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32883" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="23">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32950" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="24">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="32950" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="25">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="33017" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="26">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="33017" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="27">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="33350" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33350" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33417" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33417" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33484" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33484" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33550" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33550" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33617" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33617" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33684" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33684" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33751" d="5405" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="33751" d="5405" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39156" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39156" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39223" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39223" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39289" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39289" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39356" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39356" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39423" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39423" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39490" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="39490" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="41592" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="2">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41592" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="3">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="4">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41658" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="5">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41725" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="6">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41725" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="7">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41792" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="8">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41792" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="9">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41859" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="10">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41859" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="11">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41925" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="12">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41925" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="13">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41992" d="6240" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="14">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="41992" d="6240" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="15">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48232" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="16">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48232" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="17">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48298" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="18">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48298" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="19">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="20">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48365" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="21">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48432" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="22">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48432" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="23">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48499" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="24">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48499" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="25">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48565" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="26">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="48565" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="27">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="54705" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="2">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54705" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="3">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54772" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="4">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54772" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="5">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="6">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54838" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="7">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54905" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="8">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54905" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="9">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54972" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="10">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="54972" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="11">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="55039" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="12">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="55039" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="13">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="55105" d="2836" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="14">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="55105" d="2836" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="15">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="57941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="16">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="57941" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="17">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="18">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58008" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="19">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="20">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="21">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58142" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="22">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58142" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="23">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="24">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="25">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="26">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​在寓言中學到​ ​</s><s p="1">​
+​</s><s p="27">​ ​Learned it in a parable​ ​</s><s p="1">​</s></p><p t="58809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="2">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="58809" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="3">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="58876" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="4">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="58876" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="5">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="58942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="6">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="58942" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="7">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="8">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59009" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="9">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="10">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59076" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="11">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59143" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="12">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59143" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="13">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59209" d="2570" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="14">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="59209" d="2570" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="15">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61779" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="16">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61779" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="17">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61845" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="18">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61845" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="19">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61912" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="20">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61912" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="21">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61979" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="22">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="61979" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="23">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="62046" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="24">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="62046" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="25">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="62112" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="26">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="62112" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​在歌謠中聽到​ ​</s><s p="1">​
+​</s><s p="27">​ ​Found it in a lullaby​ ​</s><s p="1">​</s></p><p t="62913" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="2">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="62913" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="3">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="62980" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="4">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="62980" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="5">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63047" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="6">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63047" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="7">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63113" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="8">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63113" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="9">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63180" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="10">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63180" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="11">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63247" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="12">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63247" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="13">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63313" d="2536" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="14">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="63313" d="2536" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="15">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="65849" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="16">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="65849" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="17">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="65916" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="18">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="65916" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="19">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="65983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="20">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="65983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="21">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="66050" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="22">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="66050" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="23">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="66116" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="24">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="66116" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="25">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="66183" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="26">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="66183" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​曾經有人提過它​ ​</s><s p="1">​
+​</s><s p="27">​ ​Someone said it long ago​ ​</s><s p="1">​</s></p><p t="67084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="2">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67084" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="3">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67151" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="4">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67151" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="5">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67217" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="6">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67217" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="7">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="8">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="9">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="10">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="11">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="12">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="13">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67484" d="2503" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="14">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="67484" d="2503" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="15">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="69987" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="16">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="69987" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="17">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70054" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="18">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70054" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="19">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70120" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="20">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70120" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="21">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70187" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="22">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70187" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="23">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70254" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="24">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70254" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="25">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70320" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="26">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="70320" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​夜裡你也想過它​ ​</s><s p="1">​
+​</s><s p="27">​ ​Dreamed it on a sleepless night​ ​</s><s p="1">​</s></p><p t="71255" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="2">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71255" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="3">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71321" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="4">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71321" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="5">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71388" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="6">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71388" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="7">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71455" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="8">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71455" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="9">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71522" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="10">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71522" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="11">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71588" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="12">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71588" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="13">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71655" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="14">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="71655" d="2269" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="15">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="73924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="16">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="73924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="17">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="73991" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="18">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="73991" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="19">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74058" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="20">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74058" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="21">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74124" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="22">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74124" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="23">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74191" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="24">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74191" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="25">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74258" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="26">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="74258" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​你能聽到那聲音​ ​</s><s p="1">​
+​</s><s p="27">​ ​You can hear it whispering​ ​</s><s p="1">​</s></p><p t="75459" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="2">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75459" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="3">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75526" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="4">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75526" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="5">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75592" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="6">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75592" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="7">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75659" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="8">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75659" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="9">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75726" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="10">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75726" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="11">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75793" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="12">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75793" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="13">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75859" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="14">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="75859" d="2436" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="15">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78295" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="16">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78295" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="17">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78362" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="18">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78362" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="19">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78429" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="20">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78429" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="21">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78495" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="22">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78495" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="23">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78562" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="24">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78562" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="25">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78629" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="26">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78629" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​前提是你要聆聽​ ​</s><s p="1">​
+​</s><s p="27">​ ​only if you're listening​ ​</s><s p="1">​</s></p><p t="78695" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="2">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78695" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="3">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78762" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="4">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78762" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="5">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78829" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="6">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78829" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="7">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78896" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="8">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78896" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="9">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78962" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="10">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="78962" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="11">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="79029" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="12">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="79029" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="13">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="79096" d="7240" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="14">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="79096" d="7240" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="15">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86336" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="16">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86336" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="17">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86403" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="18">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86403" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="19">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86470" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="20">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86470" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="21">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86537" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="22">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86537" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="23">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86603" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="24">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86603" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="25">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86670" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="26">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="86670" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​在你美好的回憶裡​ ​</s><s p="1">​
+​</s><s p="27">​ ​Searching all your favored memories​ ​</s><s p="1">​</s></p><p t="87104" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87104" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87171" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87171" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87237" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87237" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87304" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87304" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87371" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87438" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87438" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87504" d="5005" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="87504" d="5005" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92509" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92509" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92576" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92576" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92643" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92643" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92709" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92709" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92776" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92776" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92843" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="92843" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="95446" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="2">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95446" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="3">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95512" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="4">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95512" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="5">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95579" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="6">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95579" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="7">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95646" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="8">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95646" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="9">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95712" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="10">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95712" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="11">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95779" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="12">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95779" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="13">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95846" d="7007" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="14">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="95846" d="7007" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="15">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="102853" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="16">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="102853" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="17">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="102920" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="18">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="102920" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="19">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="102986" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="20">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="102986" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="21">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="103053" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="22">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="103053" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="23">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="103120" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="24">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="103120" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="25">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="103187" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="26">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="103187" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="27">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="103687" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103687" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103821" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103821" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103954" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="103954" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="104021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="104021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="104088" d="5105" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="104088" d="5105" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109193" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109193" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109259" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109259" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109326" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109326" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109393" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109393" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109460" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109460" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109526" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="109526" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="111962" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="2">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="111962" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="3">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112029" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="4">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112029" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="5">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112096" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="6">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112096" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="7">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112162" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="8">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112162" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="9">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112229" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="10">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112229" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="11">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112296" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="12">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112296" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="13">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112362" d="6140" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="14">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="112362" d="6140" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="15">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118502" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="16">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118502" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="17">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118569" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="18">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118569" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="19">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118635" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="20">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118635" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="21">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118702" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="22">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118702" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="23">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118769" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="24">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118769" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="25">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118836" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="26">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="118836" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="27">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="125075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="2">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="3">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125142" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="4">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125142" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="5">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125209" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="6">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125209" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="7">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="8">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="9">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125342" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="10">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125342" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="11">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="12">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125409" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="13">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125476" d="3069" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="14">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="125476" d="3069" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="15">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="16">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128545" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="17">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="18">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128612" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="19">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128679" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="20">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128679" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="21">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128745" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="22">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128745" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="23">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="24">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="25">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="26">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="128879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​爬過山坡到那裡​ ​</s><s p="1">​
+​</s><s p="27">​ ​Far beyond the mountainside​ ​</s><s p="1">​</s></p><p t="129179" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="2">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129179" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="3">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129246" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="4">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129246" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="5">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129313" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="6">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129313" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="7">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129379" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="8">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129379" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="9">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129446" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="10">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129446" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="11">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129513" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="12">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129513" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="13">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129580" d="3136" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="14">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="129580" d="3136" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="15">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132716" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="16">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132716" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="17">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132783" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="18">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132783" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="19">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132850" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="20">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132850" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="21">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132916" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="22">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132916" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="23">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="24">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="132983" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="25">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="133050" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="26">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="133050" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​自己親眼看一次​ ​</s><s p="1">​
+​</s><s p="27">​ ​Take a gander of your own​ ​</s><s p="1">​</s></p><p t="133217" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="2">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133217" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="3">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133283" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="4">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133283" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="5">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133350" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="6">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133350" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="7">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133417" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="8">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133417" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="9">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133484" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="10">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133484" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="11">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133550" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="12">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133550" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="13">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133617" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="14">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="133617" d="3270" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="15">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="136887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="16">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="136887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="17">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="136954" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="18">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="136954" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="19">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="20">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="21">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137087" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="22">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137087" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="23">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137154" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="24">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137154" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="25">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137221" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="26">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137221" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​再靠近點河中心​ ​</s><s p="1">​
+​</s><s p="27">​ ​Nearer to the river's eyes​ ​</s><s p="1">​</s></p><p t="137488" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="2">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137488" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="3">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137554" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="4">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137554" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="5">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137621" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="6">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137621" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="7">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137688" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="8">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137688" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="9">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="10">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="11">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137821" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="12">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137821" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="13">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137888" d="2970" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="14">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="137888" d="2970" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="15">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="140858" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="16">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="140858" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="17">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="140924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="18">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="140924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="19">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="140991" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="20">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="140991" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="21">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="141058" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="22">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="141058" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="23">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="141125" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="24">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="141125" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="25">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="141191" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="26">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="141191" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​場景就已如此美​ ​</s><s p="1">​
+​</s><s p="27">​ ​Beauty in the scene alone​ ​</s><s p="1">​</s></p><p t="141625" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="2">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141625" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="3">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141692" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="4">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141692" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="5">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="6">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="7">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="8">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="9">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141892" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="10">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141892" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="11">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141959" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="12">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="141959" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="13">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="142025" d="3037" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="14">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="142025" d="3037" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="15">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145062" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="16">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145062" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="17">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145129" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="18">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145129" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="19">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="20">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145195" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="21">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145262" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="22">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145262" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="23">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145329" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="24">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145329" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="25">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="26">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145395" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​我會在那好好等​ ​</s><s p="1">​
+​</s><s p="27">​ ​I'll be waiting reverently​ ​</s><s p="1">​</s></p><p t="145829" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="2">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="145829" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="3">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="145896" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="4">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="145896" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="5">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="145963" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="6">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="145963" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="7">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146029" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="8">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146029" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="9">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146096" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="10">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146096" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="11">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146163" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="12">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146163" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="13">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146230" d="2502" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="14">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="146230" d="2502" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="15">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148732" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="16">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148732" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="17">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="18">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148799" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="19">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148866" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="20">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148866" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="21">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="22">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148932" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="23">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="24">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="148999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="25">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="149066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="26">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="149066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​就在蘋果樹之下​ ​</s><s p="1">​
+​</s><s p="27">​ ​Underneath the apple tree​ ​</s><s p="1">​</s></p><p t="149133" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="2">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149133" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="3">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="4">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149199" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="5">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="6">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="7">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149333" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="8">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149333" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="9">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149399" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="10">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149399" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="11">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149466" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="12">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149466" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="13">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149533" d="7307" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="14">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="149533" d="7307" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="15">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="156840" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="16">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="156840" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="17">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="156907" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="18">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="156907" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="19">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="156974" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="20">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="156974" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="21">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="157040" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="22">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="157040" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="23">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="157107" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="24">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="157107" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="25">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="157174" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="26">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="157174" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​深思著大家的使命​ ​</s><s p="1">​
+​</s><s p="27">​ ​Pondering on what we're all to be​ ​</s><s p="1">​</s></p><p t="158075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158075" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158142" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158142" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158208" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158275" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158342" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158342" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158408" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158475" d="4471" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="158475" d="4471" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="162946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="162946" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163013" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163013" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163080" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163080" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163147" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163147" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163213" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163213" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163280" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="163280" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​同時具備無辜和明白，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Innocence and clarity in one,​ ​</s><s p="1">​</s></p><p t="166416" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="2">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166416" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="3">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166483" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="4">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166483" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="5">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166550" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="6">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166550" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="7">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166617" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="8">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166617" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="9">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166683" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="10">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166683" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="11">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166750" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="12">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166750" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="13">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166817" d="6907" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="14">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="166817" d="6907" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="15">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173724" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="16">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173724" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="17">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="18">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173790" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="19">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173857" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="20">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173857" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="21">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="22">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173924" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="23">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173991" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="24">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="173991" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="25">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="174057" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="26">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="174057" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​這份純真僅僅是少數​ ​</s><s p="1">​
+​</s><s p="27">​ ​purity is only found in some​ ​</s><s p="1">​</s></p><p t="174558" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="2">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174558" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="3">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174625" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="4">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174625" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="5">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174691" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="6">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174691" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="7">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="8">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174758" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="9">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="10">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174825" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="11">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174892" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="12">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174892" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="13">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174958" d="5206" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="14">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="174958" d="5206" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="15">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180164" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="16">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180164" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="17">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180230" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="18">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180230" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="19">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180297" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="20">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180297" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="21">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180364" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="22">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180364" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="23">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180430" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="24">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180430" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="25">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180497" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="26">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="180497" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​不曉得所謂口蜜腹劍，​ ​</s><s p="1">​
+​</s><s p="27">​ ​Lack of words in trickery or harm,​ ​</s><s p="1">​</s></p><p t="182866" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="2">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="182866" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="3">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="182933" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="4">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="182933" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="5">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183000" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="6">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183000" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="7">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="8">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="9">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183133" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="10">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183133" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="11">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183200" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="12">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183200" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="13">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183267" d="6206" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="14">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="183267" d="6206" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="15">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="16">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189473" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="17">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189540" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="18">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189540" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="19">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189606" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="20">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189606" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="21">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189673" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="22">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189673" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="23">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189740" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="24">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189740" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="25">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189806" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="26">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="189806" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="27">​ ​only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="215999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="2">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="215999" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="3">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="4">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216066" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="5">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216133" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="6">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216133" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="7">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216200" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="8">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216200" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="9">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="10">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216266" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="11">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="12">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216333" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="13">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216400" d="7974" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="14">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="216400" d="7974" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="15">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224374" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="16">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="16">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224374" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="17">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="17">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224441" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="18">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="18">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224441" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="19">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="19">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224508" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="20">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="20">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224508" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="21">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="21">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224575" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="22">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="22">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224575" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="23">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="23">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224641" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="24">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="24">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224641" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="25">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="25">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224708" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="26">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="26">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="224708" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="27">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="27">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228679" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="2">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="2">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228679" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="3">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="3">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228745" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="4">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228745" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="5">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="6">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228812" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="7">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="8">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="8">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228879" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="9">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="9">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228946" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="10">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="10">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="228946" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="11">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="11">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="229012" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="12">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="12">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="229012" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="13">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="13">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="229079" d="5139" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="14">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="229079" d="5139" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="15">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234218" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="14">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="14">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234218" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="15">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="15">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="28">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="28">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234284" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="29">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="29">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="30">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="30">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234351" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="31">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="31">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="32">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="32">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234418" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="33">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="33">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234484" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="34">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="34">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234484" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="35">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="35">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234551" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="36">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="36">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234551" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="37">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="37">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234618" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="38">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="38">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234618" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="39">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="39">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234685" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="40">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="40">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234685" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="41">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="41">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234751" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="42">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="42">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234751" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="43">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="43">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234818" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="44">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="44">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234818" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="45">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="45">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234885" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="46">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="46">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234885" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="47">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="47">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234952" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="48">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="48">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="234952" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="49">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="49">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235018" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="50">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="50">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235018" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="51">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="51">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235085" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="52">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="52">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235085" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="53">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="53">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="54">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="54">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235152" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="55">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="55">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235219" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="56">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="56">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235219" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="57">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="57">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235285" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="58">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="58">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235285" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="59">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="59">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="60">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="60">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235352" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="61">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="61">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235419" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="62">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="62">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235419" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="63">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="63">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235485" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="64">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="64">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235485" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="65">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="65">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235552" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="66">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="66">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235552" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="67">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="67">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235619" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="68">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="68">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235619" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="69">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="69">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235686" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="70">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="70">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235686" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="71">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="71">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="72">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="72">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235752" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="73">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="73">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="74">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="74">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235819" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="75">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="75">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235886" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="76">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="76">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235886" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="77">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="77">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235953" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="78">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="78">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="235953" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="79">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="79">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236019" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="80">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="80">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236019" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="81">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="81">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236086" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="82">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="82">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236086" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="83">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="83">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236153" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="84">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="84">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236153" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="85">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="85">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236220" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="86">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="86">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236220" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="87">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="87">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236286" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="88">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="88">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236286" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="89">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="89">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236353" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="90">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="90">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236353" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="91">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="91">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236420" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="92">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="92">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236420" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="93">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="93">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="94">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="94">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236486" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="95">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="95">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236553" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="6">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="6">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236553" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="7">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="7">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236620" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="96">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="96">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236620" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="97">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="97">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236687" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="98">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="98">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236687" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="99">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="99">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236753" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="100">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="100">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236753" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="101">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="101">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236820" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="102">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="102">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236820" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="103">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="103">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="104">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="104">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236887" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="105">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="105">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236954" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="106">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="106">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="236954" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="107">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="107">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="108">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="108">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237020" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="109">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="109">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237087" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="110">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="110">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237087" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="111">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="111">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237154" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="112">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="112">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237154" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="113">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="113">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237221" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="114">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="114">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237221" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="115">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="115">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237287" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="4">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="4">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237287" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="5">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="5">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237354" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="116">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="116">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237354" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="117">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="117">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237421" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="118">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="118">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237421" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="119">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="119">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237487" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="120">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="120">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237487" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="121">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="121">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237554" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="122">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="122">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237554" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="123">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="123">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237621" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="124">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="124">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237621" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="125">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="125">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237688" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="126">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="126">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237688" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="127">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="127">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="128">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="128">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237754" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="129">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="129">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237821" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="130">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="130">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237821" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="131">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="131">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237888" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="132">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="132">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237888" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="133">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="133">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237955" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="134">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="134">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="237955" d="66" wp="1" ws="1"><s p="1">​</s>​<s p="135">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="135">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="238021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="136">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="136">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="238021" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="137">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="137">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="238088" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="138">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="138">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="238088" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="139">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="139">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="238155" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="140">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="140">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p><p t="238155" d="67" wp="1" ws="1"><s p="1">​</s>​<s p="141">​ ​僅能在心的底部發現​ ​</s><s p="1">​
+​</s><s p="141">​ ​Only from the bottom of the heart​ ​</s><s p="1">​</s></p></body></timedtext>
