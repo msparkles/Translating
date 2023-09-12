@@ -1,5 +1,1 @@
-# Translating
-
-[View the project](https://mg138.github.io/Translating/)
-
-[Our website](https://mouse.lgbt)
+# This repo has moved to https://madeline.codeberg.page/translating/
